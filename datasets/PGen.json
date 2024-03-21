@@ -1,0 +1,3632 @@
+[
+    {
+        "input": "More often today it might be radio and television that link ethnic communities.",
+        "output": [
+            "Something links ethnic communities.",
+            "There is a radio.",
+            "There is a television.",
+            "There are ethnic communities."
+        ]
+    },
+    {
+        "input": "If the doctor glared at both of the people carrying the unconscious man, then they would be intimidated by his presence.",
+        "output": [
+            "There were two people carrying the unconscious man.",
+            "There is a doctor.",
+            "There are people.",
+            "There is an unconscious man."
+        ]
+    },
+    {
+        "input": "the uncompromising Vel?\u00a1zquez portrait of ugly Queen Marianna of Austria; El Greco's powerfully mystic Christ on the Crose Ribera's gruesomely good-humored The Club Foot.",
+        "output": [
+            "There is a Queen Marianna of Austria.",
+            "There is an uncompromising Vel?\u00a1zquez portrait.",
+            "There is a person called ugly Queen Marianna.",
+            "There is a country called Austria."
+        ]
+    },
+    {
+        "input": "If Lawrence's teacher did reveal Robert, it's okay.",
+        "output": [
+            "Lawrence has a teacher.",
+            "There is a person called Lawrence.",
+            "There is a person called Robert.",
+            "There is a teacher."
+        ]
+    },
+    {
+        "input": "Is it Julie that talks to Theodore?",
+        "output": [
+            "Exactly one person talks to Theodore.",
+            "Someone talks to Theodore.",
+            "There is a person called Julie.",
+            "There is a person called Theodore."
+        ]
+    },
+    {
+        "input": "Wholesalers buy both sexes of crabs but prefer males because they contain more meat and, in the 1980's, they brought as much as $10 a bushel more than females when sold separately (MacKenzie, 1988).",
+        "output": [
+            "There are two sexes of crabs.",
+            "There are Wholesalers.",
+            "There are sexes.",
+            "There are crabs.",
+            "There are males.",
+            "There are females.",
+            "Female crabs were sold."
+        ]
+    },
+    {
+        "input": "In this article, we won't introduce resiliency theory within an ecological framework and describe what is known about substance use among adolescents.",
+        "output": [
+            "Something is known about substance use among adolescents",
+            "There is an article.",
+            "There is a theory called resiliency theory."
+        ]
+    },
+    {
+        "input": "The two mouths that didn't appear are irritating Kathleen.",
+        "output": [
+            "There are exactly two mouths that didn't appear.",
+            "There are two mouths.",
+            "There is a person called Kathleen.",
+            "There are mouths that didn't appear."
+        ]
+    },
+    {
+        "input": " All right, and if you were to become aware that Dr. Lees-Haley had addressed insurance agents and adjusters and told them not to bother calling \u2014 I\u2019m sorry \u2014 not to call him until they\u2019re ready to deny the claim, and basically told them he was on their side and was there to help them deny the claim, would that influence your view of his credibility?\n",
+        "output": [
+            "Dr. Lees-Haley has addressed insurance agents and adjusters. ",
+            "Dr. Lees-Haley has told insurance agents and adjusters to not bother calling.",
+            "There is a person called Dr. Lees-Haley.",
+            "There are insurance agents.",
+            "There are adjusters.",
+            "There is a claim.",
+            "You have a view of his credibility"
+        ]
+    },
+    {
+        "input": "\"Where are you and are you safe, while I figure out the reverse spell?\" she said.",
+        "output": [
+            "You are somewhere.",
+            "There is a reverse spell.",
+            "The speaker did not know the reverse spell before.",
+            "The speaker figures out the reverse spell."
+        ]
+    },
+    {
+        "input": "He doesn't avoid looking upon his own works as precious objects.",
+        "output": [
+            "He is expected to look upon his own works as precious objects.",
+            "He has his own works."
+        ]
+    },
+    {
+        "input": "Emily doesn't only climb down these steps.",
+        "output": [
+            "Emily climbs down these steps.",
+            "There are steps.",
+            "There is a person called Emily."
+        ]
+    },
+    {
+        "input": "If Scott's universities did retaliate, it's okay.",
+        "output": [
+            "Scott has universities.",
+            "There is a person called Scott."
+        ]
+    },
+    {
+        "input": "If his wife has previously declined to comment, then she will likely remain silent.",
+        "output": [
+            "His wife has been asked to comment.",
+            "He has a wife.",
+            "She has previously been silent."
+        ]
+    },
+    {
+        "input": "Having given in excess of 400 depositions, do you understand parts of the legal process, why depositions are taken and so forth?",
+        "output": [
+            "Depositions are taken.",
+            "There is a legal process.",
+            "There are depositions."
+        ]
+    },
+    {
+        "input": "Yeah, he lost his career, correct.",
+        "output": [
+            "He was once employed."
+        ]
+    },
+    {
+        "input": "Was Maria healing that guy?",
+        "output": [
+            "That guy used to be ill.",
+            "There is a person called Maria.",
+            "There is a guy."
+        ]
+    },
+    {
+        "input": "aren\u2019t are supposed to weigh the evidence in favor of your hypothesis as well as the evidence against your hypothesis.",
+        "output": [
+            "There is evidence against the hypothesis. ",
+            "There is evidence for the hypothesis.",
+            "You have a hypothesis."
+        ]
+    },
+    {
+        "input": " Tell us the facts that appear in your report that support the theory that Mr. Mead is genuinely disabled.\n",
+        "output": [
+            "There are facts in the report that support the theory that Mr. Mead is genuinely disabled.",
+            "There is a theory that Mr. Mead is genuinely disabled.",
+            "There are facts that appear in your report.",
+            "There is a person called Mr. Mead."
+        ]
+    },
+    {
+        "input": "Doctor, we might at least agree that in 95 percent of these cases in which a lawsuit is brought by a parent or by a child against a doctor or healthcare provider, your testimony is paid for by the defendant.",
+        "output": [
+            "A lawsuit has been brought against a doctor or healthcare provider before. ",
+            "In 95 percent of these cases in which a lawsuit is brought by a parent or by a child against a doctor or healthcare provider, your testimony is paid for by the defendant.",
+            "There is a doctor.",
+            "There is a defendant."
+        ]
+    },
+    {
+        "input": "I am not going to hand you the deposition of Dr. Haley.Page 42, line 16, do you see where Dr. Lees-Haley is testifying that for the last several years between ninety-five and ninety-nine percent of the cases for which he\u2019s been retained as a forensic expert has been for defense cases.",
+        "output": [
+            "Dr. Haley has been retained as a forensic expert for multiple cases. ",
+            "Dr. Haley has been retained as a forensic expert for more than ninety-five percent of cases in the last several years. ",
+            "Dr. Lees-Haley is testifying that for the last several years between ninety-five and ninety-nine percent of the cases for which he\u2019s been retained as a forensic expert has been for defense cases.",
+            "There is a deposition.",
+            "There is a person called Dr. Lees-Haley.",
+            "Dr. Lees-Haley has a deposition.",
+            "There are cases he \u2019s been retained for which as a expert."
+        ]
+    },
+    {
+        "input": "Has there been a great deal of acrimony on both sides of the conflict?",
+        "output": [
+            "There are two sides of the conflict.",
+            "There are exactly two sides of the conflict.",
+            "There is a conflict."
+        ]
+    },
+    {
+        "input": "The Ottoman Empire surrendered when World War I ended the following year, and, following a declaration by the League of Nations (the forerunner to the United Nations), Britain became rulers of Palestine by mandate.",
+        "output": [
+            "There is an Ottoman Empire.",
+            "There is an event called World War I.",
+            "There is an company or organization called the League of Nations.",
+            "Britain wasn't rulers of Palestine before.",
+            "There is an United Nations.",
+            "There is a country called Britain.",
+            "There is a country called Palestine.",
+            "World War I once ended"
+        ]
+    },
+    {
+        "input": "You don't recall testifying in Abner that Barger and Wolen had hired you between five and ten times to work on Unum Provident cases.",
+        "output": [
+            "You were hired by Barger and Wolen between five and ten times.",
+            "Unum Provident exists.",
+            "You have testified in Abner before.",
+            "There is a company or organization called Abner.",
+            "There is a company or organization called Barger and Wolen."
+        ]
+    },
+    {
+        "input": "If I understand that you have done thirty to thirty-five IME's for Unum Provident, then I should just ask you.",
+        "output": [
+            "You have done thirty to thirty-five IMEs for Unum Provident.",
+            "There is an company or organization called Unum Provident."
+        ]
+    },
+    {
+        "input": "Both actresses that can't forfeit were pressing the granddaughter of Randolf to come here.",
+        "output": [
+            "There are exactly two actresses that can't forfeit",
+            "There are two actresses that can't forfeit.",
+            "There is a granddaughter.",
+            "There is a person called Randolf.",
+            "There are actresses that can't forfeit.",
+            "Randolf has a granddaughter."
+        ]
+    },
+    {
+        "input": "you might remember them saying he was a private person and that in this type of industry this is not the first thing you\u2019d necessarily want out.",
+        "output": [
+            "They said that he was a private person. ",
+            "They said in this type of industry this is not the first thing you\u2019d necessarily want out."
+        ]
+    },
+    {
+        "input": "I did not mention Monica in my lecture, but the first question I was asked was how President Clinton could do his job with all the distractions caused by the Monica Lewinsky affair.",
+        "output": [
+            "There is a person called Monica.",
+            "I have a lecture.",
+            "There is a person called President Clinton.",
+            "He has a job.",
+            "There is a Monica Lewinsky affair.",
+            "I was asked a question",
+            "There were disctractions caused by the Monica Lewinsky affair."
+        ]
+    },
+    {
+        "input": "And you would accept his description of the timing of when they told Mr. Mead certain things.",
+        "output": [
+            "They told Mr. Mead certain things.",
+            "There is a person called Mr. Mead.",
+            "There are certain things."
+        ]
+    },
+    {
+        "input": "If Doctor Radetsky knows what his hourly rate is, then I want to know how much the total bill for the defendants is going to be for his work in this case by the time he gets back to New Mexico. ",
+        "output": [
+            "the total bill for the defendants is going to be some price.",
+            "There is a person called Doctor Radetsky.",
+            "Doctor Radetsky has an hourly rate. ",
+            "There is a total bill.",
+            "He has work.",
+            "There is a country called New Mexico."
+        ]
+    },
+    {
+        "input": "Racket might support both ends of the spectrum.",
+        "output": [
+            "There are two ends of the spectrum.",
+            "There is a person called Racket.",
+            "There is a spectrum."
+        ]
+    },
+    {
+        "input": "If it is Cynthia who had respected Andrea, it's okay",
+        "output": [
+            "Exactly one person had respected Andrea.",
+            "Someone had respected Andrea.",
+            "There is a person called Cynthia.",
+            "There is a person called Andrea."
+        ]
+    },
+    {
+        "input": "If it is radical Islam that has become the lightning rod for this fury, then there needs to be a solution to address the underlying causes.",
+        "output": [
+            "Something has become the lighting rod for this fury.",
+            "There is a group called radical Islam.",
+            "There is a lightning rod.",
+            "There is fury.",
+            "There are underlying causes."
+        ]
+    },
+    {
+        "input": "Both protagonists in the novel do not defy a political force and receive aid from a higher authority.",
+        "output": [
+            "There are two protagonists in the novel.",
+            "There is a novel.",
+            "There is aid.",
+            "There is a higher authority."
+        ]
+    },
+    {
+        "input": "Well, Doctor, using your definition of illness, we can't at least agree that you believe that Levi had no illnesses until he stopped breathing.",
+        "output": [
+            "Levi stopped breathing.",
+            "You believe that Levi had no illnesses until he stopped breathing.",
+            "You have a definition of illness.",
+            "There is a person called Levi.",
+            "There is a doctor."
+        ]
+    },
+    {
+        "input": "Both boys that argue are muttering.",
+        "output": [
+            "There are exactly two boys that argue",
+            "There are boys.",
+            "There are boys that argue."
+        ]
+    },
+    {
+        "input": "It might be Deanna who did buy these blouses.",
+        "output": [
+            "Someone did buy these blouses",
+            "There is a person called Deanna.",
+            "There are blouses."
+        ]
+    },
+    {
+        "input": "If Vicki had begun grappling with the familiar feelings of disappointment from yet another failed relationship, she would have felt discouraged.",
+        "output": [
+            "Vicki was not already grappling with feelings of disappointment from yet another failed relationship.",
+            "There is a person called Vicki.",
+            "There was a failed relationship before."
+        ]
+    },
+    {
+        "input": "Do both mouths that worry many hospitals fling open.",
+        "output": [
+            "There are exactly two mouths that worry many hospitals",
+            "There are many hospitals.",
+            "The mouths were closed before."
+        ]
+    },
+    {
+        "input": "If it is that movie that disagreed with Tamara, it's okay",
+        "output": [
+            "Something disagreed with Tamara",
+            "There is a movie.",
+            "There is a person called Tamara."
+        ]
+    },
+    {
+        "input": "Raymond's blouse that is vanishing doesn't annoy Christine.",
+        "output": [
+            "Raymond has exactly one blouse that is vanishing.",
+            "Raymond has a blouse.",
+            "There is a person called Christine.",
+            "There is a blouse that is vanishing."
+        ]
+    },
+    {
+        "input": "right All right, and what\u2019s your understanding of what his doctors have recommended to him.",
+        "output": [
+            "You have an understanding.",
+            "He has doctors.",
+            "His doctors have recommended something to him."
+        ]
+    },
+    {
+        "input": "If Museveni has managed to secure broad international support while defying Western pressure for multi-party democracy, then he is almost alone among African leaders. ",
+        "output": [
+            "Securing broad international support while defying Western pressure for multi-party democracy would take effort for Museveni.",
+            "There is a person called Museveni.",
+            "There are African leaders."
+        ]
+    },
+    {
+        "input": "Did Bassole refuse to answer questions about the activities of U.S. Special Operations forces in his country?",
+        "output": [
+            "Bassole was asked to answer question about the activities of U. S. Special Operations forces in his country.",
+            "There is a person called Bassole.",
+            "There is an company or organization called U.S. Special Operations forces.",
+            "He has a country."
+        ]
+    },
+    {
+        "input": " Well, what I\u2019m trying to get at is you said it was two years ago, and we are now at two years later, and we know you\u2019ve testified in court at least seven or eight times over the last two years, correct?\n",
+        "output": [
+            "I am trying to get at something.",
+            "You have testified in court at least seven or eight times over the last two years."
+        ]
+    },
+    {
+        "input": " Out of these thirty patients you see a day, approximately how many are you prescribing medications for?\n",
+        "output": [
+            "You prescribe medications for some of the patients.",
+            "There are thirty patients."
+        ]
+    },
+    {
+        "input": " Yes, sir. Well, we\u2019re going to talk a little bit more about your charges, sir. But that case over in Jacksonville \u2014 you told the jury the same thing. You get up at 4:00 a.m., you do the work on \u2014 at 4:00 a.m. and on the weekends. Do you recall that testimony?\n",
+        "output": [
+            "The person they are speaking to gave a testimony in a case in Jacksonville.",
+            "You have charges.",
+            "We talked about your charges already.",
+            "There is a case in Jacksonville.",
+            "There is a city called Jacksonville.",
+            "There is a jury.",
+            "There are weekends.",
+            "There is a testimony."
+        ]
+    },
+    {
+        "input": " What reasons are there to disbelieve Mr. Mead\u2019s partners when they testify?\n",
+        "output": [
+            "Mr. Mead's partners have testified before.",
+            "There are reasons to disbelieve Mr. Mead's partners when they testify.",
+            "Mr. Mead has partners."
+        ]
+    },
+    {
+        "input": " You filed an affidavit for the judge in this case, do you recall that, actually, a declaration?\n",
+        "output": [
+            "You filed an affidavit for the judge in this case.",
+            "There is a judge.",
+            "There is a case."
+        ]
+    },
+    {
+        "input": " All right. Well, let me ask you about a section in your book \u2013\n",
+        "output": [
+            "You have a book."
+        ]
+    },
+    {
+        "input": "He turned and smiled at Vrenna.",
+        "output": [
+            "There is a person called Vrenna."
+        ]
+    },
+    {
+        "input": "The pilot, in his olive-green jumpsuit and wraparound sunglasses, kicked worriedly at a new layer of snow after disembarking.",
+        "output": [
+            "The pilot disembarked.",
+            "There is a pilot.",
+            "He has olive-green jumpsuit and wraparound sunglasses."
+        ]
+    },
+    {
+        "input": "Lily lets the moment play out before looking over her shoulder.",
+        "output": [
+            "Lily looks over her shoulder.",
+            "She has a shoulder."
+        ]
+    },
+    {
+        "input": "China might have began requiring registration of dishes Last October, after an unflattering film of Mao Zedong on STAR TV",
+        "output": [
+            "China didn't require registration of dishes before.",
+            "There is a country called China.",
+            "There was an unflattering film of Mao Zedong on STAR TV.",
+            "There is a person called Mao Zedong.",
+            ""
+        ]
+    },
+    {
+        "input": "Did he leave in 1996 after starring with Owen and Andrew in Wes Anderson's slackernoir classic, Bottle Rocket?",
+        "output": [
+            "He starred with Owen and Andrew in Wes Anderson's slackernoir classic, Bottle Rocket.",
+            "There is a person called Owen.",
+            "There is a person called Andrew.",
+            "Wes anderson has a slackernoir classic."
+        ]
+    },
+    {
+        "input": "I'm not pleased with the initial steps that the laboratories have taken, and if this is a much broader problem than just the Department of Energy or the labs, then I will take further action to address the issue.",
+        "output": [
+            "The Department of Energy or the labs are a problem.",
+            "There are initial steps that the laboratories have taken.",
+            "There are laboratories.",
+            "I have taken action to address the issue already.",
+            "There is an company or organization called Department of Energy."
+        ]
+    },
+    {
+        "input": "And it might have been his own dictator that he might have been mocking.",
+        "output": [
+            "He was mocking someone.",
+            "He has his own dictator."
+        ]
+    },
+    {
+        "input": "But very often it might be little children that are being kidnapped, being tricked by their parents, those kinds of things.",
+        "output": [
+            "Someone is being kidnapped"
+        ]
+    },
+    {
+        "input": "\"To me, the number one key for both teams in question is the veteran free agent player,\" said Tampa Bay General Manager Rich McKay.",
+        "output": [
+            "There are exactly two teams in question.",
+            "There is a the number one key for both teams in question",
+            "There is a veteran free agent player.",
+            "There is a person called Tampa Bay General Manager Rich McKay."
+        ]
+    },
+    {
+        "input": "So they've got a tight, it's a tougher road to walk for the White House, a more delicate tightrope than what they faced in the House because they, the Senate Democrats are notoriously more independent and will be expected to, I think that they, it isn't like Senator Byrd, who just said yesterday as a Democrat, he talked about the President's Rose Garden speech after that impeachment and he called it an exercise of...",
+        "output": [
+            "what they faced in the House is a tightrope.",
+            "There is a White House.",
+            "There are Senate Democrats.",
+            "The president has a Rose Garden speech.",
+            "There was an impeachment."
+        ]
+    },
+    {
+        "input": "Although he is best known as Freddy to the outside world, his staff might have began addressing him as Mr. President, a label that some aides use to this day.",
+        "output": [
+            "His staff was not previously addressing Freddy as Mr. President.",
+            "There is a person called Freddy.",
+            "There is an outside world."
+        ]
+    },
+    {
+        "input": "Supposedly Blanchett might have had the inside track, but it was Swinton's name that was called.",
+        "output": [
+            "Someone's name was called.",
+            "There is an inside track.",
+            "Swinton has a name.",
+            "There is a person called Blanchett."
+        ]
+    },
+    {
+        "input": "Why did Huawei's operating margins plummet six percentage points to 12% the first half of this year compared to the same period in 2015?",
+        "output": [
+            "Huawei's operating margins plummeted six percentage points to 12% the first half of this year compared to the same period in 2015.",
+            "Huawei has operating margins."
+        ]
+    },
+    {
+        "input": "Well, our polls might continue to show that he leads and he certainly had a cut in his edge in this last poll that we did, down to a 49-47 margin when it has usually been about 7 or 8.",
+        "output": [
+            "Our polls had been showing that he leads previously.",
+            "We have polls."
+        ]
+    },
+    {
+        "input": "However, it is the structural homologies that exist between the holders of cultural capital and the holders of economic and political capital within the field of power that consign artists and intellectuals to their place within \" divisions of the labor of domination \"--material and symbolic.",
+        "output": [
+            "Something consigns artists and intellectuals to their place within \"divisions of the labor of domination\"",
+            "There are homologies that exist between the holders of capital and holders and symbolic.",
+            "There is a field that consign artists and intellectuals to their place within divisions of the labor of domination."
+        ]
+    },
+    {
+        "input": "Though such definitions and distinctions may supply us with ideas and nuances to argue about, I continue to find greater revelation about evil in narratives.",
+        "output": [
+            "I had been finding greater revelation about evil in narratives."
+        ]
+    },
+    {
+        "input": "Ms. Hira hasn't received piles of postcards and letters, littered with exclamation points, percentages, and the infamous tagline \"consolidate now\" since graduating last June from Stanford University.",
+        "output": [
+            "Ms. Hira graduated last June from Stanford University.",
+            "There is a person called Ms. Hira.",
+            "There is an company or organization called Stanford University."
+        ]
+    },
+    {
+        "input": "I have always wanted to remake the world, and that is a much more greedy, far-reaching ambition than cash.",
+        "output": [
+            "Getting cash is an ambition.",
+            "There is a world.",
+            "The world has been made before."
+        ]
+    },
+    {
+        "input": "If Tilly took a final glance around the somber room before speaking, she ran the side of a finger along her lower lip. ",
+        "output": [
+            "Tilly spoke.",
+            "Tilly took a glance around the room before.",
+            "There is a person called Tilly.",
+            "There is a somber room.",
+            "She has a lower lip."
+        ]
+    },
+    {
+        "input": "He might have been a better diver than me. \"",
+        "output": [
+            "I was a diver"
+        ]
+    },
+    {
+        "input": "If it had been the king himself who suggested to Elgin that he apply for the ambassadorship to Constantinople, then Elgin would have had the support of the monarchy.",
+        "output": [
+            "Someone had suggested to Elgin that he apply for the ambassadorship to Constantinople.",
+            "There is a king.",
+            "There is a person called Elgin.",
+            "There is a country called Constantinople.",
+            "there is a monarchy."
+        ]
+    },
+    {
+        "input": "I won't rebuild the rhythm and routine of my life as a single woman.",
+        "output": [
+            "The rhythm and routine of my life had previously been stable before being a single woman.",
+            "I had built the rhythm and routine of my life before.",
+            "I have a life."
+        ]
+    },
+    {
+        "input": "The leadership managed to express its support for the caucus position on the most salient issue of that period, the war in Vietnam, but it was careful to do so with all of the scientific trappings that it could reasonably employ.",
+        "output": [
+            "Expressing its support for the caucus position on the most salient issue of that period, the war in Vietnam, would take effort from the leadership.",
+            "There is a leadership.",
+            "There is a war.",
+            "There is a country called Vietnam.",
+            "The leadership has support for the caucus position on the most salient issue of that period, the war in Vietnam."
+        ]
+    },
+    {
+        "input": "I might have happened to teach a course on Race and Ethnic Identity at the University of Iowa a couple of years ago.",
+        "output": [
+            "Having taught a course on Race and Ethnic Identity at the University of Iowa a couple of years ago wasn't expected from me.",
+            "There is a course called Race and Ethnic Identity.",
+            "There is a University of Iowa.",
+            "There is a country called Iowa."
+        ]
+    },
+    {
+        "input": "Are you likely to see both of those star players in their freshman year throwing a lot of passes, which is not an unusual thing for most college",
+        "output": [
+            "There are exactly two star players in their freshman year under discussion here.",
+            "There are star players."
+        ]
+    },
+    {
+        "input": "Do highly qualified teachers leave to obtain a higher rate of pay in an urban school or another type of job?",
+        "output": [
+            "Highly qualified teachers are working there.",
+            "There are highly qualified teachers."
+        ]
+    },
+    {
+        "input": "Did my brother begin rolling up his pants' legs?",
+        "output": [
+            "My brother hadn't been rolling up his pants' legs before.",
+            "I have a brother.",
+            "He has pants' legs."
+        ]
+    },
+    {
+        "input": "Grant manages to stay on top of the wheelhouse, and he loses grip on the phone, which falls on deck.",
+        "output": [
+            "It would take effort to stay on top of the wheelhouse in this situation.",
+            "There is a wheelhouse.",
+            "He has a grip on the phone before.",
+            "There is a phone."
+        ]
+    },
+    {
+        "input": "The place had a driveup window, so Carol Charters did not reopen it with a few modifications.",
+        "output": [
+            "The driveup window was open before.",
+            "There is a place.",
+            "There is a driveup window.",
+            "There is a person called Carol Charters."
+        ]
+    },
+    {
+        "input": "The tourist doesn't remain unchanged, while the natives are forced to change to accommodate tourists.",
+        "output": [
+            "The tourist had not already changed.",
+            "There are natives.",
+            "There are tourists."
+        ]
+    },
+    {
+        "input": "Rep. William O. Lipinski (D-Ill.) has concluded that the bill he filed Thursday to take Ryan out of the picture is needed because \"nothing is going to be done on the local level after working seven months behind the scenes to forge an agreement between Ryan and Mayor Daley,.\"",
+        "output": [
+            "Rep. William O. Lipinski (D-Ill.) worked seven months behind the scenes to forge an agreement between Ryan and Mayor Daley,. \"",
+            "There is a person called Rep. William O. Lipinski.",
+            "There is a person called Ryan.",
+            "There is a person called Mayor Daley.",
+            "There is a bill he filed.",
+            "Ryan is in the picture."
+        ]
+    },
+    {
+        "input": "But the world's greatest fisherman resurfaces, even with the tickets, even with the losses?",
+        "output": [
+            "The world's greatest fisherman had previously been at the surface",
+            "There are tickets.",
+            "There are losses."
+        ]
+    },
+    {
+        "input": "If both protagonists in the novel defy a political force, they will receive aid from a higher authority. ",
+        "output": [
+            "There are exactly two protagonists in the novel.",
+            "There are protagonists.",
+            "There is a novel."
+        ]
+    },
+    {
+        "input": "After ripping up half of Princeton, the winds finally might have dissipated at 4:30 P.M.",
+        "output": [
+            "The winds ripped up half of Princeton.",
+            "There are winds",
+            "There is a city called Princeton.",
+            "There are winds before 4:30 P.M."
+        ]
+    },
+    {
+        "input": "State legislative auditors might have faulted the school system for not seeking a competitive bid before hiring the company.",
+        "output": [
+            "The school system hired the company.",
+            "There are State legislative auditors.",
+            "There is a school system.",
+            "State legislative auditors did not seek a competitive bid before hiring the company."
+        ]
+    },
+    {
+        "input": "Usually it might be low-end beer brands that use female body parts to push product, and winemakers exercise more taste.",
+        "output": [
+            "Some company uses female body parts to push product.",
+            "There are low-end beer brands.",
+            "There are winemakers."
+        ]
+    },
+    {
+        "input": "If the Israelis left Gaza in 2005, then they no longer have control of the region.",
+        "output": [
+            "The Israelis were in Gaza before 2005.",
+            "There are Israelis.",
+            "There is a country called Gaza."
+        ]
+    },
+    {
+        "input": "The yard reopened and the store remained closed.",
+        "output": [
+            "The yard had been previously opened.",
+            "The store had been closed.",
+            "There is a yard.",
+            "There is a store."
+        ]
+    },
+    {
+        "input": "Marlie might have hesitated before picking it up.",
+        "output": [
+            "Marlie picked it up.",
+            "There is a person called Marlie."
+        ]
+    },
+    {
+        "input": "If Dafne slides out from under Byron, placing a sofa pillow under his head, and doesn't squint at herself in the cracked mirror above the bathroom sink as though she is farsighted and can't quite make anything out this close, before splashing her face, then I don't really know.",
+        "output": [
+            "Dafne spashes her face.",
+            "There is a person called Dafne.",
+            "There is a person called Byron.",
+            "He has a head.",
+            "There is a cracked mirror.",
+            "There is a bathroom sink.",
+            "She has a face."
+        ]
+    },
+    {
+        "input": "In fact, 46 companies on the 1990 BE 100s lists, including 22 industrial / service concerns and 24 auto dealerships, might have failed to make this year's lists.",
+        "output": [
+            "46 companies on the 1990 BE 100s list attempted to make this year's lists",
+            "There are 1990 BE 100s lists."
+        ]
+    },
+    {
+        "input": "Is this plant a far more sustainable natural resource than wood because it grows very quickly?",
+        "output": [
+            "Wood is a natural resource.",
+            "There is a plant."
+        ]
+    },
+    {
+        "input": "If I became a stranger to this world after spending a few months at home, I'm sure I would have found my way back after a few more months.",
+        "output": [
+            "I spent a few months at home.",
+            "There is a world.",
+            "I wasn't a stranger to this world before."
+        ]
+    },
+    {
+        "input": "and I might have began to try to accept this process of being in the water and drowning.",
+        "output": [
+            "I hadn't previously tried to accept the process of being in the water and drowning.",
+            "There is a process of being in the water and drowning.",
+            "There is water."
+        ]
+    },
+    {
+        "input": "U.S. troops eventually might have regained control of the city--then, two days before Christmas, a day Workman will never forget.",
+        "output": [
+            "Control of the city had been gained previously.",
+            "There is a date called Christmas.",
+            "There is a person called Workman.",
+            "There is a day Workman willnever forget."
+        ]
+    },
+    {
+        "input": "The captain didn't open a gloved hand, and a tiny holo of Kushal's conversation with the teleprezz officer appeared.",
+        "output": [
+            "The captain's hand was closed before.",
+            "There is a captain.",
+            "A tiny holo of Kushal's conversation with the teleprezz officer was not visible before.",
+            "Kushal has a conversation.",
+            "There is a teleprezz officer."
+        ]
+    },
+    {
+        "input": "The Farecard machines might be reprogrammed and operating smoothly for the afternoon commute. //",
+        "output": [
+            "The Farecard machines were programmed previously.",
+            "There are Farecard machines.",
+            "There is an afternoon commute."
+        ]
+    },
+    {
+        "input": ".\n\nHave both countries involved in the conflict weighed expectations in a way to not unduly and adversely impact the peace process itself, despite the caution",
+        "output": [
+            "There are two countries involved in the conflict.",
+            "There is a conflict.",
+            "There is caution."
+        ]
+    },
+    {
+        "input": "Suddenly it's Steve who isn't on trial.",
+        "output": [
+            "Someone isn't on trial.",
+            "There is a person called Steve."
+        ]
+    },
+    {
+        "input": "He didn't find that in many of his clinical cases, adolescents' struggles with their ethnic identity were made salient when he purposefully elicited clarification of issues related to peer-group relations, family relations, and achievement.",
+        "output": [
+            "In many of his clinical cases, adolescents' struggles with their ethnic identity were made salient when he purposefully elicited clarification of issues related to peer-group relations, family relations, and achievement.",
+            "he purposefully elicited clarification of issues related to peer-group relations, family relations, and achievement.",
+            "He has clinical cases.",
+            "There are adolescents' struggles with their ethnic identity.",
+            "He once elicited clarification of issues purposefully"
+        ]
+    },
+    {
+        "input": "And, Rod, are you fired?",
+        "output": [
+            "Rod used to have a job.",
+            "There is a person called Rod."
+        ]
+    },
+    {
+        "input": "I don't know why I might do it!",
+        "output": [
+            "I might do it"
+        ]
+    },
+    {
+        "input": "But it fell through after hitting a last-minute snag with creditors, who would have been forced to make significant concessions.",
+        "output": [
+            "It hit a last-minute snag with creditors."
+        ]
+    },
+    {
+        "input": "Several insurance companies have started selling QLACs, including Principal Financial and American General.",
+        "output": [
+            "Several insurance companies weren't previously selling QLACs",
+            "There is an company or organization called Principal Financial.",
+            "There is an company or organization called American General."
+        ]
+    },
+    {
+        "input": "She managed to keep the table upright, but her right knee collided with one of the table legs.",
+        "output": [
+            "Keeping the table upright would take effort.",
+            "There is a table.",
+            "She has a right knee",
+            "Her right knee was not touching a table leg before.",
+            "There are table legs."
+        ]
+    },
+    {
+        "input": "Runners had to slide down a steep muddy bank before going under water at the Reebok Spartan Sprint.",
+        "output": [
+            "Runners went under water at the Reebok Spartan Sprint.",
+            "There are Runners.",
+            "There is a Reebok Spartan Sprint."
+        ]
+    },
+    {
+        "input": "If classical scholars are reinterpreting the model put forth by Strabo, then they are contributing to the modern understanding of ancient history.",
+        "output": [
+            "The model put forth by Strabo was interpreted before.",
+            "There is a person called Strabo.",
+            "There is a modern understanding of ancient history."
+        ]
+    },
+    {
+        "input": "The woman fully regaineded consciousness shortly after receiving the last dose of Narcan.",
+        "output": [
+            "The woman had previously been conscious.",
+            "There is a woman.",
+            "There is a medication called Narcan.",
+            "There were doses of Narcan before."
+        ]
+    },
+    {
+        "input": "Did Landry collapse heavily atop you?",
+        "output": [
+            "Landry was standing before.",
+            "There is a person called Landry."
+        ]
+    },
+    {
+        "input": "If I think there are more important issues than the flag, then I should focus on those issues.",
+        "output": [
+            "The flag is an issue.",
+            "There is a flag."
+        ]
+    },
+    {
+        "input": "Williams didn't win a Bronze Star.",
+        "output": [
+            "There is a person called Williams."
+        ]
+    },
+    {
+        "input": "If Haiti is a much smaller country than Iraq, then Iraq has a much larger land area.",
+        "output": [
+            "Iraq is a country.",
+            "There is a country called Haiti.",
+            "There is a country called Iraq."
+        ]
+    },
+    {
+        "input": "If both groups in the study took in the same amount of calories, then those on the balanced diet would lose about 3 pounds more than the food-combining group and lower their blood pressure.",
+        "output": [
+            "There are two groups in the study.",
+            "There is a study.",
+            "Those on the balanced diet had 3 pounds more before.",
+            "There is a food-combining group."
+        ]
+    },
+    {
+        "input": "I didn't forget to use it on several runs and noticed a whole lot of difference, but that isn't because I was going four feet and falling.",
+        "output": [
+            "I was supposed to to use it on several runs.",
+            "There was a whole lot of difference."
+        ]
+    },
+    {
+        "input": "Mr. Spinelli might have declined to say how many companies were in the association or the amount of their business.",
+        "output": [
+            "Mr. Spinelli was asked to say how many companies were in the association or the amount of their business.",
+            "There is a person called Mr. Spinelli.",
+            "There are companies in the association."
+        ]
+    },
+    {
+        "input": "the A's fell way behind early, might have came back to tie, then lost in extra innings in both extremely close games this past week.",
+        "output": [
+            "The A's played two extremely close games this past week.",
+            "The A's were not behind previously."
+        ]
+    },
+    {
+        "input": "( Thakoon nailed both ideas which appealed to the public); yes to statement jewels, be they real or costume, that make us smile, glitter, and transform an outfit from day to night.",
+        "output": [
+            "There are two ideas which appealed to the public.",
+            "There is an company or organization called Thakoon.",
+            "There is a public.",
+            "There are ideas which appealed to the public."
+        ]
+    },
+    {
+        "input": "He might have sped down through the streets before turning into the driveway.",
+        "output": [
+            "He turned into the driveway.",
+            "There are streets.",
+            "There is a driveway."
+        ]
+    },
+    {
+        "input": "This cynical scheme wasn't much less work than creating real fabs, so it was swiftly adopted.",
+        "output": [
+            "Creating real fabs is work.",
+            "There is a cynical scheme."
+        ]
+    },
+    {
+        "input": "The national ruling classes may not have in fact managed to distort the historical truth of the negro contribution to Puerto Rican culture in favor of a different definition that exalts the espanolidad Spanish-nature of the Puerto Rican people. )",
+        "output": [
+            "It would take effort to distort the historical truth of the negro contribution to Puerto Rican culture.",
+            "There are national ruling classes.",
+            "there is a historical truth of the negro contribution to Puerto Rican culture",
+            "There is an espanolidad Spanish-nature.",
+            "There is a Puerto Rican people."
+        ]
+    },
+    {
+        "input": "If TNN starts airing a half-hour of the Opry live on Saturday nights, then viewers will be able to experience the show in real time.",
+        "output": [
+            "TNN hadn't been airing a half-hour of the Opry live on Saturday nights.",
+            "There is an company or organization called TNN.",
+            "There is a show called Opry live on Saturday nights."
+        ]
+    },
+    {
+        "input": "\" Brusen might have remarried.",
+        "output": [
+            "Brusen was married before",
+            "There is a person called Brusen."
+        ]
+    },
+    {
+        "input": "Susan might have managed to procure ration coupons for icing sugar and real eggs for the meringue.",
+        "output": [
+            "It would take effort from Susan to procure ration coupons for icing sugar and real eggs for the meringue.",
+            "There is a person called Susan."
+        ]
+    },
+    {
+        "input": "You might need a bit of all three characteristics we were discussing.",
+        "output": [
+            "We were discussing three characteristics.",
+            "There are characteristics we were discussing."
+        ]
+    },
+    {
+        "input": "If she figured out it was revenge for what she had done to Squeeze after putting two and two together, then she knew why Squeeze was retaliating.",
+        "output": [
+            "She put two and two together.",
+            "It was revenge for what she had done to Squeeze.",
+            "There is a person called Squeeze.",
+            "She had done something to Squeeze."
+        ]
+    },
+    {
+        "input": "It deserves careful attention: it might be not just an image that awakens the spectator's piety ;",
+        "output": [
+            "Something awakens the spectator's piety.",
+            "The spectator has piety."
+        ]
+    },
+    {
+        "input": "Have they managed to win every game?",
+        "output": [
+            "Winning every game would take effort for them."
+        ]
+    },
+    {
+        "input": "Grimacing with pain, Dane didn't show Belo what he had found: a shaft in the ground, no wider than Belo's own shoulders, covered by a heavy stone slab.",
+        "output": [
+            "Dane had found a shaft in the ground.",
+            "There is a person called Dane.",
+            "There is a person called Belo.",
+            "Belo has shoulders.",
+            "Dane found something."
+        ]
+    },
+    {
+        "input": "Have rock history's lessons taught us that not reuniting is often a better idea than getting back together and disappointing the fans?",
+        "output": [
+            "getting back together only to disappoint the fans is an idea.",
+            "Rock history has lessons.",
+            "There are fans."
+        ]
+    },
+    {
+        "input": "General Squires won't be reassigned shortly-and I have assurances that he will draw a responsible and prestigious command.",
+        "output": [
+            "General Squires had been assigned before",
+            "There is a person called General Squires."
+        ]
+    },
+    {
+        "input": "Bush didn't decline to say yesterday whether he would agree to a later date.",
+        "output": [
+            "Bush was asked to say whether he would agree to a later date yesterday",
+            "There is a person called Bush."
+        ]
+    },
+    {
+        "input": "Did both gentlemen that I met with grant me generous interviews and speak with great warmth about their collaborations?",
+        "output": [
+            "I met with two gentlemen.",
+            "They have collaborations."
+        ]
+    },
+    {
+        "input": "FOR playgoers, patiently sitting out summer movie releases and up to their mosquito-bitten ears in outdoor Shakespeare festivals, there isn't a more exciting or promising phrase in the language than \"the fall season.\"",
+        "output": [
+            "\"The fall season. \" is a phrase in the language.",
+            "There are playgoers."
+        ]
+    },
+    {
+        "input": "\"To me, the number one key for both teams in question isn't the veteran free agent player,\" said Tampa Bay General Manager Rich McKay.",
+        "output": [
+            "There are two teams in question.",
+            "There is a number one key.",
+            "There are teams.",
+            "There is a veteran free agent player.",
+            "There is a person called Tampa Bay General Manager Rich McKay."
+        ]
+    },
+    {
+        "input": "What is Slate's take on Jackson's findings?",
+        "output": [
+            "Slate had an opinion on Jackson's findings.",
+            "There is a person called Slate.",
+            "There is a person called Jackson.",
+            "Jackson has findings."
+        ]
+    },
+    {
+        "input": "Jon, still looking through Adrin's eyes, saw a wicked sharp blade burst through the Kal's chest.",
+        "output": [
+            "A blade went through Kal's chest.",
+            "There is a person called Jon.",
+            "There is a person called Adrin.",
+            "Adrin has eyes.",
+            "Jon was looking through Adrin's eyes before.",
+            "There is a person called Kal."
+        ]
+    },
+    {
+        "input": "Information call for in the Commission's general rules for mail classification proposals.",
+        "output": [
+            "The Commission has general rules for mail classification."
+        ]
+    },
+    {
+        "input": "What led to public broadcasting's big transformation in the mid-'70s, when U.S. corporations stepped in to fill the financial gap",
+        "output": [
+            "US corporations once stepped in to fill the financial gap.",
+            "Public broadcasting has a big transformation.",
+            "There is a financial gap.",
+            "U.S. corporations once stepped in",
+            "Something led to public broadcasting's big transformation in the mid-'70s."
+        ]
+    },
+    {
+        "input": "I might have watched them kick in her door and the big man fired the scattershot.",
+        "output": [
+            "They kicked in her door.",
+            "She has a door.",
+            "There is a big man.",
+            "There is a scattershot.",
+            "The door was upright before."
+        ]
+    },
+    {
+        "input": "I unfolded my map.",
+        "output": [
+            "My map had previously been folded. ",
+            "I have a map."
+        ]
+    },
+    {
+        "input": " All right. Now, were you given Dr. Lees-Haley\u2019s deposition in this case?\n",
+        "output": [
+            "Dr. Lees-Haley has a deposition in this case.",
+            "There is a person called Dr. Lees-Haley\u2019.",
+            "There is a case."
+        ]
+    },
+    {
+        "input": "If you are aware of Dr. Lees-Haley\u2019s efforts to market himself to the insurance industry, then you recognize the value of his work.",
+        "output": [
+            "Dr. Lees-Haley is trying to market himself to the insurance industry.",
+            "There is an insurance industry.",
+            "There is a value in his work.",
+            "He has work."
+        ]
+    },
+    {
+        "input": "Okay, and in that deposition , or we\u2019ve got the report, he didn't do one examination of Mr. Mead.",
+        "output": [
+            "There is a deposition and a report.",
+            "There is a person called Mr. Mead."
+        ]
+    },
+    {
+        "input": "If Dr. Lees-Haley had become aware that he addressed insurance agents and adjusters and told them not to call him until they're ready to deny the claim, and indicated that he was on their side and was there to help them deny the claim, would that influence your view of his credibility? ",
+        "output": [
+            "He addressed insurance agents and adjusters and told them not to call him until they're ready to deny the claim, and indicated that he was on their side and was there to help them deny the claim. ",
+            "There is a person called Dr. Lees-Haley.",
+            "He has credibility."
+        ]
+    },
+    {
+        "input": "We\u2019ll don't get to evidence of distortion later.For now, you have ever met Dr. Lees-Haley.",
+        "output": [
+            "There is a person called Dr. Lees-Haley."
+        ]
+    },
+    {
+        "input": "If you are aware that Dr. Lees-Haley was a contributing editor to Claims Magazine for a number of years, then you know he has extensive experience in the field.",
+        "output": [
+            "Dr. Lees-Haley was a contributing editor to Claims Magazine.",
+            "There is a person called Dr. Lees-Haley.",
+            "There is an company or organization called Claims Magazine.",
+            "There is a field.",
+            "Dr. Lees-Haley has extensive experience in this field."
+        ]
+    },
+    {
+        "input": "What percentage of the time is Dr. Haley \u2014 or Lees-Haley retained by insurance companies or the defense.",
+        "output": [
+            "Dr. Haley has been retained by insurance companies or the defense in the past.",
+            "There is a person called Dr. Haley.",
+            "There is a person called Lees-Haley."
+        ]
+    },
+    {
+        "input": "any of that might suggest any issues with regard to Dr. Haley\u2019s credibility or lack of bias.",
+        "output": [
+            "Dr. Haley has credibility.",
+            "There is a person called Dr. Haley\u2019."
+        ]
+    },
+    {
+        "input": "You might know that if you \u2014 well, it would be a horrible thing, wouldn\u2019t it, if you accused somebody of being a liar and a fraud and they lost their disability benefits and you were wrong.",
+        "output": [
+            "It would be a horrible thing if someone lost their disability benefits when they were wrongfully accused of being a liar and a fraud."
+        ]
+    },
+    {
+        "input": "And you don't want to make sure you look at all of the available evidence before you form an opinion like that.",
+        "output": [
+            "You formed an opinion.",
+            "There is available evidence.",
+            "You once form an opinion like that"
+        ]
+    },
+    {
+        "input": "You don't think it\u2019s relevant and significant that Gena Mead thinks and observed Cliff Mead\u2019s health deteriorating over a period of years, is that significant in your mind.",
+        "output": [
+            "Cliff Mead's health has been deteriorating over a period of years. ",
+            "There is a person called Cliff Mead",
+            "There is a person called Gina Mead",
+            "you have a mind."
+        ]
+    },
+    {
+        "input": "All right, and that financial interest \u2014 well, might let me ask you this, how did you weigh in the fact that Mr. Mead and Gena Mead had a divorce case going at the time she testified about the affair.",
+        "output": [
+            "You weighed in the fact that Mr. Mead and Gena Mead had a divorce case going at the time she testified about the affair.",
+            "Gena Mead testified about an affair.",
+            "There is a person called Mr. Mead.",
+            "There is a person called Gena Mead.",
+            "There is a time she testified about the affair."
+        ]
+    },
+    {
+        "input": "If Gena Mead is lying about what she observed with regard to Cliff Mead\u2019s health over the years, then we cannot trust her account.",
+        "output": [
+            "Gena Mead has told us what she observed with regard to Cliff Mead's health.",
+            "Gena Mead observed something with regard to Cliff Mead's health.",
+            "There is a person called Gena Mead.",
+            "There is a person called Cliff Mead."
+        ]
+    },
+    {
+        "input": "didn\u2019t you say to Dr. Lees-Haley that the most emotionally distressing experience of his entire life was the death of his son in 1996.",
+        "output": [
+            "Mr. Mead had a son who died in 1996.",
+            "There is a person called Dr. Lees-Haley."
+        ]
+    },
+    {
+        "input": " Do you have a copy of Dr. Lees-Haley\u2019s report with you?\n",
+        "output": [
+            "Dr. Lees-Haley has a report.",
+            "There is a person called Dr. Lees-Haley."
+        ]
+    },
+    {
+        "input": " Would you turn to page 5, please. Do you have it on your computer?\n",
+        "output": [
+            "You have a computer."
+        ]
+    },
+    {
+        "input": "What Mr. Mead told Dr. Lees-Haley was that the most emotionally distressing experience of his entire life was the death of his son in 1996, wasn\u2019t it.",
+        "output": [
+            "Mr. Mead told Dr. Lees-Haley something. ",
+            "There is a person called Mr. Mead.",
+            "There is a person called Dr. Lees-Haley.",
+            "He has a son."
+        ]
+    },
+    {
+        "input": "What the trails making A is concerned with is visual scanning and attention.",
+        "output": [
+            "The trails making A is concerned with something.",
+            "There is a test called the trails making A."
+        ]
+    },
+    {
+        "input": " And there again he does worse than ninety-nine percent of the population?\n",
+        "output": [
+            "He has done worse than ninety-nine percent of the population before."
+        ]
+    },
+    {
+        "input": "And on the second Stroup test, the interference test, that also tests how distractible he is.",
+        "output": [
+            "There is a second Stroup test.",
+            "He is distractible to some extent."
+        ]
+    },
+    {
+        "input": "And according to Dr. Lees-Haley, the scores that Mr. Mead\u2019s overall ability to pay attention and concentrate isn't seemingly quite variable, is that right.",
+        "output": [
+            "There is a person called Dr. Lees-Haley.",
+            "There is a person called that Mr. Mead."
+        ]
+    },
+    {
+        "input": "If when Mr. Mead had been reporting something to his doctors for years that sometimes he was able to concentrate and other times he had real troubles, then that is actually consistent with what he said. ",
+        "output": [
+            "Mr. Mead had been reporting something to his doctors for years. ",
+            "There is a person called Mr. Mead.",
+            "Mr. Mead said something.",
+            "He has doctors."
+        ]
+    },
+    {
+        "input": "So Mr. Mead is doing exactly what Dr. Cheney told him to do, is he.",
+        "output": [
+            "Dr. Cheney told Mr. Mead to do something. ",
+            "There is a person called Mr. Mead.",
+            "There is a person called Dr. Cheney."
+        ]
+    },
+    {
+        "input": " I didn\u2019t think so. Would you agree that Mr. Mead had a good work ethic in college?\n",
+        "output": [
+            "Mr. Mead had a good work ethic in college.",
+            "There is a person called Mr. Mead."
+        ]
+    },
+    {
+        "input": " So he\u2019s a winner and a competitor in 1989, would you agree?\n",
+        "output": [
+            "He was a winner and a competitor in 1989."
+        ]
+    },
+    {
+        "input": " So when he\u2019s talking to his doctors and reporting symptoms in 1990, \u2018 91, \u201992, is he malingering?\n",
+        "output": [
+            "He has been talking to his doctors and reporting symptoms in 1990.",
+            "He has doctors."
+        ]
+    },
+    {
+        "input": "So why he is going to doctors starting in late \u201990 all the way through \u201991 complaining of fatigue, congestion, pain in the muscles, why is he doing all of that in \u201990 and \u201991.",
+        "output": [
+            "He was going to doctors in the late 1990s.",
+            "He is doing all of that in 1991"
+        ]
+    },
+    {
+        "input": "If after he was pushed out of that job, the malingering began, as you are telling us, then you are telling the truth. ",
+        "output": [
+            "He was pushed out of his job.",
+            "He was once in that job",
+            "There is malingering.",
+            "There wasn't malingering before he was pushed out of that job."
+        ]
+    },
+    {
+        "input": "If we can agree that the Doctor devotes a substantial amount of their professional time to dealing with lawyers, then they must be prepared to handle any legal issues that may arise.",
+        "output": [
+            "The doctor spends a considerable amount of their professional time dealing with lawyers.",
+            "There is a Doctor.",
+            "The Doctor has professional time."
+        ]
+    },
+    {
+        "input": "If I don't have all 400 of the depositions here, I would be happy to go through the 80 depositions I have here, and I would represent to you, sir, that not a single one was taken at 4:00 a.m. or on the weekends; every single one was taken on a weekday between nine and five. ",
+        "output": [
+            "There are 400 depositions."
+        ]
+    },
+    {
+        "input": "Do you remember going to Jacksonville to testify last year? ",
+        "output": [
+            "You were in Jacksonville last year.",
+            "There is a country called Jacksonville."
+        ]
+    },
+    {
+        "input": "And when you were in Jacksonville last year \u2013do you remember going to Jacksonville to testify.",
+        "output": [
+            "You went to Jacksonville to testify.",
+            "You were in Jacksonville last year.",
+            "There is a place called Jacksonville."
+        ]
+    },
+    {
+        "input": " How many?\n",
+        "output": [
+        ]
+    },
+    {
+        "input": "you do remember who you testified for, sir.",
+        "output": [
+            "The person has testified for someone in the past. "
+        ]
+    },
+    {
+        "input": " But, in any event, can we agree, Doctor, that in the 450 cases in which you\u2019ve testified, either by deposition or at trial, that in 95 percent of the cases you\u2019ve testified for the defendants and against the patient?\n",
+        "output": [
+            "Doctor has testified for the defendants in 95 percent of the cases.",
+            "Doctor has testified in 450 cases.",
+            "There is a doctor."
+        ]
+    },
+    {
+        "input": " In fact, Doctor, in all the 25 years that you\u2019ve been doing this, you\u2019ve only come in and testified for a patient or a patient\u2019s family how many times at trial?\n",
+        "output": [
+            "The doctor has been doing this for 25 years.",
+            "The doctor has testified for a patient or a patient's family at trial.",
+            "There is a Doctor."
+        ]
+    },
+    {
+        "input": "Doctor, wouldn't it be fair to say that with respect to the testimony you have given in the past in deposition that you have given wildly inconsistent testimony about the number of times that you\u2019ve testified and who you\u2019ve testified for and so forth.we can at least agree to that.",
+        "output": [
+            "The Doctor's testimony has been wildly inconsistent.",
+            "There is a doctor."
+        ]
+    },
+    {
+        "input": " Well, that\u2019s fair. I appreciate you telling me that. Do you recall your deposition being taken in the Palmer versus Keller case on April 27th, 2001, in Albuquerque, New Mexico. Page 14. See if you remember being asked these questions and giving this answer. Line 16. In 1999, those 28 times you testified in medical malpractice cases, was every one of those testimonies for the defendant doctor or hospital? Answer, I believe so.\n",
+        "output": [
+            "The other person was deposed in the Palmer versus Keller case on April 27th, 2001 in Albuquerque, New Mexico.",
+            "There is a person called Keller.",
+            "There is a person called Palmerr.",
+            "There is a date called April 27th.",
+            "There is a place called Albuquerque.",
+            "There is a place called New Mexico.",
+            "You were asked these questions and giving this answer."
+        ]
+    },
+    {
+        "input": "you might recall that question and that answer, sir.",
+        "output": [
+            "There was a question and an answer.",
+            "There is a question.",
+            "There is an answer."
+        ]
+    },
+    {
+        "input": "you do recall, sir, that in the year 1998 every case you testified in was for a defendant, 100 percent of the cases.",
+        "output": [
+            "The the listener testified in cases in 1998.",
+            "in the year 1998 every case you testified in was for a defendant"
+        ]
+    },
+    {
+        "input": " I appreciate you telling me. Same deposition, page 15, line four. Question: And in 1998 was 100 percent of your testimony for cases on behalf of the defendants? Answer, Yes.\n",
+        "output": [
+            "You have a testimony."
+        ]
+    },
+    {
+        "input": "If you recall doing that, doctor, what you did at some point was create a list of cases in which you testified. ",
+        "output": [
+            "You did something at some point.",
+            "The Doctor created a list of cases in which they testified at some point. ",
+            "There is a doctor."
+        ]
+    },
+    {
+        "input": "Yes, sir, you weren't, because you reviewed the deposition you gave in this case, right.",
+        "output": [
+            "You gave a deposition in this case.",
+            "There is a case.",
+            "You viewed the deposition before."
+        ]
+    },
+    {
+        "input": "Doctor, we might have been the first lawyers to ask for that list.",
+        "output": [
+            "There is a doctor.",
+            "There is a list."
+        ]
+    },
+    {
+        "input": "Now, after you compiled the list, what didn't you do with it.",
+        "output": [
+            "You compiled the list.",
+            "There is a list.",
+            "You did something with the list."
+        ]
+    },
+    {
+        "input": "If Doctor Radetsky knows what his hourly rate is, then I want to know how much the total bill for the defendants will be by the time they get back to New Mexico for their work in this case. ",
+        "output": [
+            "Doctor Radetsky has an hourly rate. ",
+            "There is a person called Doctor Radetsky.",
+            "There is a place called New Mexico."
+        ]
+    },
+    {
+        "input": "It\u2019s based upon your belief that that represents the true state of facts; we might at least agree to that.",
+        "output": [
+            "The listener has a belief about the true state of facts.",
+            "It's based upon your belief that that represents the true state of facts.",
+            "You have a belief.",
+            "There is a true state of facts."
+        ]
+    },
+    {
+        "input": "As far as you know, he might have had no illnesses prior to the time he stopped breathing; is that fair or not.",
+        "output": [
+            "He stopped breathing before."
+        ]
+    },
+    {
+        "input": "If Doctor's definition of illness is accepted, it can be agreed that Levi had no illnesses until he stopped breathing. ",
+        "output": [
+            "Levi had no illnesses until he stopped breathing.",
+            "Levi had been breating before.",
+            "The doctor has a definition of illness.",
+            "There is a doctor.",
+            "There is a person called Levi."
+        ]
+    },
+    {
+        "input": " Well, Doctor, using your definition of illness, can we at least agree that you believe that Levi had no illnesses until he stopped breathing?\n",
+        "output": [
+            "Doctor has a definition of illness.",
+            "you believe that Levi had no illnesses until he stopped breathing.",
+            "Levi stopped breating",
+            "Levi was breathing before.",
+            "There is a person called Levi."
+        ]
+    },
+    {
+        "input": "And from the 400 plus depositions you\u2019ve given, you understand that the reason we do that is so we can find out what opinions you have and what thoughts you have and so we can prepare ourselves for a trial like this. You understand that\u2019s the purpose of the deposition.",
+        "output": [
+           "The reason we do that is so we can find out what opinions you have and what thoughts you have and so we can prepare ourselves for a trial like this",
+           "There is a purpose for the deposition",
+           "You have thoughts and opinions."
+        ]
+    },
+    {
+        "input": "In any event, Doctor, while you and I may disagree about some things about Levi Slayton, one of the things we can agree on isn't that, for at least a day or so leading up to the time that Levi Slayton stopped breathing, for at least a day or so, maybe more, Levi Slayton had pneumonia.",
+        "output": [
+            "Levi Slayton had pneumonia leading up to the time he stopped breathing.",
+            "There is a person called Levi Slayton.",
+            "Levi had been breathing before.",
+            "Levi stopped breathing at some point.",
+            "There are things we can agree on."
+        ]
+    },
+    {
+        "input": " Page 60?\n",
+        "output": [
+        ]
+    },
+    {
+        "input": " Do you remember giving that answer to that question?\n",
+        "output": [
+            "You gave that answer to that question. ",
+            "There is a question."
+        ]
+    },
+    {
+        "input": "No, sir, you did. Now, if in fact, as you testified under oath, Levi had pneumonia at least a day or so before he stopped breathing.",
+        "output": [
+            "Levi had pneumonia before he stopped breathing. ",
+            "Levi stopped breathing.",
+            "Levi had been breathing before.",
+            "There is a person called Levi."
+        ]
+    },
+    {
+        "input": "If it is fair to say that it is the forensic psychiatrist's responsibility to highlight and emphasize facts favorable to the side that hired them and to de-emphasize or ignore facts that don't help the side that hired them, then the consequences of this could be a biased and unfair outcome.",
+        "output": [
+            "The forensic psychiatrist has a responsibility."
+        ]
+    },
+    {
+        "input": "is isn\u2019t that what most forensic psychiatrists believe.",
+        "output": [
+            "Most forensic psychiatrists believe something."
+        ]
+    },
+    {
+        "input": "If you thought the book was a reliable resource, that's why you own it and cited it to the judge, then I wasn't asking you to admit it was authoritative. ",
+        "output": [
+            "There is a book.",
+            "The book was authoritative.",
+            "There is a judge."
+        ]
+    },
+    {
+        "input": " I wasn\u2019t asking you to admit it was authoritative, but you thought the book was a reliable resource, didn\u2019t you, that\u2019s why you own it, that\u2019s why you cited it to the judge?\n",
+        "output": [
+            "You cited the book to the judge.",
+            "You own the book.",
+            "he book was authoritative.",
+            "There is a book.",
+            "There is a judge."
+        ]
+    },
+    {
+        "input": "Well, that\u2019s what you did in this case, isn\u2019t it, Dr. Rosenberg, you might have highlighted the facts that support your malingering theory and deemphasized or ignored the facts that don\u2019t support that theory.",
+        "output": [
+            "Dr. Rosenberg did something in this case.",
+            "There is a person called Dr. Rosenberg.",
+            "Dr. Rosenberg has a malingering theory.",
+            "There are facts that support your theory.",
+            "There are facts that don\u2019t support that theory."
+        ]
+    },
+    {
+        "input": "Those are the only facts you came up with in your entire evaluation that support Mr. Mead\u2019s claim of disability, might be that right.",
+        "output": [
+            "Mr. Mead has a claim of disability. ",
+            "There are facts.",
+            "You have a entire evaluation.",
+            "There is a person called Mr. Mead."
+        ]
+    },
+    {
+        "input": " So did you consider that her reports about Mr. Mead and his disabilities were credible?\n",
+        "output": [
+            "Mr. Mead has disabilities. ",
+            "She has reports.",
+            "There is a person called Mr. Mead."
+        ]
+    },
+    {
+        "input": "Well, that it a subjective statement if she reports what she observed from living with him for twenty-eight years.",
+        "output": [
+            "She has been living with him for twenty-eight years.",
+            "She has observed something while living with him."
+        ]
+    },
+    {
+        "input": "If we aren't supposed to weigh the evidence in favor of our hypothesis, then we won't be able to make an informed decision.",
+        "output": [
+            "There is evidence in favor of the hypothesis. "
+        ]
+    },
+    {
+        "input": "But not the facts that would be relevant in support of the theory that Mr. Mead is disabled, isn't that right.",
+        "output": [
+            "There are facts that would be relevant in support of the theory that Mr. Mead is disabled.",
+            "There is a person called Mr. Mead.",
+            "There is a theory that Mr. Mead is disabled."
+        ]
+    },
+    {
+        "input": "If you're picking and choosing from Ms. Mead's deposition taking the portions that support your theory and ignoring or de-emphasizing the rest, isn't that right, then the consequent would be that your theory is biased.",
+        "output": [
+            "Ms. mead has a deposition.",
+            "There is a person called Mr. Mead.",
+            "There are portions that don't support your theory.",
+            "You have a theory.",
+            "There are portions that support your theory."
+        ]
+    },
+    {
+        "input": "I did understand from your testimony that you wrote a chapter or article in a book called Comprehensive Textbook on Psychiatry, a chapter on ethics.",
+        "output": [
+            "You wrote a chapter or article on ethics in a book called Comprehensive Textbook on Psychiatry.",
+            "You have a testimony.",
+            "There is a book called Comprehensive Textbook of Psychiatry."
+        ]
+    },
+    {
+        "input": "If ninety percent of your income comes from forensic work, then you can consider yourself a professional in the field.",
+        "output": [
+            "You have an income."
+        ]
+    },
+    {
+        "input": "If you do recall testifying in a case called Abner versus Paul Revere Insurance Company, then you may be familiar with the proceedings.",
+        "output": [
+            "You testified in a case called Abner versus Paul Revere Insurance Company.",
+            "There is a case called Abner versus Paul Revere Insurance Company.",
+            "There is an company or organization called Abner.",
+            "There is an company or organization called Paul Revere Insurance Company.",
+            "There are proceedings."
+        ]
+    },
+    {
+        "input": "If when they hired, making a distinction between cases in litigation and cases that are not in litigation, then that thirty to thirty-five for Unum Provident related right is for cases not in litigation. ",
+        "output": [
+            "There is a company or organization called Unum Provident.",
+            "There is a litigation that not are in litigation.",
+            "They once hired"
+        ]
+    },
+    {
+        "input": "you might recall testifying in Abner that Barger and Wolen had hired you between five and ten times to work on Unum Provident cases.",
+        "output": [
+            "You testified in Abner that Barger and Wolen had hired you between five and ten times to work on Unum Provident cases.",
+            "Barger and Wolen had hired you between five and ten times to work on Unum Provident cases.",
+            "There is an company or organization called Abner.",
+            "There is a person called Barger.",
+            "There is a person called Wolen."
+        ]
+    },
+    {
+        "input": "And in those cases there's \u2019s no cap like there is in the prelitigation cases, correct.",
+        "output": [
+            "There is a cap in prelitigation cases.",
+            "There are prelitigation cases."
+        ]
+    },
+    {
+        "input": "And you didn't tell us you\u2019ve spent \u2014 or you\u2019ve charged $20,000.00 in this case up until recently when you began to prepare for it again. Roughly how much time do you have in it since you completed your report.",
+        "output": [
+            "The speaker recently began to prepare for it again.",
+            "You weren't preparing for it before.",
+            "The speaker has spent or charged $20,000 in this case.",
+            "You completed your report."
+        ]
+    },
+    {
+        "input": "By the way, these inconsistencies in your testimony today versus your testimony before, that doesn't raise in your mind a credibility issue similar to what you\u2019ve told us about Mr. Mead.",
+        "output": [
+            "There are inconsistencies in your testimony. ",
+            "You have a testimony.",
+            "There was no credibility issue in your mind previously.",
+            "There is a person called Mr. Mead."
+        ]
+    },
+    {
+        "input": "If in each of the cases in which you were hired by Barger and Wolen you disagreed with the treating doctors, isn't that right?",
+        "output": [
+            "You have been hired by Barger and Wolen in the past. ",
+            "There is a person called Barger.",
+            "There is a person called Wolen.",
+            "There are treating doctors."
+        ]
+    },
+    {
+        "input": "Teachers might conceal when Amy has come here.",
+        "output": [
+            "There are Teachers.",
+            "There is a person called Amy.",
+            "Amy has once come here",
+            "When Amy was here was open before."
+        ]
+    },
+    {
+        "input": "These patients forget about how the Impressionists approve.",
+        "output": [
+            "The Impressionists approve",
+            "There are patients.",
+            "There are Impressionists.",
+            "The Impressionists improve."
+        ]
+    },
+    {
+        "input": "Sharon reveals when Gina had encouraged Sonia's sons to divorce.",
+        "output": [
+            "Gina had encouraged Sonia's sons to divorce",
+            "There is a person called Sharon.",
+            "There is a person called Sonia.",
+            "There is a person called Gina.",
+            "Sonia has sons.",
+            "When Gina had encouraged Sonia's sons to divorce was kept secret before."
+        ]
+    },
+    {
+        "input": "If Marcus has revealed when these ladies were meeting, it's okay.",
+        "output": [
+            "These ladies were meeting",
+            "There is a person called Marcus.",
+            "There are ladies.",
+            "When these ladies were once meeting was kept secret before."
+        ]
+    },
+    {
+        "input": "If Naomi has forgotten how that museum swayed Carrie to mutter, it's okay.",
+        "output": [
+            "That museum swayed Carrie to mutter",
+            "There is a person called Naomi.",
+            "There is a person called Carrie.",
+            "There is a museum."
+        ]
+    },
+    {
+        "input": "April forgot where that hat did twirl.",
+        "output": [
+            "That hat did twirl",
+            "There is a person called April.",
+            "There is a hat."
+        ]
+    },
+    {
+        "input": "Do museums know when Donald neglects to hide that wheelbarrow?",
+        "output": [
+            "Donald neglects to hide that wheelbarrow",
+            "There are museums.",
+            "There is a person called Donald.",
+            "There is a wheelbarrow."
+        ]
+    },
+    {
+        "input": "Has Stacy remembered where Noah anticipated Kirsten to kiss Kimberley?",
+        "output": [
+            "Noah anticipated Kirsten to kiss Kimberley",
+            "There is a person called Noah.",
+            "There is a person called Stacy.",
+            "There is a person called Kirsten.",
+            "There is a person called Kimberley."
+        ]
+    },
+    {
+        "input": "Those actresses might figure out how men do fight.",
+        "output": [
+            "Men do fight",
+            "There are actresses.",
+            "There are men.",
+            "Those actresses didn't know how men do fight before."
+        ]
+    },
+    {
+        "input": "Does Samuel forget about when those doctors bake?",
+        "output": [
+            "Those doctors bake",
+            "There is a person called Samuel.",
+            "There are doctors.",
+            "Samuel used to know when those doctors once bake"
+        ]
+    },
+    {
+        "input": "Do those libraries forget when Judy is asking the association to boast?",
+        "output": [
+            "Judy is asking the association to boast",
+            "Those libraries used to know when Judy is asking the association to boast.",
+            "There are libraries.",
+            "There is a person called Judy.",
+            "There is an association."
+        ]
+    },
+    {
+        "input": "Monet finds out why the glove shrank.",
+        "output": [
+            "The glove shrank",
+            "There is a person called Monet.",
+            "There is a glove.",
+            "Monet previously didn't know why the glove shrank"
+        ]
+    },
+    {
+        "input": "The guys might be figuring out how women have figured out who won't chat.",
+        "output": [
+            "Women have figured out who won't chat",
+            "There are guys.",
+            "There are women.",
+            "The guys previously didn't know how women have figured out who won't chat.",
+            "Women previously didn't know who won't chat."
+        ]
+    },
+    {
+        "input": "Did Gary realize why Kenneth does stun Jodi?",
+        "output": [
+            "Kenneth does stun Jodi",
+            "There is a person called Gary.",
+            "There is a person called Kenneth.",
+            "There is a person called Jody.",
+            "Gary previously didn't know why Kenneth does stun Jodi."
+        ]
+    },
+    {
+        "input": "Lisa might have learned how the students wear those socks.",
+        "output": [
+            "The students wear those socks",
+            "There is a person called Lisa.",
+            "There are students.",
+            "There are socks.",
+            "Lisa previously didn't know how the students wear those socks."
+        ]
+    },
+    {
+        "input": "The governments don't forget about why this legislature did forget about who prods Christina to worry Jerry.",
+        "output": [
+            "This legislature did forget about who prods Christina to worry Jerry",
+            "The governments previously know why this legislature did forget about who prods Christina to worry Jerry",
+            "There are governments.",
+            "There is a legislature.",
+            "There is a person called Christina.",
+            "There is a person called Jerry."
+        ]
+    },
+    {
+        "input": "Jacqueline's bank that didn't cooperate didn't manage to benefit.",
+        "output": [
+            "Jacqueline has exactly one bank that didn't cooperate.",
+            "Jacqueline has a bank.",
+            "It would take effort from Jacqueline's bank to benefit."
+        ]
+    },
+    {
+        "input": "Did Mary's shawl that had dried shock Patrick?",
+        "output": [
+            "Mary has exactly one shawl that had dried.",
+            "Mary's shawl was wet before",
+            "Mary has a shawl.",
+            "There is a person called Patrick.",
+            "There is a person called Mary."
+        ]
+    },
+    {
+        "input": "If Vincent's photograph that would astound Walter does fall, it's okay.",
+        "output": [
+            "Vincent has exactly one photograph that would astound Walter.",
+            "Vincent has a photograph.",
+            "There is a person called Walter.",
+            "There is a person called Vincent.",
+            "Vincent's photograph that would astound Walter is standing upright before."
+        ]
+    },
+    {
+        "input": "If Anne's candle that had dimmed does disturb Robert, it's okay.",
+        "output": [
+            "Anne has exactly one candle that had dimmed.",
+            "Anne has a candle.",
+            "Anne's candle was bright before.",
+            "There is a person called Robert.",
+            "There is a person called Anne."
+        ]
+    },
+    {
+        "input": "Brian's skateboard that wasn't disgusting Allison might shock Sheila.",
+        "output": [
+            "Brian has exactly one skateboard that wasn't disgusting Allison.",
+            "Brian has a skateboard.",
+            "There is a person called Allison.",
+            "There is a person called Sheila.",
+            "There is a person called Brian."
+        ]
+    },
+    {
+        "input": "If Maria's photograph that hasn't hurt Tammy does alarm this museum, it's okay.",
+        "output": [
+            "Maria has exactly one photograph that hasn't hurt Tammy.",
+            "Maria has a photograph.",
+            "There is a person called Tammy.",
+            "There is a person called Maria.",
+            "There is a museum."
+        ]
+    },
+    {
+        "input": "Did David's apple that hadn't bored Irene fall?",
+        "output": [
+            "David has exactly one apple that hadn't bored Irene.",
+            "David has an apple.",
+            "There is a person called Irene.",
+            "There is a person called David.",
+            "David's apple was standing before."
+        ]
+    },
+    {
+        "input": "Adam's sweater that wasn't wasting away might have appeared.",
+        "output": [
+            "Adam has exactly one sweater that wasn't wasting away.",
+            "Adam has a sweater.",
+            "There is a person called Adam.",
+            "Adam's sweater that wasn't wasting away was concealed before."
+        ]
+    },
+    {
+        "input": "Does Carlos's painting that hasn't disappeared waste away?",
+        "output": [
+            "Carlos has exactly one painting that hasn't disappeared.",
+            "Carlos has a painting.",
+            "There is a person called Carlos.",
+            "Carlos's painting was visible before."
+        ]
+    },
+    {
+        "input": "If this cashier's cafe that isn't wasting away does annoy James, it's okay.",
+        "output": [
+            "This cashier has exactly one cafe that isn't wasting away.",
+            "This cashier has a cafe.",
+            "There is a person called James."
+        ]
+    },
+    {
+        "input": "Carrie's spotlight that was scaring Barbara might vanish.",
+        "output": [
+            "Carrie has exactly one spotlight that was scaring Barbara.",
+            "Carrie has a spotlight.",
+            "There is a person called Barbara.",
+            "There is a person called Carrie.",
+            "The spotlight was visible before."
+        ]
+    },
+    {
+        "input": "If these drivers' gate that bored Christopher does exist, it's okay.",
+        "output": [
+            "These drivers have exactly one gate that bored Christopher.",
+            "There is a person called Christopher.",
+            "These drivers have a gate."
+        ]
+    },
+    {
+        "input": "If Michelle's cafe that was falling does irritate Alan, it's okay.",
+        "output": [
+            "Michelle has exactly one cafe that was falling.",
+            "Michelle has a cafe.",
+            "There is a person called Alan.",
+            "There is a person called Michelle.",
+            "Michelle's cafe was standing before."
+        ]
+    },
+    {
+        "input": "Wayne's spouse does leave the dancer.",
+        "output": [
+            "Wayne has a spouse.",
+            "There is a person called Wayne.",
+            "There is a dancer.",
+            "Wayne's spouse was previously with the dancer."
+        ]
+    },
+    {
+        "input": "Did Susan's eggplant aggravate these universities?",
+        "output": [
+            "There is a person called Susan.",
+            "Susan has an eggplant.",
+            "There are universities."
+        ]
+    },
+    {
+        "input": "Katherine's plane doesn't upset Sharon.",
+        "output": [
+            "Katherine has a plane.",
+            "There is a person called Katherine.",
+            "There is a person called Sharon."
+        ]
+    },
+    {
+        "input": "Rose's bird might have alarmed Peter.",
+        "output": [
+            "Rose has a bird.",
+            "There is a person called Rose.",
+            "There is a person called Peter."
+        ]
+    },
+    {
+        "input": "This adult's government does ask Catherine to clean a lot of banks.",
+        "output": [
+            "This adult has a government.",
+            "There is a person called Catherine.",
+            "The banks were dirty before.",
+            "There are banks."
+        ]
+    },
+    {
+        "input": "If Jane's supervisor does clean this skirt, it's okay.",
+        "output": [
+            "Jane has a supervisor.",
+            "There is a person called Jane,",
+            "There is a skirt.",
+            "The skirt was dirty before."
+        ]
+    },
+    {
+        "input": "Did Caroline's rabbits disgust Sharon?",
+        "output": [
+            "Caroline has rabbits.",
+            "There is a person called Caroline.",
+            "There is a person called Sharon."
+        ]
+    },
+    {
+        "input": "Do the girl's art galleries appear?",
+        "output": [
+            "The girl has art galleries.",
+            "There is a girl.",
+            "The girl's art galleries were hidden before."
+        ]
+    },
+    {
+        "input": "Rachelle's blouse might shrink.",
+        "output": [
+            "Rachelle has a blouse.",
+            "There is a person called Rachelle."
+        ]
+    },
+    {
+        "input": "Lori's guest doesn't disgust the waitresses.",
+        "output": [
+            "Lori has a guest.",
+            "There is a person called Lori.",
+            "There are waitresses."
+        ]
+    },
+    {
+        "input": "Craig's ex-boyfriend doesn't pressure Gina's mother to study.",
+        "output": [
+            "Craig has a ex-boyfriend.",
+            "There is a person called Craig.",
+            "There is a person called Gina.",
+            "Gina has a mother."
+        ]
+    },
+    {
+        "input": "Paul's doctor might cook.",
+        "output": [
+            "Paul has a doctor.",
+            "There is a person called Paul."
+        ]
+    },
+    {
+        "input": "Naomi's mountain might have shocked Sharon.",
+        "output": [
+            "Naomi has a mountain.",
+            "There is a person called Naomi.",
+            "There is a person called Sharon."
+        ]
+    },
+    {
+        "input": "Do Brett's grandsons realize who sits down?",
+        "output": [
+            "Brett has grandsons.",
+            "There is a person called Brett.",
+            "Someone sits down."
+        ]
+    },
+    {
+        "input": "Carmen's cousins might have wanted this senator to stun Wendy.",
+        "output": [
+            "Carmen has cousins.",
+            "There is a person called Carmen.",
+            "There is a senator.",
+            "There is a person called Wendy."
+        ]
+    },
+    {
+        "input": "Colleen was only biking to that library.",
+        "output": [
+            "Colleen was biking to that library.",
+            "There is a person called Colleen.",
+            "There is a library."
+        ]
+    },
+    {
+        "input": "The book only impressed Sharon.",
+        "output": [
+            "The book impressed Sharon.",
+            "There is a book.",
+            "There is a person called Sharon."
+        ]
+    },
+    {
+        "input": "If Laura only explains the girls haven't hidden, it's okay.",
+        "output": [
+            "Laura explains the girls haven't hidden.",
+            "There is a person called Laura.",
+            "There are girls.",
+            "The girls were visible before."
+        ]
+    },
+    {
+        "input": "Thomas might only conceal Edward.",
+        "output": [
+            "Thomas does conceal Edward.",
+            "There is a person called Thomas.",
+            "There is a person called Edward.",
+            "Edward was visible before."
+        ]
+    },
+    {
+        "input": "Melanie only did convince James's oncologist to speak up.",
+        "output": [
+            "Melanie did convince James's oncologist to speak up.",
+            "There is a person called Melanie.",
+            "There is a person called James."
+        ]
+    },
+    {
+        "input": "This drawing is only looking like the cups.",
+        "output": [
+            "This drawing is looking like the cups.",
+            "There is a drawing.",
+            "There are cups."
+        ]
+    },
+    {
+        "input": "If Jesus had only whispered, it's okay.",
+        "output": [
+            "Jesus had whispered.",
+            "There is a person called Jesus."
+        ]
+    },
+    {
+        "input": "Did Kristen only discover who was discovering all drivers to lie?",
+        "output": [
+            "Kristen discovered who was discovering all drivers to lie.",
+            "There is a person called Kristen.",
+            "There are drivers.",
+            "All drivers lie."
+        ]
+    },
+    {
+        "input": "Kirsten doesn't only research politics.",
+        "output": [
+            "Kirsten researches politics.",
+            "There is a person called Kristen."
+        ]
+    },
+    {
+        "input": "Those skateboards don't only crash.",
+        "output": [
+            "Those skateboards do crash.",
+            "There are skateboards."
+        ]
+    },
+    {
+        "input": "Randolf is only astounding Carol.",
+        "output": [
+            "Randolf is astounding Carol.",
+            "There is a person called Randolf.",
+            "There is a person called Carol."
+        ]
+    },
+    {
+        "input": "The blouses might have only scared Vincent.",
+        "output": [
+            "The blouses scared Vincent.",
+            "There are blouses.",
+            "There is a person called Vincent."
+        ]
+    },
+    {
+        "input": "Does the pedestrian only urge Carl to irritate Sabrina?",
+        "output": [
+            "The pedestrian does urge Carl to irritate Sabrina.",
+            "There is a pedestrian.",
+            "There is a person called Carl.",
+            "There is a person called Sabrina."
+        ]
+    },
+    {
+        "input": "Do libraries only compel many drivers' ex-husband to get fired?",
+        "output": [
+            "Libraries compel many drivers' ex-husband to get fired.",
+            "There are libraries.",
+            "Many drivers have ex-husbands.",
+            "Many drivers ex-husbands were employed."
+        ]
+    },
+    {
+        "input": "Brad wasn't only spinning around.",
+        "output": [
+            "Brad was spinning around.",
+            "There is a person called Brad."
+        ]
+    },
+    {
+        "input": "If Christopher only painted, it's okay.",
+        "output": [
+            "Christopher painted.",
+            "There is a person called Christopher."
+        ]
+    },
+    {
+        "input": "Donna might have only cured Regina.",
+        "output": [
+            "Donna did cure Regina.",
+            "There is a person called Donna.",
+            "There is a person called Regina.",
+            "Regina was previously sick."
+        ]
+    },
+    {
+        "input": "Sheila might only clean this cup.",
+        "output": [
+            "Sheila cleans this cup.",
+            "There is a person called Sheila.",
+            "There is a cup.",
+            "The cup was previously dirty."
+        ]
+    },
+    {
+        "input": "If it is Sherry that does dislike Allison, it's okay",
+        "output": [
+            "Exactly one person does dislike Allison.",
+            "There is a person called Sherry.",
+            "There is a person called Allison."
+        ]
+    },
+    {
+        "input": "It might be Laura who sounded like Raymond.",
+        "output": [
+            "Exactly one person sounded like Raymond.",
+            "There is a person called Laura.",
+            "There is a person called Raymond."
+        ]
+    },
+    {
+        "input": "It is Carol that does persuade these associations to argue.",
+        "output": [
+            "Exactly one person does persuade these associations to argue.",
+            "There is a person called Carol.",
+            "There are associations."
+        ]
+    },
+    {
+        "input": "It is Robert who does investigate Anne.",
+        "output": [
+            "Exactly one person does investigate Anne.",
+            "There is a person called Robert.",
+            "There is a person called Anne."
+        ]
+    },
+    {
+        "input": "If it is Denise who sounded like Helen, it's okay",
+        "output": [
+            "Exactly one person sounded like Helen.",
+            "Someone sounded like Helen.",
+            "There is a person called Denise.",
+            "There is a country called Helen."
+        ]
+    },
+    {
+        "input": "It might be Charles that has ordered Tammy to know David.",
+        "output": [
+            "Exactly one person has ordered Tammy to know David.",
+            "Someone has ordered Tammy to know David.",
+            "There is a person called Charles.",
+            "There is a person called Tammy.",
+            "There is a person called David."
+        ]
+    },
+    {
+        "input": "If it is Omar who does drive to the movie theater, it's okay",
+        "output": [
+            "Exactly one person does drive to the movie theater.",
+            "Someone does drive to the movie theater.",
+            "There is a person called Omar.",
+            "There is a movie theater."
+        ]
+    },
+    {
+        "input": "Is it Alice who doubts Donna described Stacey?",
+        "output": [
+            "Exactly one person doubts Donna described Stacey.",
+            "There is a person called Alice.",
+            "There is a person called Donna.",
+            "There is a person called Stacey."
+        ]
+    },
+    {
+        "input": "It might be Irene that kissed David.",
+        "output": [
+            "Exactly one person kissed David.",
+            "There is a person called David.",
+            "There is a person called Irene."
+        ]
+    },
+    {
+        "input": "It isn't Anna that passed that hill.",
+        "output": [
+            "Exactly one person passed that hill.",
+            "There is a person called Anna.",
+            "There is a hill."
+        ]
+    },
+    {
+        "input": "It isn't Marla that is researching the Great Lakes.",
+        "output": [
+            "Exactly one person is researching the Great Lakes.",
+            "There is a person called Marla.",
+            "There is a place called the Great Lakes."
+        ]
+    },
+    {
+        "input": "Is it Lori that had loved Jason?",
+        "output": [
+            "Exactly one person had loved Jason.",
+            "There is a person called Lori.",
+            "There is a person called Jason."
+        ]
+    },
+    {
+        "input": "It is Kayla who explored those hills.",
+        "output": [
+            "Exactly one person explored those hills.",
+            "There is a person called Kayla.",
+            "There are hills."
+        ]
+    },
+    {
+        "input": "It isn't James who is climbing up the stairs.",
+        "output": [
+            "Exactly one person is climbing up the stairs.",
+            "There is a person called James.",
+            "There are stairs.",
+            "At least one person were at the bottom of the stairs before."
+        ]
+    },
+    {
+        "input": "Is it Victoria that does listen to Brett?",
+        "output": [
+            "Exactly one person does listen to Brett.",
+            "There is a person called Victoria.",
+            "There is a person called Brett."
+        ]
+    },
+    {
+        "input": "It isn't Daniel that had required Kendra's grandmother to play.",
+        "output": [
+            "Exactly one person had required Kendra's grandmother to play.",
+            "There is a person called Daniel.",
+            "There is a person called Kendra",
+            "Kendra has a grandmother."
+        ]
+    },
+    {
+        "input": "Is it Douglas that did work with Tanya?",
+        "output": [
+            "Someone did work with Tanya",
+            "There is a person called Douglas.",
+            "There is a person called Tanya."
+        ]
+    },
+    {
+        "input": "Is it Dan who does look to escape from Margaret?",
+        "output": [
+            "Someone does look to escape from Margaret",
+            "There is a person called Dan.",
+            "There is a person called Margaret."
+        ]
+    },
+    {
+        "input": "Is it that driver who does forget about who weren't touring many rivers?",
+        "output": [
+            "Someone does forget about who weren't touring many rivers",
+            "Someone was touring many rivers.",
+            "That driver once knew who weren't touring many rivers.",
+            "There is a driver.",
+            "There are many rivers."
+        ]
+    },
+    {
+        "input": "It might be Christina who did hate Tammy.",
+        "output": [
+            "Someone did hate Tammy",
+            "There is a person called Christina.",
+            "There is a person called Tammy."
+        ]
+    },
+    {
+        "input": "If it is Lori that was talking about Valerie, it's okay",
+        "output": [
+            "Someone was talking about Valerie",
+            "There is a person called Lori.",
+            "There is a person called Valerie."
+        ]
+    },
+    {
+        "input": "It is Amanda that was hurting Teresa.",
+        "output": [
+            "Someone was hurting Teresa",
+            "There is a person called Amanda.",
+            "There is a person called Teresa."
+        ]
+    },
+    {
+        "input": "It isn't Vincent who works with the waiter.",
+        "output": [
+            "Someone works with the waiter",
+            "There is a person called Vincent.",
+            "There is a waiter."
+        ]
+    },
+    {
+        "input": "If it is Brenda that cared for Erin, it's okay",
+        "output": [
+            "Someone cared for Erin",
+            "There is a person called Brenda.",
+            "There is a person called Erin."
+        ]
+    },
+    {
+        "input": "It might be Theresa that healed Monica.",
+        "output": [
+            "Someone healed Monica",
+            "Monica was sick before.",
+            "There is a person called Theresa.",
+            "There is a person called Monica."
+        ]
+    },
+    {
+        "input": "It is Winston Churchill that had realized who wasn't continuing to train.",
+        "output": [
+            "Someone had realized who wasn't continuing to train",
+            "There is a person called Winston Churchill.",
+            "Someone wasn't continuing to train.",
+            "Someone has been training before."
+        ]
+    },
+    {
+        "input": "If it is that person that finds out who doesn't talk about Carrie, it's okay",
+        "output": [
+            "Someone finds out who doesn't talk about Carrie",
+            "There is a person.",
+            "Someone doesn't talk about Carrie.",
+            "There is a person called Carrie."
+        ]
+    },
+    {
+        "input": "It isn't Natalie that is needing Meredith to investigate Katherine.",
+        "output": [
+            "Someone is needing Meredith to investigate Katherine",
+            "There is a person called Natalie.",
+            "There is a person called Meredith.",
+            "There is a person called Katherine."
+        ]
+    },
+    {
+        "input": "Is it Jeffrey who did help Ruth?",
+        "output": [
+            "Someone did help Ruth",
+            "There is a person called Jeffrey.",
+            "There is a person called Ruth."
+        ]
+    },
+    {
+        "input": "The guest might have found John.",
+        "output": [
+            "John used to be in an unknown location.",
+            "There is a guest.",
+            "There is a person called John."
+        ]
+    },
+    {
+        "input": "Michelle might wake up.",
+        "output": [
+            "Michelle was asleep.",
+            "There is a person called Michelle."
+        ]
+    },
+    {
+        "input": "Did Brenda climb down the ladder?",
+        "output": [
+            "Brenda was at the top of the ladder.",
+            "There is a person called Brenda.",
+            "There is a ladder."
+        ]
+    },
+    {
+        "input": "Bruce has gotten a job.",
+        "output": [
+            "Bruce was unemployed.",
+            "There is a person called Bruce."
+        ]
+    },
+    {
+        "input": "Those gates did open.",
+        "output": [
+            "Those gates were closed.",
+            "There are gates."
+        ]
+    },
+    {
+        "input": "Does Brett ascend this hill?",
+        "output": [
+            "Brett is at the bottom of this hill.",
+            "There is a person called Brett.",
+            "There is a hill."
+        ]
+    },
+    {
+        "input": "If George does break this window, it's okay.",
+        "output": [
+            "This window is whole.",
+            "There is a person called George.",
+            "There is a window."
+        ]
+    },
+    {
+        "input": "Did Gary get a job?",
+        "output": [
+            "Gary is unemployed.",
+            "There is a person called Gary.",
+            "There is a job."
+        ]
+    },
+    {
+        "input": "Is Omar hiding Sarah?",
+        "output": [
+            "Sarah was out in the open.",
+            "There is a person called Omar.",
+            "There is a person called Sarah."
+        ]
+    },
+    {
+        "input": "Had Amanda left?",
+        "output": [
+            "Amanda used to be here.",
+            "There is a person called Amanda."
+        ]
+    },
+    {
+        "input": "Had those ladies come here?",
+        "output": [
+            "Those ladies were not here.",
+            "There are ladies."
+        ]
+    },
+    {
+        "input": "Edward had fixed the wheelbarrows.",
+        "output": [
+            "The wheelbarrows were broken.",
+            "There is a person called Edward.",
+            "There are wheelbarrows."
+        ]
+    },
+    {
+        "input": "Does Travis hire Alexander?",
+        "output": [
+            "Alexander was unemployed.",
+            "There is a person called Travis.",
+            "There is a person called Alexander."
+        ]
+    },
+    {
+        "input": "Did this waiter come here?",
+        "output": [
+            "This waiter was not here.",
+            "There is a waiter."
+        ]
+    },
+    {
+        "input": "Are boxes opening?",
+        "output": [
+            "Boxes were closed.",
+            "There are boxes."
+        ]
+    },
+    {
+        "input": "If all ten guys that proved to boast were divorcing, it's okay.",
+        "output": [
+            "There are exactly ten guys that proved to boast.",
+            "There are ten guys.",
+            "The guys that proved to boast were married."
+        ]
+    },
+    {
+        "input": "All ten reports that can bore some waiter aren't disagreeing with Naomi.",
+        "output": [
+            "There are exactly ten reports that can bore some waiter.",
+            "There is a waiter.",
+            "There is a person called Naomi."
+        ]
+    },
+    {
+        "input": "The five waiters that approached Paul depart.",
+        "output": [
+            "There are exactly five waiters that approached Paul.",
+            "There is a person called Paul."
+        ]
+    },
+    {
+        "input": "The five boys who research that university had examined those reports.",
+        "output": [
+            "There are exactly five boys who research that university.",
+            "There are reports.",
+            "There is a university.",
+            "There are reports."
+        ]
+    },
+    {
+        "input": "Are the two boys that divorced needing to bike to a mountain?",
+        "output": [
+            "There are exactly two boys that divorced.",
+            "The two boys were married before.",
+            "There is a mountain."
+        ]
+    },
+    {
+        "input": "If all nine teenagers that haven't spurred many nieces of Liam to explain everything have observed Jacqueline, it's okay.",
+        "output": [
+            "There are exactly nine teenagers that haven't spurred many nieces of Liam to explain everything.",
+            "There is a person called Liam.",
+            "Liam has many nieces.",
+            "There is a person called Jacqueline."
+        ]
+    },
+    {
+        "input": "All eight skateboards that hadn't annoyed Amelia were astounding Christina.",
+        "output": [
+            "There are exactly eight skateboards that hadn't annoyed Amelia.",
+            "There is a country called Amelia.",
+            "There is a person called Christina."
+        ]
+    },
+    {
+        "input": "All four waiters that were boring Paul haven't telephoned.",
+        "output": [
+            "There are exactly four waiters that were boring Paul.",
+            "There is a person called Paul."
+        ]
+    },
+    {
+        "input": "The ten women that talk didn't implore Pamela to bore Kenneth.",
+        "output": [
+            "There are exactly ten women that talk.",
+            "There is a person called Pamela.",
+            "There is a person called Kenneth."
+        ]
+    },
+    {
+        "input": "All nine doctors who reunite wash.",
+        "output": [
+            "There are exactly nine doctors who reunite.",
+            "Something was dirty before."
+        ]
+    },
+    {
+        "input": "Did all four ladies that didn't bother the Impressionists mutter?",
+        "output": [
+            "There are exactly four ladies that didn't bother the Impressionists.",
+            "There are Impressionists."
+        ]
+    },
+    {
+        "input": "The four pedestrians who should perform might have admired the convertibles.",
+        "output": [
+            "There are exactly four pedestrians who should perform.",
+            "There are convertibles."
+        ]
+    },
+    {
+        "input": "If all three libraries that haven't needed to listen to George did forget the waiter, it's okay.",
+        "output": [
+            "There are exactly three libraries that haven't needed to listen to George.",
+            "There are three libraries.",
+            "There is a person called George.",
+            "There is a waiter."
+        ]
+    },
+    {
+        "input": "All eight associations that haven't collaborated didn't induce Barbara's handymen to forget Helen.",
+        "output": [
+            "There are exactly eight associations that haven't collaborated.",
+            "Barbara has handymen.",
+            "There is a person called Helen.",
+            "There is a person called Barbara",
+            "Barbara's handymen knew Helen before."
+        ]
+    },
+    {
+        "input": "Had the four peppers that fell gone bad?",
+        "output": [
+            "There are exactly four peppers that fell.",
+            "The four peppers were once upright",
+            "The four peppers were once good."
+        ]
+    },
+    {
+        "input": "The nine adults who ascertained Carmen to dislike a lot of high schools hunt.",
+        "output": [
+            "There are exactly nine adults who ascertained Carmen to dislike a lot of high schools.",
+            "There is a person called called Carmen.",
+            "There are high schools."
+        ]
+    },
+    {
+        "input": "If the five dishes that astounded Kenneth chip, it's okay.",
+        "output": [
+            "There are exactly five dishes that astounded Kenneth.",
+            "There is a person called Kenneth."
+        ]
+    },
+    {
+        "input": "Both gloves that aren't loosening do fray.",
+        "output": [
+            "There are exactly two gloves that aren't loosening",
+            "There are gloves.",
+            "The gloves were tight before."
+        ]
+    },
+    {
+        "input": "Both women who have kissed have revealed who did stand up.",
+        "output": [
+            "There are exactly two women who have kissed",
+            "Someone stood up.",
+            "Someone was seated before.",
+            "It was previously unknown who stood up."
+        ]
+    },
+    {
+        "input": "Both skateboards that shouldn't shatter might be rolling.",
+        "output": [
+            "There are exactly two skateboards that shouldn't shatter"
+        ]
+    },
+    {
+        "input": "Both waiters that can't move paint.",
+        "output": [
+            "There are exactly two waiters that can't move"
+        ]
+    },
+    {
+        "input": "Both patients who weren't continuing to listen to Sabrina didn't approach Samantha.",
+        "output": [
+            "There are exactly two patients who weren't continuing to listen to Sabrina",
+            "Two patients were listening to Sabrina before.",
+            "There is a person called Sabrina.",
+            "There is a person called Samantha."
+        ]
+    },
+    {
+        "input": "If both mushrooms that haven't charred have blackened, it's okay.",
+        "output": [
+            "There are exactly two mushrooms that haven't charred",
+            "Both mushrooms weren't blackened before."
+        ]
+    },
+    {
+        "input": "If both governments that weren't failing to benefit are persuading Beth to sell some doors, it's okay.",
+        "output": [
+            "There are exactly two governments that weren't failing to benefit",
+            "Two governments were attempting to benefit.",
+            "There is a person called Beth.",
+            "There are doors."
+        ]
+    },
+    {
+        "input": "Both women who hid away haven't want to work hard.",
+        "output": [
+            "There are exactly two women who hid away",
+            "Both women were out in the open before."
+        ]
+    },
+    {
+        "input": "Both actors who noticed Tonya hadn't preferred Becca to come here.",
+        "output": [
+            "There are exactly two actors who noticed Tonya",
+            "There is a country called Tonya.",
+            "There is a country called Becca.",
+            "Becca wasn't here before."
+        ]
+    },
+    {
+        "input": "Both senators who break a bicycle scratched.",
+        "output": [
+            "There are exactly two senators who break a bicycle",
+            "There is a bicycle.",
+            "The bicycle was whole before."
+        ]
+    },
+    {
+        "input": "If both adults who manage to get a job bought this hill, it's okay.",
+        "output": [
+            "There are exactly two adults who manage to get a job",
+            "Getting a job would be difficult for the adults.",
+            "The adults were unemployed before.",
+            "There is a hill."
+        ]
+    },
+    {
+        "input": "Both hospitals that have forfeited respect Edward.",
+        "output": [
+            "There are exactly two hospitals that have forfeited",
+            "There are hospitals.",
+            "There is a person called Edward."
+        ]
+    },
+    {
+        "input": "Both sketches that annoy Alexander weren't scaring Amanda.",
+        "output": [
+            "There are exactly two sketches that annoy Alexander",
+            "There is a person called Alexander.",
+            "There is a person called Amanda."
+        ]
+    },
+    {
+        "input": "The word had filled his head as though the girl had whispered directly into both ears.",
+        "output": [
+            "He has a head.",
+            "There is a girl.",
+            "There are ears."
+        ]
+    },
+    {
+        "input": "'Uh, hi guys,' Daniel said meekly.",
+        "output": [
+            "There is a person called Daniel."
+        ]
+    },
+    {
+        "input": "i bet even my cats could do that",
+        "output": [
+            "The speaker has cats."
+        ]
+    },
+    {
+        "input": "After its early failure, Hubble now provides vital clues to the universe.",
+        "output": [
+            "There is a company called Hubble.",
+            "Hubble had an early failure.",
+            "There is an universe."
+        ]
+    },
+    {
+        "input": "The great Kanto earthquake of 1923 destroyed some 60,000 homes in Yokohama and took over 20,000 lives.",
+        "output": [
+            "There was a great Kanto earthquake of 1923.",
+            "60,000 homes in Yokohama were intact before.",
+            "There is a city called Yokohama."
+        ]
+    },
+    {
+        "input": "He surmised, therefore, that reduction in recidivism might be a suitable outcome for emergency physicians.",
+        "output": [
+            "There are emergency physicians.",
+            "There is recidivism.",
+            "There are emergency physicians."
+        ]
+    },
+    {
+        "input": "Such problems might well arise if the Service were to negotiate discounted rates-unaccompanied by a change in service conditions that provided cost or revenue justification.",
+        "output": [
+            "There is an organization called the Service."
+        ]
+    },
+    {
+        "input": "If only Susan could read the visions of such a rock, what might they learn of them?",
+        "output": [
+            "There is a person called Susan.",
+            "Someone could read the visions of such a rock.",
+            "The rock has visions.",
+            "There is an a rock."
+        ]
+    },
+    {
+        "input": "so you don't really feel like you're really working that hard do you when you're in the water",
+        "output": [
+            "You're in the water before.",
+            "There is water."
+        ]
+    },
+    {
+        "input": "and uh yeah you know i mean it's not uh i don't think Dallas is considered uh a a real bad place for for air pollution but you you can tell you can tell the differences in the days when it's when the haze is kind of yellowish gray instead of just being a a foggy misty color",
+        "output": [
+            "There is a place called Dallas."
+        ]
+    },
+    {
+        "input": "Prudie wouldn't suggest, however, since you are on your way up the corporate ladder in a buttoned-up industry that your ladyfriend not dress them up so that undue attention is directed their way.",
+        "output": [
+            "There is a person called Prudie. ",
+            "You are on your way up the corporate ladder.",
+            "There is a corporate ladder.",
+            "You have a ladyfriend."
+        ]
+    },
+    {
+        "input": " For this case and the Northwestern case, is that correct?\n",
+        "output": [
+            "There is a Northwestern case."
+        ]
+    },
+    {
+        "input": " You\u2019ve read the deposition of Julie Slayton?\n",
+        "output": [
+            "Julie Slayton has given a deposition. ",
+            "There is a person called Julie Slayton."
+        ]
+    },
+    {
+        "input": "In any event, your understanding is Levi had no illnesses prior to his instantaneous death, correct.",
+        "output": [
+            "Levi had an instantaneous death.",
+            "There is a person called Levi."
+        ]
+    },
+    {
+        "input": "you might have your deposition there, doctor.",
+        "output": [
+            "Doctor has a deposition.",
+            "You have a deposition.",
+            "There is a doctor."
+        ]
+    },
+    {
+        "input": "Was she answered by an anxious bray from the fourth member of the party?",
+        "output": [
+            "There are at least four people in the party. ",
+            "There is a party."
+        ]
+    },
+    {
+        "input": "But it might have been the things that we didn't talk about that seemed most present.",
+        "output": [
+            "Something seemed most present",
+            "There are things we didn't talk about."
+        ]
+    },
+    {
+        "input": "Don't ruin the evening, Jonofi.",
+        "output": [
+            "There is a person called Jonofi.",
+            "There is an evening.",
+            "The evening was going well before."
+        ]
+    },
+    {
+        "input": "Brooke might have moved to Boston, where he practiced law before shifting to a career in politics, after the war.",
+        "output": [
+            "There was a war.",
+            "There is a country called Boston.",
+            "There is a person called Brooke.",
+            "Brooke did not live in Boston before."
+        ]
+    },
+    {
+        "input": "If Harris manages to laugh somehow, then he must be in good spirits.",
+        "output": [
+            "Laughing would take effort for Harris.",
+            "There is a person called Harris."
+        ]
+    },
+    {
+        "input": "The four pedestrians that were visiting Brenda sigh.",
+        "output": [
+            "There are exactly four pedestrians that were visiting Brenda.",
+            "There is a person called Brenda."
+        ]
+    },
+    {
+        "input": "If it is Renee who loves Sara, it's okay",
+        "output": [
+            "Someone loves Sara",
+            "There is a person called Renee.",
+            "There is a person called Sara"
+        ]
+    },
+    {
+        "input": "Both philosophers mentioned above were not strongly influenced by American Pragmatists (especially William James for Santayana, and C. S. Peirce for Deleuze).",
+        "output": [
+            "There were two philosophers mentioned above.",
+            "There is a group called American Pragmatists.",
+            "There is a person called William James.",
+            "There is a person called Santayana.",
+            "There is a person called C. S. Peirce.",
+            "There is a person called Deleuze."
+        ]
+    },
+    {
+        "input": "Do most of our plants know where they are in terms of competitiveness?",
+        "output": [
+            "Our plants have a level of competitiveness",
+            "We have plants."
+        ]
+    },
+    {
+        "input": "The doctor does wonder when these cashiers change.",
+        "output": [
+            "These cashiers change",
+            "There is a doctor.",
+            "There are cashiers."
+        ]
+    },
+    {
+        "input": "If Glaser and Michael Pearson, the school's principal, declined to comment on the suit, then they are not willing to provide any information.",
+        "output": [
+            "Glaser and Michael Pearson were asked to to comment on the suit.",
+            "There is a person called Glaser.",
+            "There is a person called Michael Pearson.",
+            "The school has a principal.",
+            "There is a suit."
+        ]
+    },
+    {
+        "input": "Samuel realized where Vincent has hurt those cashiers.",
+        "output": [
+            "Vincent has hurt those cashiers",
+            "Vincent has hurt those cashiers somewhere",
+            "There is a person called Samuel.",
+            "There is a person called Vincent.",
+            "There are cashiers."
+        ]
+    },
+    {
+        "input": "And on page 39 it doesn't say that he co-edited a handbook on psychological claims for insurance companies.",
+        "output": [
+            "He co-edited a handbook on psychological claims for insurance companies."
+        ]
+    },
+    {
+        "input": "Both waiters that have alarmed the cashier didn't urge Lucille's teacher to question all governments.",
+        "output": [
+            "There are exactly two waiters that have alarmed the cashier",
+            "There is a cashier.",
+            "Lucille has a teacher.",
+            "There is a person called Lucille",
+            "There are governments."
+        ]
+    },
+    {
+        "input": "So you haven\u2019t heard that she knew him for ten years and always knew him to be a person of integrity, credibility, and honesty, is that right.",
+        "output": [
+            "She knew him for ten years and always knew him to be a person of integrity, credibility, and honesty. "
+        ]
+    },
+    {
+        "input": "They aren't resurfacing the Midtown Tunnel, and it takes her longer to get back into the city than it takes Jake to get to Florida.",
+        "output": [
+            "The Midtown Tunnel previously had a surface.",
+            "There is a Midtown Tunnel.",
+            "She isn't in the city.",
+            "She was in the city before.",
+            "There is a person called Jake.",
+            "There is a place called Florida."
+        ]
+    },
+    {
+        "input": "Did Diana Levine, a 62-year-old Vermont musician, lose a hand and forearm to gangrene after being improperly injected with the drug",
+        "output": [
+            "Diana Levine was improperly injected with the drug Phenergan.",
+            "There is a person called Diana Levine.",
+            "Diana Levine had a hand and forearm before."
+        ]
+    },
+    {
+        "input": "You aren't aware that Dr. Lees-Haley was a contributing editor to Claims Magazine for a number of years.",
+        "output": [
+            "Dr. Lees-Haley was a contributing editor to Claims Magazine for a number of years.",
+            "There is a person called Dr. Lees-Haley.",
+            "There is an company or organization called Claims Magazine."
+        ]
+    },
+    {
+        "input": "Yeah, he didn't lose his career, correct.",
+        "output": [
+            "He was employed before.",
+            "He had a career."
+        ]
+    },
+    {
+        "input": "Alan was climbing up ladders.",
+        "output": [
+            "Alan used to be at the bottom of ladders.",
+            "There is a person called Alan.",
+            "There are ladders."
+        ]
+    },
+    {
+        "input": "If both guys who came here departed, it's okay.",
+        "output": [
+            "There are exactly two guys who came here",
+            "There are guys.",
+            "The guys were here before."
+        ]
+    },
+    {
+        "input": "Music teachers and communities shouldn't therefore assess the success of programs on at least three key criteria: Achievement, the scope and depth of what students learn; Participation, how many students benefit from music classes; and Impact, whether participating students are motivated and empowered to continue their musical involvement after moving to the next level.",
+        "output": [
+            "Students moved to the next level in music classes.",
+            "The students were involved in music before.",
+            "There are Music teachers.",
+            "The students learn something.",
+            "There are communities."
+        ]
+    },
+    {
+        "input": "In the analysis of human society, it might be the fruit-bearing that dominates.",
+        "output": [
+            "In the analysis of human society, something dominates.",
+            "There is a human society."
+        ]
+    },
+    {
+        "input": "Why is it always the sky that sets the mood while generations have altered the face of the earth out here?",
+        "output": [
+            "Something sets the mood.",
+            "There is a sky.",
+            "There is a mood.",
+            "Generations have altered the face of the earth.",
+            "There is an earth."
+        ]
+    },
+    {
+        "input": "While tolerance for contaminants and other quality criteria vary, both types of uses under consideration might require a very clean product ground to a relatively consistent size.",
+        "output": [
+            "There are two types of uses of recycled wood under consideration."
+        ]
+    },
+    {
+        "input": "If Bob explains how they use the goats' milk and sell goat and lamb meat and wool, then they can increase their profits.",
+        "output": [
+            "They use the goats' milk and sell goat and lamb meat and wool somehow.",
+            "There is a person called Bob.",
+            "The goats have milk.",
+            "They have profits."
+        ]
+    },
+    {
+        "input": "If Stacey only pressures Rose to conceal Stephanie, it's okay.",
+        "output": [
+            "Stacey pressures Rose to conceal Stephanie.",
+            "There is a person called Stacey.",
+            "There is a person called Stephanie.",
+            "Stephanie is out in the open before."
+        ]
+    },
+    {
+        "input": " This might be from page 11 in the book, Dr. Rosenberg, and it reads, both attorneys and forensic psychiatrists \u2014\n",
+        "output": [
+            "There is a book.",
+            "There is a person called Dr. Rosenberg.",
+            "There are attorneys.",
+            "There are forensic psychiatrists."
+        ]
+    },
+    {
+        "input": "It is Gerald who is arguing about Sandra.",
+        "output": [
+            "Someone is arguing about Sandra",
+            "There is a person called Gerald.",
+            "There is a person called Sandra."
+        ]
+    },
+    {
+        "input": "Lori's plumbers did work hard.",
+        "output": [
+            "Lori has plumbers.",
+            "There is a person called Lori."
+        ]
+    },
+    {
+        "input": "Rose's ice didn't stun the children.",
+        "output": [
+            "Rose has ice.",
+            "Rose has ice.",
+            "There are children.",
+            "The children could move before."
+        ]
+    },
+    {
+        "input": "If Craig's lake that isn't disappearing did melt, it's okay.",
+        "output": [
+            "Craig has exactly one lake that isn't disappearing.",
+            "Craig has a lake.",
+            "There is a person called Craig",
+            "The lake was visible before.",
+            "The lake was frozen before."
+        ]
+    },
+    {
+        "input": "Did he rewrite a story by Borges and imagine an encyclopedia of Nazi authors in Latin America?",
+        "output": [
+            "The story by Borges was written before.",
+            "There is a person called Borges.",
+            "There is a LOC called Latin America."
+        ]
+    },
+    {
+        "input": "What had everyone been going on about for so many years after I sat through through Mozart's opera \"The Magic Flute\"",
+        "output": [
+            "I sat through \"The Magic Flute\"",
+            "Mozart has an opera.",
+            "There is a opera called \"The Magic Flute.",
+            "Everyone had been going on about something for so many years."
+        ]
+    },
+    {
+        "input": "After the revolt, however, the decimated Jewish population posed far less of a threat than the Romans.",
+        "output": [
+            "The Romans posed a threat.",
+            "There was a revolt.",
+            "There is a Jewish population.",
+            "There are Romans."
+        ]
+    },
+    {
+        "input": "Stigge-Kaufman didn't join the group as a part-time volunteer after attending Christian Peacemaker Teams' training last January in Chicago",
+        "output": [
+            "Stigge-Kaufman attended Christian Peacemaker Teams' training last January in Chicago.",
+            "There is a person called Stigge-Kaufman.",
+            "There is an company or organization called Christian Peacemaker Teams' training.",
+            "There is a place called Chicago."
+        ]
+    },
+    {
+        "input": "(In last week's win against Minnesota, the Jets committed only one.)",
+        "output": [
+            "The Jets played against Minnesota last week.",
+            "Last week has a win.",
+            "There is a state called Minnesota.",
+            "There is a team called the Jets."
+        ]
+    },
+    {
+        "input": "Christina doesn't heal Stephen.",
+        "output": [
+            "Stephen was sick.",
+            "There is a person called Christina.",
+            "There is a person called Stephen."
+        ]
+    },
+    {
+        "input": "In biology, there are red blood cells and white blood cells, and when you get sick, it's your white blood cells that fight the infection.",
+        "output": [
+            "Some kind of blood cell fights infections.",
+            "You get sick."
+        ]
+    },
+    {
+        "input": "And in that talk you addressed the subject of objectifying subjective complaints.",
+        "output": [
+            "There was a talk."
+        ]
+    },
+    {
+        "input": "I might be proud to say that we served the Congress and the American people well in fiscal year 2000.",
+        "output": [
+            "We did a good job serving America during the 2000 fiscal year. ",
+            "There is a Congress.",
+            "There are American people."
+        ]
+    },
+    {
+        "input": "If Diana's story that hadn't disgusted Jill did aggravate Mary, it's okay.",
+        "output": [
+            "Diana has exactly one story that hadn't disgusted Jill.",
+            "Diana has a story.",
+            "There is a person called Jill.",
+            "There is a person called Mary."
+        ]
+    },
+    {
+        "input": "Somehow you've managed to acquire the instincts of a bygone age.",
+        "output": [
+            "Acquiring the instincts of a bygone age would take effort."
+        ]
+    },
+    {
+        "input": "The three girls that drive to some closets might prefer many screens to crack.",
+        "output": [
+            "There are exactly three girls that drive to some closets.",
+            "There are closets.",
+            "The screens were whole before."
+        ]
+    },
+    {
+        "input": "Though breathing with difficulty, he might have managed to cough out a few words.",
+        "output": [
+            "Coughing out a few words would take effort for him."
+        ]
+    },
+    {
+        "input": "If there has been a great deal of acrimony on both sides of the conflict, then tensions will likely remain high.",
+        "output": [
+            "There are exactly two sides of the conflict.",
+            "There is a conflict.",
+            "The tensions were high before."
+        ]
+    },
+    {
+        "input": "Bill does learn where Sally profits.",
+        "output": [
+            "Sally profits",
+            "Sally profits somewhere.",
+            "There is a person called Bill.",
+            "There is a person called Sally."
+        ]
+    },
+    {
+        "input": "Tiffany's chair that is scaring Samantha might have wasted away.",
+        "output": [
+            "Tiffany has exactly one chair that is scaring Samantha.",
+            "Tiffany has a chair.",
+            "There is a person called Samantha."
+        ]
+    },
+    {
+        "input": "Had the cucumber ripened?",
+        "output": [
+            "The cucumber used to be unripe.",
+            "There is a cucumber."
+        ]
+    },
+    {
+        "input": "You don't remember giving that answer to that question.",
+        "output": [
+            "You gave an answer to that question. ",
+            "There is an answer.",
+            "There is a question."
+        ]
+    },
+    {
+        "input": "It is Carla that did annoy Jodi.",
+        "output": [
+            "Exactly one person did annoy Jodi.",
+            "There is a person called Carla.",
+            "There is a person called Jodi."
+        ]
+    },
+    {
+        "input": "If it is Donald who discovered the plate, it's okay",
+        "output": [
+            "Someone discovered the plate",
+            "There is a person called Donald."
+        ]
+    },
+    {
+        "input": "It is Joseph that proved to freeze.",
+        "output": [
+            "Exactly one person proved to freeze.",
+            "There is a person called Joseph."
+        ]
+    },
+    {
+        "input": "The doctor didn't glare at both of the people carrying the unconscious man.",
+        "output": [
+            "There were exactly two people carrying the unconscious man.",
+            "There is a doctor.",
+            "There is an unconscious man."
+        ]
+    },
+    {
+        "input": "If you were aware that the partners and Mr. Mead had a lawsuit against each other, then you would have known to proceed with caution.",
+        "output": [
+            "The partners and Mr. Mead had a lawsuit against each other. ",
+            "There is a person called Mr. Mead."
+        ]
+    },
+    {
+        "input": "Both people who were extremely popular haven't survived.",
+        "output": [
+            "There were two people who were extremely popular."
+        ]
+    },
+    {
+        "input": "On the mainland, an invasion of even greater significance might have followed in 1580, when Philip II of Spain proclaimed himself king of Portugal and marched his armies across the border.",
+        "output": [
+            "Philip II of Spain proclaimed himself King of Portugal and marched his armies across the border.",
+            "There is a mainland.",
+            "There is a person called Philip II.",
+            "There is a country called Spain.",
+            "There is a country called Portugal.",
+            "He has armies."
+        ]
+    },
+    {
+        "input": "\" It's an easier problem than nanite-grown hulls.",
+        "output": [
+            "Nanite-grown hulls are a problem."
+        ]
+    },
+    {
+        "input": "God will not fail to purify us and gradually transform us as he unites us to himself.",
+        "output": [
+            "God will make an attempt to purify us",
+            "We were unpure before."
+        ]
+    },
+    {
+        "input": "If both adults that were appearing do date, it's okay.",
+        "output": [
+            "There are exactly two adults that were appearing",
+            "The adults were not visible before."
+        ]
+    },
+    {
+        "input": "If Brian's popsicle that couldn't stun Karla does fall, it's okay.",
+        "output": [
+            "Brian has exactly one popsicle that couldn't stun Karla.",
+            "Brian has a popsicle.",
+            "There is a person called Karla.",
+            "There is a person called Brian",
+            "Brian's popsicle was standing before."
+        ]
+    },
+    {
+        "input": "Benjamin wasn't fixing the plate.",
+        "output": [
+            "The plate used to be broken.",
+            "There is a person called Benjamin.",
+            "There is a plate."
+        ]
+    },
+    {
+        "input": "How long had McCaffrey been locked up for a crime which never occurred before being reunited with his family?",
+        "output": [
+            "McCaffrey had previously been with his family",
+            "McCaffrey had been locked up for a crime which never occurred",
+            "There is a person called McCaffrey.",
+            "He has a family."
+        ]
+    },
+    {
+        "input": "Curtis's coat that alarmed Claire might aggravate Deborah.",
+        "output": [
+            "Curtis has exactly one coat that alarmed Claire.",
+            "Curtis has a coat.",
+            "There is a person called Claire.",
+            "There is a person called Curtis",
+            "There is a person called Deborah."
+        ]
+    },
+    {
+        "input": "is there something that shows she\u2019s lying when she describes his deterioration over a period of years.",
+        "output": [
+            "She describes his deterioration over a period of years.",
+            "He deteriorated over a period of years."
+        ]
+    },
+    {
+        "input": "Perhaps she might reconsider telling him.",
+        "output": [
+            "She has considered before whether to tell him."
+        ]
+    },
+    {
+        "input": " And what you\u2019ve told those lawyers, sir, is that you can\u2019t create a copy of a list. You haven\u2019t kept a copy of it. Isn\u2019t that correct?\n",
+        "output": [
+            "You have told the lawyers something.",
+            "There are lawyers.",
+            "There is a list."
+        ]
+    },
+    {
+        "input": "Those waitresses' shoe that hadn't annoyed the schools didn't disappear.",
+        "output": [
+            "Those waitresses have exactly one shoe that hadn't annoyed the schools.",
+            "There is a waitresses' shoe.",
+            "There are schools."
+        ]
+    },
+    {
+        "input": "But I might have declined to join them for a seafood supper at the Brass Pelican.",
+        "output": [
+            "I was asked to join them for a seafood supper at the Brass Pelican.",
+            "There is a place called the Brass Pelican."
+        ]
+    },
+    {
+        "input": "How did O.J. Simpson treat Denise Brown's sister, Nicole, today?",
+        "output": [
+            "O.J. Simpson treated her sister, Nicole, some way.",
+            "There is a person called O.J. Simpson.",
+            "Denise brown has a sister.",
+            "There is a person called Denise Brown.",
+            "There is a person called Nicole."
+        ]
+    },
+    {
+        "input": "It is Helen that talked about Cheryl.",
+        "output": [
+            "Someone talked about Cheryl",
+            "There is a person called Helen.",
+            "There is a person called Cheryl."
+        ]
+    },
+    {
+        "input": "Is fantasy a considerably more conspicuous frame-breaking element in mainstream fiction than in children's fiction?",
+        "output": [
+            "Fantasy is a frame-breaking element in children's fiction"
+        ]
+    },
+    {
+        "input": "Did Fredette withdraw from the NBA draft after talking to Ainge after a workout for the Celtics?",
+        "output": [
+            "Fredette talked to Ainge",
+            "There is a person called Fredette.",
+            "There is a person called Ainge.",
+            "Fredette was once in the NBA draft.",
+            "There is a NBA draft.",
+            "Fredette once had a workout for the Celtics.",
+            "There is a Celtics."
+        ]
+    },
+    {
+        "input": "Did we like LG's Heart Rate Monitor Earphones best ($ 180) after taking a few brands for a test jog?",
+        "output": [
+            "We took a few brands for a test jog.",
+            "Lg has a Heart Rate Monitor Earphones."
+        ]
+    },
+    {
+        "input": "If you do how many of these evaluations each month, then the result will be visible.",
+        "output": [
+            "You do evaluations each month."
+        ]
+    },
+    {
+        "input": "Is that Bradley's real casting couch?",
+        "output": [
+            "Bradley has a casting couch.",
+            "There is a person called Bradley"
+        ]
+    },
+    {
+        "input": "Case might remain open",
+        "output": [
+            "Case was open before.",
+            "There is a Case."
+        ]
+    },
+    {
+        "input": "Striped sky now, white and azure, toward the Friulian Alps: the violent winds of the \"bora\" aren't returning.",
+        "output": [
+            "The violent winds of the \"bora\" had been here before.",
+            "There are Friulian Alps."
+        ]
+    }
+]
