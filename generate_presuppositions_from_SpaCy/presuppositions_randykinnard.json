@@ -1,0 +1,709 @@
+[
+    {
+        "question": "The doctor and I haven't met before, have we?",
+        "presuppositions": [
+            "There is a doctor.",
+            "The doctor and I haven't met"
+        ]
+    },
+    {
+        "question": "I notice defense counsel referred to April 16th as Easter Sunday.",
+        "presuppositions": [
+            "There is a defense counsel.",
+            "There is a date called April 16th.",
+            "There is an event called Easter Sunday."
+        ]
+    },
+    {
+        "question": "The doctor was born in 1962?",
+        "presuppositions": [
+            "There is a doctor."
+        ]
+    },
+    {
+        "question": "When the doctor was six, I was in Vietnam. Okay?",
+        "presuppositions": [
+            "There is a doctor.",
+            "There is a country called Vietnam.",
+            "The doctor once was six"
+        ]
+    },
+    {
+        "question": "We had New Years Day, Easter, July 4th, Thanksgiving, Christmas Day. We were in the jungle fighting the enemy. Do you think we let our guard down on Easter?",
+        "presuppositions": [
+            "There is a date called New Years Day.",
+            "There is a person called Easter.",
+            "There is a date called Thanksgiving.",
+            "There is a date called Christmas Day.",
+            "There is a jungle.",
+            "There is an enemy."
+        ]
+    },
+    {
+        "question": "You\u2019re right. In the doctor's profession, not only in the doctor's profession, but there are a lot of professions where people have to work on holidays. True?",
+        "presuppositions": [
+            "The doctor has a profession.",
+            "There is a lot.",
+            "There are professions.",
+            "There are people.",
+            "There are holidays.",
+            "There are professions where people have to work on holidays."
+        ]
+    },
+    {
+        "question": "Firemen, policemen, pilots, air traffic controllers, all kinds of people have to work on the holidays, don\u2019t they?",
+        "presuppositions": [
+            "There are Firemen.",
+            "There are policemen.",
+            "There are pilots.",
+            "There are air traffic controllers.",
+            "There are kinds.",
+            "There are people.",
+            "There are holidays."
+        ]
+    },
+    {
+        "question": "And people who work on holidays still have to be careful and be safe. True?",
+        "presuppositions": [
+            "There are people.",
+            "There are holidays.",
+            "There are people who work on holidays."
+        ]
+    },
+    {
+        "question": "So, in the doctor's profession, the doctor has to be careful on a holiday just as any other day. Is that fair?",
+        "presuppositions": [
+            "The doctor has a profession.",
+            "There is a doctor.",
+            "There is a holiday.",
+            "There is an other day."
+        ]
+    },
+    {
+        "question": "So, the standard of care in this case on April 16 was the same as it would have been on Monday or Wednesday. Do you agree?",
+        "presuppositions": [
+            "There is a standard.",
+            "There is a care.",
+            "There is a case.",
+            "There is a date called April.",
+            "There is a date called Monday.",
+            "There is a date called Wednesday."
+        ]
+    },
+    {
+        "question": "Okay. I want to talk with the doctor about one thing really. And that\u2019s this April 16, Sunday, the time when Dr. White is called up to the ICU. This is what I really want to focus with the doctor on. Okay?",
+        "presuppositions": [
+            "There is a doctor.",
+            "There is a date called Sunday.",
+            "There is a time.",
+            "There is a person called Dr. White.",
+            "There is an ICU.",
+            "There is a time when Dr. White is called up to the ICU.",
+            "Dr. White was once called up to the ICU"
+        ]
+    },
+    {
+        "question": "You agree that caring for patients is a team effort, don\u2019t you?",
+        "presuppositions": [
+            "There are patients.",
+            "There is a team effort."
+        ]
+    },
+    {
+        "question": "Looking after this patient on that Sunday, the doctor had Dr. Reimers there, the doctor had a nurse in the ICU, and the doctor had Dr. White who was part of the team. Correct?",
+        "presuppositions": [
+            "There is a patient.",
+            "There is a Sunday.",
+            "There is a doctor.",
+            "There is a person called Dr. Reimers.",
+            "There is a nurse.",
+            "There is an ICU.",
+            "There is a person called Dr. White.",
+            "There is a part.",
+            "There is a team.",
+            "There is a Dr. White who was part of the team."
+        ]
+    },
+    {
+        "question": "And I need to look just a second at some of the things that haven\u2019t been discussed at all yet in this record or that there has been very little discussion about it. This is at Page 111, Doctor. You ought to be able to see this okay. At 8:30 Bette Donathan gets a narcotic. Right? Up here.",
+        "presuppositions": [
+            "There are things.",
+            "There is a record.",
+            "There is a very little discussion.",
+            "There is a facility called Page.",
+            "",
+            "There is a person called Bette Donathan.",
+            "There is a narcotic.",
+            "There are things that haven\u2019t been discussed at all yet in this record."
+        ]
+    },
+    {
+        "question": "All right. So, Bette Donathan is getting narcotics. And at 8:30 she\u2019s sleeping. See that?",
+        "presuppositions": [
+            "There is a person called Bette Donathan.",
+            "There are narcotics."
+        ]
+    },
+    {
+        "question": "So, 9:30, Bette Donathan is sleeping, isn\u2019t she?",
+        "presuppositions": [
+            "There is a person called Bette Donathan."
+        ]
+    },
+    {
+        "question": "I highlighted that in pink, I guess, there. Then at 10:00 Bette Donathan is up in the chair without difficulty. Right?",
+        "presuppositions": [
+            "There is a person called 10:00 Bette Donathan.",
+            "There is a chair.",
+            "There is a difficulty."
+        ]
+    },
+    {
+        "question": "Then at 10:30, Dr. White comes by, and there has been testimony that everything was looking good at that time. Are you with me?",
+        "presuppositions": [
+            "There is a person called Dr. White.",
+            "There is a testimony.",
+            "There is a time."
+        ]
+    },
+    {
+        "question": "Okay. Then at 10:45 Bette Donathan has some pain in the right leg and they give her a narcotic again. Right?",
+        "presuppositions": [
+            "There is a person called 10:45 Bette Donathan.",
+            "There is a pain.",
+            "There is a right leg."
+        ]
+    },
+    {
+        "question": "Excuse me. That\u2019s the anti-inflammatory?",
+        "presuppositions": []
+    },
+    {
+        "question": "Okay. Excuse me. Now, at 11:00, Bette Donathan, obviously, is sitting up in order to have her hair washed. Right?",
+        "presuppositions": [
+            "There is a person called Bette Donathan.",
+            "There is an order.",
+            "There is a her hair."
+        ]
+    },
+    {
+        "question": "And a nurse is taking Bette Donathan's head and washing her hair. Right?",
+        "presuppositions": [
+            "There is a nurse.",
+            "Bette donathan has a head.",
+            "There is a her hair."
+        ]
+    },
+    {
+        "question": "Of course. And we all know that the spinal cord runs from the base of the brain down, all of the way down as far as it goes in the back. Right?",
+        "presuppositions": [
+            "There is a spinal cord.",
+            "There is a base.",
+            "There is a brain.",
+            "There is a way.",
+            "There is a back."
+        ]
+    },
+    {
+        "question": "All right. And, now, Bette Donathan screams. Right?",
+        "presuppositions": [
+            "There is a person called Bette Donathan."
+        ]
+    },
+    {
+        "question": "And you can imagine the shock on the nurse when this happens, the perfectly normal patient recovering nicely after surgery and, now, the nurse is washing her hair and she screams. Highly unusual, isn\u2019t it?",
+        "presuppositions": [
+            "There is a shock.",
+            "There is a nurse.",
+            "There is a perfectly normal patient.",
+            "There is a surgery.",
+            "There is a her hair.",
+            "This once happens"
+        ]
+    },
+    {
+        "question": "And Bette Donathan complains of\u2014I\u2019ve taken a list. I have a list here, Doctor. Screaming in pain. Bette Donathan is talking about left hip and her back and leg cramps. She\u2019s letting the nurse know. The nurse is asking her, obviously, we\u2019ve recreated this. We\u2019ll try to recreate this. She screams in pain. The nurse had to ask her what\u2019s wrong. Bette said, my left hip and back is hurting, and I have leg cramps. And she tells the nurse I can\u2019t get any relief. She\u2019s put back in the bed. She\u2019s repositioned in the bed and she\u2019s turning and she can\u2019t get relief. She says more to the nurse, she have cramps in my legs and now it\u2019s in her upper back, and then this record shows she now has numbness in her legs. These are all things that the doctor told Mr. Geracioti are consistent with a spinal hematoma. Correct?",
+        "presuppositions": [
+            "There is a person called Bette Donathan.",
+            "",
+            "There is a list.",
+            "There is a pain.",
+            "There is a left hip.",
+            "There are her back and leg cramps.",
+            "There is a nurse.",
+            "There is a person called Bette.",
+            "There is a my left hip.",
+            "There is a back.",
+            "There are leg cramps.",
+            "There is a relief.",
+            "There is a bed.",
+            "There are cramps.",
+            "There are my legs.",
+            "There is a record.",
+            "There is a numbness.",
+            "There are her legs.",
+            "There are things.",
+            "There is a doctor.",
+            "There is a person called Mr. Geracioti.",
+            "There is a spinal hematoma.",
+            "There are things that the doctor told Mr. Geracioti."
+        ]
+    },
+    {
+        "question": "Okay. Now, these are in the nurses\u2019 notes. And before Dr. White comes up, does the doctor remember from the facts that Dr. Reimers made a note. Does he remember that?",
+        "presuppositions": [
+            "There are nurses.",
+            "There are \u2019 notes.",
+            "There is a person called Dr. White.",
+            "There is a doctor.",
+            "There are facts.",
+            "There is a person called Dr. Reimers.",
+            "There is a note.",
+            "There are facts that Dr. Reimers made a note.",
+            "Dr. White once comes up"
+        ]
+    },
+    {
+        "question": "Regardless of when Dr. White saw this note, Dr. Reimers makes these observations. And we see an entry here at 11:30. Do you see that, Doctor?",
+        "presuppositions": [
+            "There is a person called Dr. White.",
+            "There is a note.",
+            "There is a person called Dr. Reimers.",
+            "There are observations.",
+            "There is an entry.",
+            "Dr. White once saw this note"
+        ]
+    },
+    {
+        "question": "Now, let\u2019s focus more on what this page has. Dr. Reimers obviously asked Bette Donathan, hey, how are you. Excruciating cramps in hips, left greater than right. Correct?",
+        "presuppositions": [
+            "There is a page.",
+            "There is a person called Dr. Reimers.",
+            "There is a person called Bette Donathan.",
+            "There are Excruciating cramps.",
+            "There are hips."
+        ]
+    },
+    {
+        "question": "We don\u2019t know what the problem is, but the patient is telling these people things that are serious. Right?",
+        "presuppositions": [
+            "There is a problem.",
+            "There is a patient.",
+            "There are people.",
+            "There are things.",
+            "There are things that are serious."
+        ]
+    },
+    {
+        "question": "The note does say moaning. This patient is moaning, crying and diaphoretic. It means she\u2019s sweating she\u2019s in so much pain. This is not good. Fair?",
+        "presuppositions": [
+            "There is a note.",
+            "There is a patient.",
+            "There is a so much pain."
+        ]
+    },
+    {
+        "question": "This is another note by Dr. Reimers. The patient is now complaining of numbness in what, Doctor?",
+        "presuppositions": [
+            "There is a note.",
+            "There is a person called Dr. Reimers.",
+            "There is a patient.",
+            "There is a numbness."
+        ]
+    },
+    {
+        "question": "The patient is unable to raise leg. Do you see that?",
+        "presuppositions": [
+            "There is a patient.",
+            "There is a leg."
+        ]
+    },
+    {
+        "question": "Now, looking at Dr. Reimers\u2019s note, I think that the doctor will agree that what happened was that the patient was sitting up having her hair washed, she screamed out, and the record shows she\u2019s back repositioned in the bed and she\u2019s tossing in the bed. Dr. Reimers comes along. And Dr. Reimers talks to the patient, also. And she does an exam likely while the patient is lying flat on her back in the bed. Correct?",
+        "presuppositions": [
+            "There is a person called Dr. Reimers\u2019s note.",
+            "There is a doctor.",
+            "There is a patient.",
+            "There is a her hair.",
+            "There is a record.",
+            "There is a bed.",
+            "There is a person called Dr. Reimers.",
+            "There is an exam."
+        ]
+    },
+    {
+        "question": "Well, let\u2019s look at Dr. Reimer's note. You see that Dr. Reimers has got some notes there about testing pulses somewhere on there. There it is. Right there. See that?",
+        "presuppositions": [
+            "Dr. reimer has a note.",
+            "There is a person called Dr. Reimers.",
+            "There are notes.",
+            "There are testing pulses."
+        ]
+    },
+    {
+        "question": "Now, that is totally possible and probable that the patient is now lying on her\u2014in fact, right now is the time I need to go over there, Your Honor, if I could. Now, she\u2019s probably on her back. And the doctor can feel the pulses in her ankles you know if you came in the room, I\u2019m flat on my back, you could feel my pulses in my ankles. Right?",
+        "presuppositions": [
+            "There is a patient.",
+            "There is a fact.",
+            "There is a time.",
+            "",
+            "There is a her back.",
+            "There is a doctor.",
+            "There are pulses.",
+            "There are her ankles.",
+            "There is a room.",
+            "There is a my back.",
+            "There are my pulses.",
+            "There are my ankles.",
+            "There is a time I need to go."
+        ]
+    },
+    {
+        "question": "If the doctor is thinking maybe I\u2019ve got a vascular problem or something, the doctor could see how my pulses are doing. True?",
+        "presuppositions": [
+            "There is a doctor.",
+            "There is a vascular problem.",
+            "There are my pulses."
+        ]
+    },
+    {
+        "question": "So, Dr. Reimers could stand here and feel my pulses and feel for spasm and not feel anything. True?",
+        "presuppositions": [
+            "There is a person called Dr. Reimers.",
+            "There are my pulses.",
+            "There is a spasm."
+        ]
+    },
+    {
+        "question": "Well, the point is, Doctor, Bette Donathan is on her back. Right?",
+        "presuppositions": [
+            "There is a point.",
+            "",
+            "There is a person called Bette Donathan.",
+            "There is a her back."
+        ]
+    },
+    {
+        "question": "Well, I don\u2019t know either, Doctor, but I\u2019m just thinking of probabilities here. Okay. Now, we continue our list of Dr. Reimers\u2019s entry, moaning, crying, sweating. And Bette Donathan tells Dr. Reimers she has numbness in her left lower leg and she can\u2019t raise her left leg. If she\u2019s on her back and she can\u2019t raise her left leg, that could be due to pain. Correct?",
+        "presuppositions": [
+            "There are probabilities.",
+            "There is an our list.",
+            "There is a person called Dr. Reimers\u2019s entry.",
+            "There is a moaning.",
+            "There is a crying.",
+            "There is a sweating.",
+            "There is a person called Bette Donathan.",
+            "There is a person called Dr. Reimers.",
+            "There is a numbness.",
+            "There is a left lower leg.",
+            "There is a her left leg.",
+            "There is a pain."
+        ]
+    },
+    {
+        "question": "It could have hurt her so much. In fact, Dr. Reimers could have said, \"\"raise your left leg for me\"\". Bette Donathan said \"\"I can\u2019t, it\u2019s killing me\"\". That could have happened?",
+        "presuppositions": [
+            "There is a fact.",
+            "There is a person called Dr. Reimers.",
+            "There is a your left leg.",
+            "There is a person called Bette Donathan."
+        ]
+    },
+    {
+        "question": "All of this happened, as the doctor understands it, Bette Donathan told the nurse and Dr. Reimers that she has pain in her hips, back, and leg. Right?",
+        "presuppositions": [
+            "There is a doctor.",
+            "There is a person called Bette Donathan.",
+            "There is a nurse.",
+            "There is a person called Dr. Reimers.",
+            "There is a pain.",
+            "There are her hips.",
+            "There is a leg."
+        ]
+    },
+    {
+        "question": "Before Dr. White gets to Bette Donathan's room. Right?",
+        "presuppositions": [
+            "There is a person called Dr. White.",
+            "Bette donathan has a room.",
+            "Dr. White once gets to Bette Donathan's room"
+        ]
+    },
+    {
+        "question": "Well, does the doctor think part of it was while Dr. White was there?",
+        "presuppositions": [
+            "There is a doctor.",
+            "There is a part.",
+            "There is a person called Dr. White."
+        ]
+    },
+    {
+        "question": "As the jury well knows by now, I cannot draw, Doctor. But there is a Nurse Hazard in the intensive care unit. Right?",
+        "presuppositions": [
+            "There is a jury.",
+            "There is a Nurse Hazard.",
+            "There is an intensive care unit."
+        ]
+    },
+    {
+        "question": "We have Dr. Reimers at the bedside of the patient. True?",
+        "presuppositions": [
+            "There is a person called Dr. Reimers.",
+            "There is a bedside.",
+            "There is a patient."
+        ]
+    },
+    {
+        "question": "And Dr. White comes up stat to the ICU. True?",
+        "presuppositions": [
+            "There is a person called Dr. White.",
+            "There is a stat.",
+            "There is an ICU."
+        ]
+    },
+    {
+        "question": "Dr. White has two people, Dr. Reimers and Nurse Hazard, that Bette Donathan has given a world of information to about the problems that have happened to her. Correct?",
+        "presuppositions": [
+            "There is a person called Dr. White.",
+            "There are two people.",
+            "There is a person called Dr. Reimers.",
+            "There is a person called Nurse Hazard.",
+            "There is a country called Bette Donathan.",
+            "There is a world.",
+            "There is an information.",
+            "There are problems.",
+            "There are people that Bette Donathan has given a world of information to about the problems.",
+            "There are problems that have happened to her."
+        ]
+    },
+    {
+        "question": "Are you telling me, Doctor, that somehow these two team members, Dr. Reimers and Nurse Hazard, did not tell Dr. White any of the things that Bette Donathan had complained about? Are you telling us that?",
+        "presuppositions": [
+            "There are somehow these two team members.",
+            "There is a person called Dr. Reimers.",
+            "There is a person called Nurse Hazard.",
+            "There is a person called Dr. White.",
+            "There are things.",
+            "There is a person called Bette Donathan.",
+            "There are things Bette Donathan had complained about that."
+        ]
+    },
+    {
+        "question": "Well, how\u2014this team is supposed to be protecting this patient. Right?",
+        "presuppositions": [
+            "There is a team.",
+            "There is a patient."
+        ]
+    },
+    {
+        "question": "How could a team of three people, two with very important information, how could a team member not know all of this?",
+        "presuppositions": [
+            "There is a team.",
+            "There are three people.",
+            "There is a very important information.",
+            "There is a team member."
+        ]
+    },
+    {
+        "question": "Somebody should have gotten that information to Dr. White. Do you agree?",
+        "presuppositions": [
+            "There is an information.",
+            "There is a person called Dr. White."
+        ]
+    },
+    {
+        "question": "Yes, Dr. Reimers had full ability to recognize and move on the information as well. We\u2019ll come back to that in a minute. I made a note, Doctor. Mr. Geracioti asked you about what did the standard of care require of Dr. White when she came up. And the standard of care required Dr. White to get a history, didn\u2019t it?",
+        "presuppositions": [
+            "There is a person called Dr. Reimers.",
+            "There is a full ability.",
+            "There is an information.",
+            "There is a minute.",
+            "There is a note.",
+            "There is a person called Mr. Geracioti.",
+            "There is a standard.",
+            "There is a care require.",
+            "There is a person called Dr. White.",
+            "There is a care.",
+            "There is a history.",
+            "She once came up"
+        ]
+    },
+    {
+        "question": "Okay. Would you look up the word history for us, please?",
+        "presuppositions": [
+            "There is a word history."
+        ]
+    },
+    {
+        "question": "Would you read what Webster says history is?",
+        "presuppositions": [
+            "There is a person called Webster.",
+            "There is a history."
+        ]
+    },
+    {
+        "question": "And that\u2019s what a history is that you doctors get. You want\u2014not only do you want how the patient is feeling, but what has led up to the patient's problems. Correct?",
+        "presuppositions": [
+            "There is a history.",
+            "There are doctors.",
+            "There is a patient.",
+            "The patient has problems."
+        ]
+    },
+    {
+        "question": "And the standard of care is to ask not only how the patient is, but what has led up to the patient's problems. Correct?",
+        "presuppositions": [
+            "There is a standard.",
+            "There is a care.",
+            "There is a patient.",
+            "The patient has problems."
+        ]
+    },
+    {
+        "question": "You\u2019d want to know as a careful surgeon what has happened to Bette Donathan since you were last with her. You\u2019d want to know that, wouldn\u2019t you?",
+        "presuppositions": [
+            "There is a careful surgeon.",
+            "There is a person called Bette Donathan.",
+            "There is a surgeon what has happened to Bette Donathan."
+        ]
+    },
+    {
+        "question": "Well, what did Dr. White say she asked Bette Donathan?",
+        "presuppositions": [
+            "There is a person called Dr. White.",
+            "There is a person called Bette Donathan."
+        ]
+    },
+    {
+        "question": "Did the doctor read Dr. White\u2019s deposition to form his opinions on this case?",
+        "presuppositions": [
+            "There is a doctor.",
+            "There is a person called Dr. White\u2019s deposition.",
+            "There are his opinions.",
+            "There is a case."
+        ]
+    },
+    {
+        "question": "The doctor relied upon Dr. White's deposition to form his opinions on this case?",
+        "presuppositions": [
+            "There is a doctor.",
+            "Dr. white has a deposition.",
+            "There are his opinions.",
+            "There is a case."
+        ]
+    },
+    {
+        "question": "Well, to refresh your memory, Page 56, Line 24. The question to Dr. White was \"\"and did you determine that Bette Donathan even complained of hip, back, and leg pain before you were trying to get an MRI done?\"\", and her answer was, \"\"I can\u2019t remember if Bette, if she had. I hadn\u2019t been told about it and she didn\u2019t tell me because when I sat down and I talked to her and I looked her in the eyes, and I said, describe your pain to me. Tell me exactly what you are feeling\"\". Do you see that, Doctor?",
+        "presuppositions": [
+            "There is a your memory.",
+            "",
+            "There is a Line.",
+            "There is a question.",
+            "There is a person called Dr. White.",
+            "There is a person called Bette Donathan.",
+            "There is a hip.",
+            "There is a MRI.",
+            "There is a her answer.",
+            "There are eyes.",
+            "There is a your pain.",
+            "There is an exactly what.",
+            "You were once trying to get an MRI done",
+            "I once sat down"
+        ]
+    },
+    {
+        "question": "I don\u2019t see anywhere in here that Dr. White said \"\"tell me everything that\u2019s happened to Bette Donathan since I was last here, what\u2019s been going on\"\". Do you see that there?",
+        "presuppositions": [
+            "There is a person called Dr. White.",
+            "There is a person called Bette Donathan.",
+            "There is a everything that \u2019s happened to Bette Donathan."
+        ]
+    },
+    {
+        "question": "Dr. White saying \"\"tell me everything that\u2019s happened to Bette Donathan since I was last here, what\u2019s been going on\"\" should have been written on the medical history, shouldn\u2019t it?",
+        "presuppositions": [
+            "There is a person called Dr. White.",
+            "There is a person called Bette Donathan.",
+            "There is a medical history.",
+            "There is a everything that \u2019s happened to Bette Donathan."
+        ]
+    },
+    {
+        "question": "Well, you know, before Dr. White came along, they gave Bette Donathan, not only had Bette Donathan been getting narcotics that morning, the hospital staff gave her morphine. Do you remember that?",
+        "presuppositions": [
+            "There is a person called Dr. White.",
+            "There is a person called Bette Donathan.",
+            "There are narcotics.",
+            "There is a hospital staff.",
+            "There is a her morphine.",
+            "Dr. White once came along"
+        ]
+    },
+    {
+        "question": "And Nurse Hazard has testified that this entry right here means that Bette Donathan stopped breathing. She passed out. And Nurse Hazard was so worried she called for the people that help patients with breathing problems, that department known as respiratory therapy. And they come running up there. And Nurse Hazard said she was out. She had stopped breathing. And then Nurse Hazard said \"\"I rubbed on her chest. I yelled at her to try to get her to come to\"\". And Nurse Hazard was very, very worried. Okay. Assume all of that is true. Now, Dr. White\u2014there is an entry at 11:52. And at 11:54, patient more alert. Do you see that?",
+        "presuppositions": [
+            "There is a person called Nurse Hazard.",
+            "There is an entry.",
+            "There is a person called Bette Donathan.",
+            "There are people.",
+            "There are patients.",
+            "There are breathing problems.",
+            "There is a department.",
+            "There is a respiratory therapy.",
+            "There is a her chest.",
+            "There is a person called Dr. White.",
+            "There is a more alert.",
+            "There are people that help patients with breathing problems."
+        ]
+    },
+    {
+        "question": "That means that Nurse Hazard was worried Bette Donathan, I could lose this patient, she\u2019s not breathing, she\u2019s passed out, and, now, thank God, she\u2019s more alert. Okay. Assume those facts are true. Who is a better historian about what\u2019s been going on, a woman who\u2019s coming out of this phase she\u2019s in and this state, having had narcotics, passed out, stopped breathing, Bette Donathan, or Dr. Reimers and Nurse Hazard?",
+        "presuppositions": [
+            "There is a person called Nurse Hazard.",
+            "There is a person called worried Bette Donathan.",
+            "There is a patient.",
+            "",
+            "There are facts.",
+            "There is a better historian.",
+            "There is a woman.",
+            "There is a phase.",
+            "There is a state.",
+            "There are narcotics.",
+            "There is a person called Bette Donathan.",
+            "There is a person called Dr. Reimers.",
+            "There is a woman who \u2019s coming out.",
+            "There is a woman she \u2019s in."
+        ]
+    },
+    {
+        "question": "Bette Donathan had had some narcotics. Dr. Reimers got there. And the record will show when Dr. Reimers was there. And my last question to you, Doctor, is you gave a statement in this case that you signed about your opinions in this matter. Remember?",
+        "presuppositions": [
+            "There is a person called Bette Donathan.",
+            "There are narcotics.",
+            "There is a person called Dr. Reimers.",
+            "There is a record.",
+            "There is a my last question.",
+            "There is a statement.",
+            "There is a case.",
+            "There are your opinions.",
+            "There is a matter.",
+            "There is a statement that you signed about your opinions in this matter.",
+            "Dr. Reimers once was there"
+        ]
+    },
+    {
+        "question": "Okay. And is it the doctor's opinion that an epidural catheter placed for post-op pain control should not have been used in Mrs. Donathan\u2019s case?",
+        "presuppositions": [
+            "The doctor has an opinion.",
+            "There is an epidural catheter.",
+            "There is a post-op pain control.",
+            "There is a person called Mrs. Donathan\u2019s case."
+        ]
+    },
+    {
+        "question": "That\u2019s all, Your Honor.",
+        "presuppositions": [
+            "There is a Your Honor."
+        ]
+    }
+]

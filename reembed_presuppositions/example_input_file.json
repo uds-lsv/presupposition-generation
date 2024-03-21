@@ -1,0 +1,3523 @@
+[
+    {
+        "premise": "More often today it is radio and television that link ethnic communities.",
+        "hypothesis": "Something links ethnic communities.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "The pilot, in his olive-green jumpsuit and wraparound sunglasses, kicked worriedly at a new layer of snow after disembarking.",
+        "hypothesis": "The pilot disembarked.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Lily lets the moment play out before looking over her shoulder.",
+        "hypothesis": "Lily looks over her shoulder.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "China began requiring registration of dishes Last October, after an unflattering film of Mao Zedong on STAR TV",
+        "hypothesis": "China didn't require registration of dishes before an unflattering film of Mao Zedong on STAR TV last October.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "He left in 1996 after starring with Owen and Andrew in Wes Anderson's slackernoir classic, Bottle Rocket.",
+        "hypothesis": "He starred with Owen and Andrew in Wes Anderson's slackernoir classic, Bottle Rocket.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "I'm pleased with the initial steps that the laboratories have taken, this is a much broader problem than just the Department of Energy or the labs.",
+        "hypothesis": "The Department of Energy or the labs are a problem.",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "It was after sitting through Mozart's opera \"The Magic Flute\" and Tchaikovsky's \"Sleeping Beauty\" that I began to realize what everyone had been going on about for so many years.",
+        "hypothesis": "I sat through \"The Magic Flute\" amd \"Sleeping Beauty\".",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "His wife has previously declined to comment.",
+        "hypothesis": "His wife has been asked to comment.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "Wholesalers buy both sexes of crabs but prefer males because they contain more meat and, in the 1980's, they brought as much as $10 a bushel more than females when sold separately (MacKenzie, 1988).",
+        "hypothesis": "There are exactly two sexes of crabs.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "And it was his own dictator that he was mocking.",
+        "hypothesis": "He was mocking someone.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "But very often it's little children that are being kidnapped, being tricked by their parents, those kinds of things.",
+        "hypothesis": "Someone is being kidnapped",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "The tobacco industry has come in with both of their guns blazing, far more money than any special interest...",
+        "hypothesis": "The tobacco industry has exactly two guns.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "\"To me, the number one key for both teams in question is the veteran free agent player,\" said Tampa Bay General Manager Rich McKay.",
+        "hypothesis": "There are exactly two teams in question.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "After the revolt, however, the decimated Jewish population posed far less of a threat than the Romans.",
+        "hypothesis": "The Romans posed a threat.",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "Today Denise Brown describes how O.J. Simpson treated her sister, Nicole.",
+        "hypothesis": "O.J. Simpson treated her sister, Nicole, some way.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "So they've got a tight, it's a tougher road to walk for the White House, a more delicate tightrope than what they faced in the House because they, the Senate Democrats are notoriously more independent and will be expected to, I think that they, it isn't like Senator Byrd, who just said yesterday as a Democrat, he talked about the President's Rose Garden speech after that impeachment and he called it an exercise of...",
+        "hypothesis": "what they faced in the House is a tightrope.",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "Although he is best known as Freddy to the outside world, his staff began addressing him as Mr. President, a label that some aides use to this day.",
+        "hypothesis": "His staff was not previously addressing Freddy as Mr. President.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Supposedly Blanchett had the inside track, but it was Swinton's name that was called.",
+        "hypothesis": "Someone's name was called.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "And anyway, this salad happened to come from Africa (\" as good as home grown \"?), not Britain.",
+        "hypothesis": "It's unexpected for this salad to come from Africa",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "That explains why Huawei's operating margins plummeted six percentage points to 12% the first half of this year compared to the same period in 2015.",
+        "hypothesis": "Huawei's operating margins plummeted six percentage points to 12% the first half of this year compared to the same period in 2015.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "Well, our polls continue to show that he leads and he certainly had a cut in his edge in this last poll that we did, down to a 49-47 margin when it has usually been about 7 or 8.",
+        "hypothesis": "Our polls had been showing that he leads previously.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "However, it is the structural homologies that exist between the holders of cultural capital and the holders of economic and political capital within the field of power that consign artists and intellectuals to their place within \" divisions of the labor of domination \"--material and symbolic.",
+        "hypothesis": "Something consigns artists and intellectuals to their place within \"divisions of the labor of domination\"",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "In biology, there are red blood cells and white blood cells, and when you get sick, it's your white blood cells that fight the infection.",
+        "hypothesis": "Some kind of blood cell fights infections.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "Though such definitions and distinctions may supply us with ideas and nuances to argue about, I continue to find greater revelation about evil in narratives.",
+        "hypothesis": "I had been finding greater revelation about evil in narratives.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "It is Catholic kids and Irish kids who make up predominantly the fighting armed forces of the United States.",
+        "hypothesis": "Some group predominantly makes up the fighting armed forces of the United States.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "But I declined to join them for a seafood supper at the Brass Pelican.",
+        "hypothesis": "I was asked to join them for a seafood supper at the Brass Pelican.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "I only wanted to tell him that I had written a letter to Johnny Depp!",
+        "hypothesis": "I had written a letter to Johnny Depp",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "Ms. Hira has received piles of postcards and letters, littered with exclamation points, percentages, and the infamous tagline \"consolidate now\" since graduating last June from Stanford University.",
+        "hypothesis": "Ms. Hira graduated last June from Stanford University.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "I have always wanted to remake the world, and that is a much more greedy, far-reaching ambition than cash.",
+        "hypothesis": "Getting cash is an ambition.",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "Tilly ran the side of a finger along her lower lip as she took a final glance around the somber room before speaking.",
+        "hypothesis": "Tilly spoke.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "He was a better diver than me. \"",
+        "hypothesis": "I was a diver",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "And there has been a great deal of acrimony on both sides of the conflict.",
+        "hypothesis": "There are exactly two sides of the conflict.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "It was the king himself who had suggested to Elgin that he apply for the ambassadorship to Constantinople.",
+        "hypothesis": "Someone had suggested to Elgin that he apply for the ambassadorship to Constantinople.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "I will rebuild the rhythm and routine of my life as a single woman.",
+        "hypothesis": "The rhythm and routine of my life had previously been stable before being a single woman.",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "We liked LG's Heart Rate Monitor Earphones best ($ 180) after taking a few brands for a test jog.",
+        "hypothesis": "We took a few brands for a test jog.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "The leadership managed to express its support for the caucus position on the most salient issue of that period, the war in Vietnam, but it was careful to do so with all of the scientific trappings that it could reasonably employ.",
+        "hypothesis": "Expressing its support for the caucus position on the most salient issue of that period, the war in Vietnam, would take effort from the leadership.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "Though breathing with difficulty, he managed to cough out a few words.",
+        "hypothesis": "Coughing out a few words would take effort for him.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "I happened to teach a course on Race and Ethnic Identity at the University of Iowa a couple of years ago.",
+        "hypothesis": "Having taught a course on Race and Ethnic Identity at the University of Iowa a couple of years ago wasn't expected from me.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "These days you're likely to see both of those star players in their freshman year throwing a lot of passes, not an unusual thing for most college quarterbacks to be doing at practice.",
+        "hypothesis": "There are exactly two star players in their freshman year under discussion here.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Highly qualified teachers leave to obtain a higher rate of pay in an urban school or another type of job.",
+        "hypothesis": "Highly qualified teachers are working there.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "My brother began rolling up his pants' legs.",
+        "hypothesis": "My brother hadn't been rolling up his pants' legs before.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Music teachers and communities should therefore assess the success of programs on at least three key criteria: Achievement, the scope and depth of what students learn; Participation, how many students benefit from music classes; and Impact, whether participating students are motivated and empowered to continue their musical involvement after moving to the next level.",
+        "hypothesis": "Students will move to the next level in music classes.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Force et al failed to detect ciprofloxacin in plasma by liquid chromatography in a study of children with otorrhea associated with tympanostomy tube placement.",
+        "hypothesis": "Force et al attempted to detect ciprofloxacin in plasma",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "Grant manages to stay on top of the wheelhouse, and he loses grip on the phone, which falls on deck.",
+        "hypothesis": "It would take effort to stay on top of the wheelhouse in this situation.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "While both groups in the study took in the same amount of calories, those on the balanced diet actually lost about 3 pounds more than the food-combining group-and lowered their blood pressure to boot.",
+        "hypothesis": "There are exactly two groups in the study.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "The place had a driveup window, so Carol Charters reopened it-with a few modifications.",
+        "hypothesis": "The driveup window was open before.",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "The tourist remains unchanged, while the natives are forced to change to accommodate tourists.",
+        "hypothesis": "The tourist had not already changed.",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "Rep. William O. Lipinski (D-Ill.) has concluded that the bill he filed Thursday to take Ryan out of the picture is needed because \"nothing is going to be done on the local level after working seven months behind the scenes to forge an agreement between Ryan and Mayor Daley,.\"",
+        "hypothesis": "Rep. William O. Lipinski (D-Ill.) worked seven months behind the scenes to forge an agreement between Ryan and Mayor Daley,. \"",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "But the world's greatest fisherman resurfaces, even with the tickets, even with the losses.",
+        "hypothesis": "The world's greatest fisherman had previously been at the surface",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "Both protagonists in the novel defy a political force and receive aid from a higher authority.",
+        "hypothesis": "There are exactly two protagonists in the novel.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Sly's Secretary appears in the doorway, alarmed to see her boss in this most undignified position.",
+        "hypothesis": "Sly's secretary wasn't in the doorway earlier.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "After ripping up half of Princeton, the winds finally dissipated at 4:30 P.M.",
+        "hypothesis": "The winds ripped up half of Princeton.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "State legislative auditors faulted the school system for not seeking a competitive bid before hiring the company.",
+        "hypothesis": "The school system hired the company.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Both of us were, like idiots.",
+        "hypothesis": "There were exactly two of us.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Usually it's low-end beer brands that use female body parts to push product, and winemakers exercise more taste.",
+        "hypothesis": "Some company uses female body parts to push product.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "The Israelis left Gaza in 2005.",
+        "hypothesis": "The Israelis were in Gaza before 2005.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Vicki began grappling with the familiar feelings of disappointment from yet another failed relationship.",
+        "hypothesis": "Vicki was not already grappling with feelings of disappointment from yet another failed relationship.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Stigge-Kaufman joined the group as a part-time volunteer after attending Christian Peacemaker Teams' training last January in Chicago",
+        "hypothesis": "Sydney Stigge-Kaufman attended Christian Peacemaker Teams' training last January in Chicago.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "The yard reopened and the store remained closed.",
+        "hypothesis": "The yard had been previously opened.",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "Marlie had hesitated before picking it up.",
+        "hypothesis": "Marlie picked it up.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "The doctor glared at both of the people carrying the unconscious man.",
+        "hypothesis": "There were exactly two people carrying the unconscious man.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "And while generations have altered the face of the earth out here, it is always the sky that sets the mood.",
+        "hypothesis": "Something sets the mood.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "Dafne slides out from under Byron, placing a sofa pillow under his head, and doesn't squint at herself in the cracked mirror above the bathroom sink as though she is farsighted and can't quite make anything out this close, before splashing her face.",
+        "hypothesis": "Dafne spashes her face.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "In fact, 46 companies on the 1990 BE 100s lists, including 22 industrial / service concerns and 24 auto dealerships, failed to make this year's lists.",
+        "hypothesis": "46 companies on the 1990 BE 100s list attempted to make this year's lists",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "Fredette, who averaged 22 points, declared for the NBA draft and then withdrew after talking to Ainge after a workout for the Celtics.",
+        "hypothesis": "Fredette talked to Ainge",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Both Glaser and Michael Pearson, the school's principal, declined to comment on the suit.",
+        "hypothesis": "Glaser and Michael Pearson were asked to to comment on the suit.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "While tolerance for contaminants and other quality criteria vary, both types of uses under consideration require a very clean product ground to a relatively consistent size.",
+        "hypothesis": "There are two types of uses of recycled wood under consideration.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Bob explains how they use the goats' milk and sell goat and lamb meat and wool.",
+        "hypothesis": "They use the goats' milk and sell goat and lamb meat and wool somehow.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "They are resurfacing the Midtown Tunnel, and it takes her longer to get back into the city than it takes Jake to get to Florida.",
+        "hypothesis": "The Midtown Tunnel previously had a surface.",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "This plant is a far more sustainable natural resource than wood because it grows very quickly.",
+        "hypothesis": "Wood is a natural resource.",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "After spending a few months at home, I became a stranger to this world.",
+        "hypothesis": "I spent a few months at home.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Striped sky now, white and azure, toward the Friulian Alps: the violent winds of the \"bora\" are returning.",
+        "hypothesis": "The violent winds of the \"bora\" had been here before.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "and I began to try to accept this process of being in the water and drowning.",
+        "hypothesis": "I hadn't previously tried to accept the process of being in the water and drowning.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "U.S. troops eventually regained control of the city--then, two days before Christmas, a day Workman will never forget.",
+        "hypothesis": "Control of the city had been gained previously.",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "The captain opened a gloved hand, and a tiny holo of Kushal's conversation with the teleprezz officer appeared.",
+        "hypothesis": "The captain's hand was closed before.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Perhaps she would reconsider telling him.",
+        "hypothesis": "She has considered before whether to tell him.",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "A Vermont musician, Diana Levine (above), 62, lost a hand and forearm to gangrene after being improperly injected with the drug Phenergan.",
+        "hypothesis": "Diana Levine was improperly injected with the drug Phenergan.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "He rewrote a story by Borges but imagined an encyclopedia of Nazi authors in Latin America.",
+        "hypothesis": "The story by Borges was written before.",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "The Farecard machines were reprogrammed and operating smoothly for the afternoon commute. //",
+        "hypothesis": "The Farecard machines were programmed previously.",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "Both philosophers mentioned above were strongly influenced by American Pragmatists (especially William James for Santayana, and C. S. Peirce for Deleuze).",
+        "hypothesis": "There were two philosophers mentioned above.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "We haven't proceeded so far, in the 9 or 10 months, with a degree of caution, with patience, with courage, with (UNINTELLIGIBLE) ) to continue on that path, but it is not very important that both countries involved in the conflict weigh expectations in a way to not unduly impact, adversely impact, on the peace process itself",
+        "hypothesis": "There are two countries involved in the conflict.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Suddenly it's Steve who's on trial.",
+        "hypothesis": "Someone is on trial.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "He found that in many of his clinical cases, adolescents' struggles with their ethnic identity were made salient when he purposefully elicited clarification of issues related to peer-group relations, family relations, and achievement.",
+        "hypothesis": "In many of his clinical cases, adolescents' struggles with their ethnic identity were made salient when he purposefully elicited clarification of issues related to peer-group relations, family relations, and achievement.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "Almost alone among African leaders, Museveni has managed to secure broad international support while defying Western pressure for multi-party democracy.",
+        "hypothesis": "Securing broad international support while defying Western pressure for multi-party democracy would take effort for Museveni.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "And, Rod, you're fired.",
+        "hypothesis": "Rod used to have a job.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Somehow Harris manages to laugh.",
+        "hypothesis": "Laughing would take effort for Harris.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "I don't know why I do it!",
+        "hypothesis": "I do it",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "But it fell through after hitting a last-minute snag with creditors, who would have been forced to make significant concessions.",
+        "hypothesis": "It hit a last-minute snag with creditors.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Several insurance companies have started selling QLACs, including Principal Financial and American General.",
+        "hypothesis": "Several insurance companies weren't previously selling QLACs",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "He avoids looking upon his own works as precious objects.",
+        "hypothesis": "He is expected to look upon his own works as precious objects.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "She knows just what her mother would have said about all of this.",
+        "hypothesis": "Her mother would have said something about all this.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "She managed to keep the table upright, but her right knee collided with one of the table legs.",
+        "hypothesis": "Keeping the table upright would take effort.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "After wasting nearly four years of his young life locked up for a crime which never occurred, McCaffrey is reunited with his family.",
+        "hypothesis": "McCaffrey had previously been with his family",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "\" It's an easier problem than nanite-grown hulls.",
+        "hypothesis": "Nanite-grown hulls are a problem.",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "His job was as managing general partner of the Arlington-based Texas Rangers baseball club immediately before becoming governor.",
+        "hypothesis": "He became governor.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Runners had to slide down a steep muddy bank before going under water at the Reebok Spartan Sprint.",
+        "hypothesis": "Runners went under water at the Reebok Spartan Sprint.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Most of our plants know where they are in terms of competitiveness.",
+        "hypothesis": "Our plants have a level of competitiveness",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "Classical scholars are currently reinterpreting the model put forth by Strabo",
+        "hypothesis": "The model put forth by Strabo was interpreted before.",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "The woman fully regaineded consciousness shortly after receiving the last dose of Narcan.",
+        "hypothesis": "The woman had previously been conscious.",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "Landry collapsed heavily atop me.",
+        "hypothesis": "Landry was standing before.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "I think there are more important issues than the flag.",
+        "hypothesis": "The flag is an issue.",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "Bassole declined, however, to answer questions about the activities of U.S. Special Operations forces in his country.",
+        "hypothesis": "Bassole was asked to answer question about the activities of U. S. Special Operations forces in his country.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "Williams won a Bronze Star.",
+        "hypothesis": "He was in the military.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Haiti is a much smaller country than Iraq.",
+        "hypothesis": "Iraq is a country.",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "That was a bigger moneymaker than numbers, and Jimmy was in charge of it all.",
+        "hypothesis": "Numbers was a moneymaker",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "While both groups in the study took in the same amount of calories, those on the balanced diet actually lost about 3 pounds more than the food-combining group-and lowered their blood pressure to boot.",
+        "hypothesis": "There are two groups in the study.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "God will not fail to purify us and gradually transform us as he unites us to himself.",
+        "hypothesis": "God will make an attempt to purify us",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "Wholesalers buy both sexes of crabs but prefer males because they contain more meat and, in the 1980's, they brought as much as $10 a bushel more than females when sold separately (MacKenzie, 1988).",
+        "hypothesis": "There are two sexes of crabs.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "I forgot to use it on several runs and didn't notice a whole lot of difference, but that's because I was going four feet and falling.",
+        "hypothesis": "I was supposed to to use it on several runs.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "Mr. Spinelli declined to say how many companies were in the association or the amount of their business.",
+        "hypothesis": "Mr. Spinelli was asked to say how many companies were in the association or the amount of their business.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "the A's fell way behind early, came back to tie, then lost in extra innings in both extremely close games this past week.",
+        "hypothesis": "The A's played two extremely close games this past week.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "In this article, we will introduce resiliency theory within an ecological framework and describe what is known about substance use among adolescents.",
+        "hypothesis": "Something is known about substance use among adolescents",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "( Thakoon nailed both ideas which appealed to the public); yes to statement jewels, be they real or costume, that make us smile, glitter, and transform an outfit from day to night.",
+        "hypothesis": "There are two ideas which appealed to the public.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Historical records report that Joachim Gans, a metallurgist, and other scientists set up shop at the site during the first Raleigh-sponsored expedition to the area, in 1585.",
+        "hypothesis": "Joachim Gans, a metallurgist, and other scientists set up shop at the site during the first Raleigh-sponsored expedition to the area, in 1585.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "Both people who were extremely popular have survived.",
+        "hypothesis": "There were two people who were extremely popular.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "He sped down through the streets before turning into the driveway.",
+        "hypothesis": "He turned into the driveway.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "This cynical scheme was much less work than creating real fabs, so it was swiftly adopted.",
+        "hypothesis": "Creating real fabs is work.",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "The national ruling classes may have in fact managed to distort the historical truth of the negro contribution to Puerto Rican culture in favor of a different definition that exalts the espanolidad Spanish-nature of the Puerto Rican people. )",
+        "hypothesis": "It would take effort to distort the historical truth of the negro contribution to Puerto Rican culture.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "TNN starts airing a half-hour of the Opry live on Saturday nights.",
+        "hypothesis": "TNN hadn't been airing a half-hour of the Opry live on Saturday nights.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Somehow you've managed to acquire the instincts of a bygone age.",
+        "hypothesis": "Acquiring the instincts of a bygone age would take effort.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "\" Brusen has remarried.",
+        "hypothesis": "Brusen was married before",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "Brooke moved to Boston, where he practiced law before shifting to a career in politics, after the war.",
+        "hypothesis": "There was a war.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Susan managed to procure ration coupons for icing sugar and real eggs for the meringue.",
+        "hypothesis": "Itwould take effort from Susan to procure ration coupons for icing sugar and real eggs for the meringue.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "You need a bit of all three characteristics we were discussing.",
+        "hypothesis": "We were discussing three characteristics.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Racket supports both ends of the spectrum.",
+        "hypothesis": "There are two ends of the spectrum.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "She figured out it was revenge for what I had done to Squeeze after putting two and two together.",
+        "hypothesis": "She put two and two together.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "In the analysis of human society, it is the fruit-bearing that dominates.",
+        "hypothesis": "In the analysis of human society, soemthing dominates.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It deserves careful attention: it is not just an image that awakens the spectator's piety ;",
+        "hypothesis": "Something awakens the spectator's piety.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "\"I need to know where you are and that you're safe, while I figure out the reverse spell,\" she said.",
+        "hypothesis": "You are somewhere.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "But it was the things that we didn't talk about that seemed most present.",
+        "hypothesis": "Something seemed most present",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "And they have managed to win every game.",
+        "hypothesis": "Winning every game would take effort for them.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "But it is radical Islam that has become the lightning rod for this fury.",
+        "hypothesis": "Something has become the lighting rod for this fury.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "Grimacing with pain, Dane showed Belo what he had found: a shaft in the ground, no wider than Belo's own shoulders, covered by a heavy stone slab.",
+        "hypothesis": "Dane had found a shaft in the ground, no wider than Belo's own shoulders, covered by a heavy stone slab.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "Then I might think, \"Yeah, that's a good reason to consider doing something.' '\" If rock history has taught us anything, it's that not reuniting is often a far better idea than getting back together only to disappoint the fans.",
+        "hypothesis": "getting back together only to disappoint the fans is an idea.",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "Fantasy is a considerably more conspicuous frame-breaking element in mainstream fiction than in children's fiction.",
+        "hypothesis": "Fantasy is a frame-breaking element in children's fiction",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "General Squires will be reassigned shortly-and I have assurances that he will draw a responsible and prestigious command.",
+        "hypothesis": "General Squires had been assigned somewhere before",
+        "label": "P",
+        "trigger_type": "iteratives",
+        "type": "original"
+    },
+    {
+        "premise": "Case remains open",
+        "hypothesis": "Case was open before.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Every single one of you is a greater wonder and monument than any building could ever hope to be!",
+        "hypothesis": "A building could hope to be a wonder and monument.",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "Bush declined to say yesterday whether he would agree to a later date.",
+        "hypothesis": "Bush was asked to say whether he would agree to a later date yesterday",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "Both gentlemen that I met with granted me generous interviews and spoke with great warmth about their collaborations.",
+        "hypothesis": "I met with two gentlemen.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "FOR playgoers, patiently sitting out summer movie releases and up to their mosquito-bitten ears in outdoor Shakespeare festivals, there isn't a more exciting or promising phrase in the language than \"the fall season.\"",
+        "hypothesis": "\"The fall season. \" is a phrase in the language.",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "And it was his own dictator that he was mocking.",
+        "hypothesis": "He was moking someone.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "The tobacco industry has come in with both of their guns blazing, far more money than any special interest...",
+        "hypothesis": "The tobacco industry has two guns.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "\"To me, the number one key for both teams in question is the veteran free agent player,\" said Tampa Bay General Manager Rich McKay.",
+        "hypothesis": "There are two teams in question.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Today Denise Brown describes how O.J. Simpson treated her sister, Nicole.",
+        "hypothesis": "O.J. Simpson had some interactions with Denise Brown's sister",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "That explains why Huawei's operating margins plummeted six percentage points to 12% the first half of this year compared to the same period in 2015.",
+        "hypothesis": "Huawei's operating margins somehow plummeted six percentage points to 12% the first half of this year compared to the same period in 2015.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "But I declined to join them for a seafood supper at the Brass Pelican.",
+        "hypothesis": "I was asked to join them for a seafood supper at the Brass Pelican.",
+        "label": "P",
+        "trigger_type": "implicative_predicates",
+        "type": "original"
+    },
+    {
+        "premise": "And there has been a great deal of acrimony on both sides of the conflict.",
+        "hypothesis": "There are two sides of the conflict.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "These days you're likely to see both of those star players in their freshman year throwing a lot of passes, not an unusual thing for most college quarterbacks to be doing at practice.",
+        "hypothesis": "There are two star players in their freshman year under discussion here.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "My brother began rolling up his pants' legs.",
+        "hypothesis": "My brother hadn't been rolling up his pants' legs.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Both protagonists in the novel defy a political force and receive aid from a higher authority.",
+        "hypothesis": "There are two protagonists in the novel.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both of us were, like idiots.",
+        "hypothesis": "There were two of us.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "The doctor glared at both of the people carrying the unconscious man.",
+        "hypothesis": "There were two people carrying the unconscious man.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "(Read  for Slate 's take on Jackson's findings.)",
+        "hypothesis": "Slate had an opinion on Jackson's findings.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "On the mainland, an invasion of even greater significance followed in 1580, when Philip II of Spain proclaimed himself king of Portugal and marched his armies across the border.",
+        "hypothesis": "Philip II of Spain proclaimed himself King of Portugal.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Jon, still looking through Adrin's eyes, saw a wicked sharp blade burst through the Kal's chest.",
+        "hypothesis": "A blade went through Kal's chest.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "information called for in the Commission's general rules for mail classification proposals.",
+        "hypothesis": "The Commission has general rules for mail classification.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "Public broadcasting's big transformation came in the mid-'70s, Ledbetter finds, when U.S. corporations stepped in to fill the financial gap for the underfunded network.",
+        "hypothesis": "US corporations stepped in to fill the financial gap in for the network.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "(In last week's win against Minnesota, the Jets committed only one.)",
+        "hypothesis": "The Jets played against Minnesota last week.",
+        "label": "P",
+        "trigger_type": "conventional",
+        "type": "original"
+    },
+    {
+        "premise": "I watched them kick in her door and the big man fired the scattershot.",
+        "hypothesis": "They kicked in a door.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "I unfolded my map.",
+        "hypothesis": "My map had previously been folded. ",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "I am proud to say that we served the Congress and the American people well in fiscal year 2000.",
+        "hypothesis": "We did a good job serving America during the 2000 fiscal year. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "That's Bradley's real casting couch.",
+        "hypothesis": "Bradley has a casting couch.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "She was answered by an anxious bray from the fourth member of the party.",
+        "hypothesis": "There are at least four people in the party. ",
+        "label": "P",
+        "trigger_type": "iterative",
+        "type": "original"
+    },
+    {
+        "premise": "let Well, you\u2019re dependent upon him, for example, let\u2019s take this report, if he said Mr. Mead was fatigued, or Mr. Mead was energized, you have no way of knowing either way, right, in terms of what he observed in the session.",
+        "hypothesis": "There is a report.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "Now, you were given Dr. Lees-Haley\u2019s deposition in this case.",
+        "hypothesis": "There is a deposition from Dr. Lees-Haley in this case.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "And you are aware of Dr. Lees-Haley\u2019s efforts to market himself to the insurance industry.",
+        "hypothesis": "Dr. Lees-Haley is trying to market himself to the insurance industry.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you were given his deposition in the Northwestern case.",
+        "hypothesis": "There is a Northwestern case.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "Okay, and in that deposition , or we\u2019ve got the report, he did one examination of Mr. Mead.",
+        "hypothesis": "There is a deposition and a report related to Mr. Mead's examination.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "All right, and if you were to become aware that Dr. Lees-Haley had addressed insurance agents and adjusters and told them not to bother calling \u2014 I\u2019m sorry \u2014 not to call him until they\u2019re ready to deny the claim, and basically told them he was on their side and was there to help them deny the claim, would that influence your view of his credibility.",
+        "hypothesis": "Dr. Lees-Haley has addressed insurance agents and adjusters. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "All right, and if you were to become aware that Dr. Lees-Haley had addressed insurance agents and adjusters and told them not to bother calling \u2014 I\u2019m sorry \u2014 not to call him until they\u2019re ready to deny the claim, and basically told them he was on their side and was there to help them deny the claim, would that influence your view of his credibility.",
+        "hypothesis": "He has told them not to call him until they're ready to deny the claim. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "All right, and if you were to become aware that Dr. Lees-Haley had addressed insurance agents and adjusters and told them not to bother calling \u2014 I\u2019m sorry \u2014 not to call him until they\u2019re ready to deny the claim, and basically told them he was on their side and was there to help them deny the claim, would that influence your view of his credibility.",
+        "hypothesis": "He has told them he is on their side and is there to help them deny the claim. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "We\u2019ll get to evidence of distortion later.For now, you have ever met Dr. Lees-Haley.",
+        "hypothesis": "Dr. Lees-Haley exists.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "you are aware that Dr. Lees-Haley was a contributing editor to Claims Magazine for a number of years.",
+        "hypothesis": "Dr. Lees-Haley was a contributing editor to Claims Magazine.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you are aware that Dr. Lees-Haley was a contributing editor to Claims Magazine for a number of years.",
+        "hypothesis": "Dr. Lees-Haley was a contributing editor to Claims Magazine for a number of years.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you are aware that Dr. Lees-Haley was a contributing editor to Claims Magazine for a number of years.",
+        "hypothesis": "Dr. Lees-Haley was a contributing editor to Claims Magazine in the past.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "What percentage of the time is Dr. Haley \u2014 or Lees-Haley retained by insurance companies or the defense.",
+        "hypothesis": "Dr. Haley has been retained by insurance companies or the defense in the past.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "I am going to hand you the deposition of Dr. Haley.Page 42, line 16, do you see where Dr. Lees-Haley is testifying that for the last several years between ninety-five and ninety-nine percent of the cases for which he\u2019s been retained as a forensic expert has been for defense cases.",
+        "hypothesis": "Dr. Haley has been retained as a forensic expert for multiple cases. ",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "I am going to hand you the deposition of Dr. Haley.Page 42, line 16, do you see where Dr. Lees-Haley is testifying that for the last several years between ninety-five and ninety-nine percent of the cases for which he\u2019s been retained as a forensic expert has been for defense cases.",
+        "hypothesis": "Dr. Haley has been retained as a forensic expert for defense cases in the last several years. ",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "I am going to hand you the deposition of Dr. Haley.Page 42, line 16, do you see where Dr. Lees-Haley is testifying that for the last several years between ninety-five and ninety-nine percent of the cases for which he\u2019s been retained as a forensic expert has been for defense cases.",
+        "hypothesis": "Dr. Haley has been retained as a forensic expert for more than ninety-five percent of cases in the last several years. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "And on page 39 it says that he co-edited a handbook on psychological claims for insurance companies.",
+        "hypothesis": "He co-edited a handbook on psychological claims for insurance companies.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "And on page 39 that he co-edited a handbook on psychological claims for insurance companies.",
+        "hypothesis": "There is a handbook on psychological claims for insurance companies.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "any of that does suggest any issues with regard to Dr. Haley\u2019s credibility or lack of bias.",
+        "hypothesis": "Dr. Haley has credibility.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "You know that if you \u2014 well, it would be a horrible thing, wouldn\u2019t it, if you accused somebody of being a liar and a fraud and they lost their disability benefits and you were wrong.",
+        "hypothesis": "It would be a horrible thing if someone lost their disability benefits when they were wrongfully accused of being a liar and a fraud.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "And you want to make sure you look at all of the available evidence before you form an opinion like that.",
+        "hypothesis": "You formed an opinion.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "And you want to make sure you look at all of the available evidence before you form an opinion like that.",
+        "hypothesis": "There is available evidence.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "you do think it\u2019s relevant and significant that Gena Mead thinks and observed Cliff Mead\u2019s health deteriorating over a period of years, is that significant in your mind.",
+        "hypothesis": "Cliff Mead's health has been deteriorating over a period of years. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "is there something that shows she\u2019s lying when she describes his deterioration over a period of years.",
+        "hypothesis": "She describes his deterioration over a period of years.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "All right, and that financial interest \u2014 well, let me ask you this, how did you weigh in the fact that Mr. Mead and Gena Mead had a divorce case going at the time she testified about the affair.",
+        "hypothesis": "Mr. Mead and Gena Mead were married before.",
+        "label": "P",
+        "trigger_type": "change-of-state",
+        "type": "original"
+    },
+    {
+        "premise": "All right, and that financial interest \u2014 well, let me ask you this, how did you weigh in the fact that Mr. Mead and Gena Mead had a divorce case going at the time she testified about the affair.",
+        "hypothesis": "Gena Mead testified about an affair.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "So Gena Mead is lying when she tells us about what she observed with regard to Cliff Mead\u2019s health over the years.",
+        "hypothesis": "Gena Mead has told us what she observed with regard to Cliff Mead's health.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "So Gena Mead is lying when she tells us about what she observed with regard to Cliff Mead\u2019s health over the years.",
+        "hypothesis": "Gena Mead has observed something about Cliff Mead's health over the years.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "What reasons are there to disbelieve Mr. Mead\u2019s partners when they testify.",
+        "hypothesis": "Mr. Mead's partners have testified before.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": " I think you misunderstood my question. I\u2019m talking about his business partners, what reasons are there to be skeptical of their testimony? This is an easy one.\n",
+        "hypothesis": "There are reasons to be skeptical of his business partners' testimony.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "you were aware that the partners and Mr. Mead had a lawsuit against each other.",
+        "hypothesis": "The partners and Mr. Mead had a lawsuit against each other. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "didn\u2019t did say to Dr. Lees-Haley that the most emotionally distressing experience of his entire life was the death of his son in 1996.",
+        "hypothesis": "Mr. Mead had a son who died in 1996.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "didn\u2019t did say to Dr. Lees-Haley that the most emotionally distressing experience of his entire life was the death of his son in 1996.",
+        "hypothesis": "The death of his son was the most emotionally distressing experience of Mr. Mead's life.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you do have a copy of Dr. Lees-Haley\u2019s report with you.",
+        "hypothesis": "Dr. Lees-Haley has a report.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "would you turn to page 5, please.do you have it on your computer.",
+        "hypothesis": "You have a computer.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "What Mr. Mead told Dr. Lees-Haley was that the most emotionally distressing experience of his entire life was the death of his son in 1996, wasn\u2019t it.",
+        "hypothesis": "Mr. Mead had a son who died in 1996. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "What Mr. Mead told Dr. Lees-Haley was that the most emotionally distressing experience of his entire life was the death of his son in 1996, wasn\u2019t it.",
+        "hypothesis": "Mr. Mead told Dr. Lees-Haley something. ",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "And at this point it\u2019s what.Five years after his son has died.",
+        "hypothesis": "The speaker's son had died once.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "What the trails making A is concerned with is visual scanning and attention.",
+        "hypothesis": "The trails making A is concerned with something.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "And there again he does worse than ninety-nine percent of the population.",
+        "hypothesis": "He has done worse than ninety-nine percent of the population before.",
+        "label": "P",
+        "trigger_type": "iterative",
+        "type": "original"
+    },
+    {
+        "premise": "And on the second Stroup test, the interference test, that also tests how distractible he is.",
+        "hypothesis": "There is a second Stroup test.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "And according to Dr. Lees-Haley, the scores I that Mr. Mead\u2019s overall ability to pay attention and concentrate is seemingly quite variable, is that right.indicate know there\u2019s more to it, but that\u2019s the first sentence, is that right.",
+        "hypothesis": "There is more to it.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "All right, and that\u2019s actually consistent with what Mr. Mead had been reporting to his doctors for years, isn\u2019t it, that sometimes he was able to concentrate and other times he had real troubles.",
+        "hypothesis": "Mr. Mead had been reporting something to his doctors for years. ",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "What\u2019s your understanding as to the exercise \u2014 you\u2019ve read his deposition, what exercise Mr. Mead does do at present or at the time of his deposition.",
+        "hypothesis": "Mr. Mead does some kind of exercise.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "right All right, and what\u2019s your understanding of what his doctors have recommended to him.",
+        "hypothesis": "The person in question has doctors.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "Well, right, You me just ask some leading questions to move us through this.let understand that Dr. Cheney was not only diagnosing Mr. Mead but also treating him, right.",
+        "hypothesis": "Dr. Cheney was diagnosing and treating Mr. Mead. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "And you do agree that Dr. Cheney testified that he put Mr. Mead on an exercise regime that involved mild weight lifting, stretching, isometrics.",
+        "hypothesis": "Dr. Cheney testified that he put Mr. Mead on an exercise regime.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "So Mr. Mead is doing exactly what Dr. Cheney told him to do, isn\u2019t he.",
+        "hypothesis": "Dr. Cheney told Mr. Mead to do something. ",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "I didn\u2019t think so.you would agree that Mr. Mead had a good work ethic in college.",
+        "hypothesis": "Mr. Mead had a good work ethic in college.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "So he\u2019s a winner and a competitor in 1989, you would agree.",
+        "hypothesis": "He was a winner and a competitor in 1989.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "So when he\u2019s talking to hhe doctors and reporting symptoms in 1990, \u2018 91, \u201992, is is malingering.",
+        "hypothesis": "He has been talking to his doctors and reporting symptoms since 1990.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "let\u2019s go back then to \u201991 before hthat partners ever say a word to him about any kind of trouble, and you\u2019re aware is his partners told him they wanted him to leave in August of \u201996 \u2014 or I\u2019m sorry, August of \u2014 I better look that up \u2014 the middle of \u201992, is that right.",
+        "hypothesis": "His partners told him to leave sometime in 1992.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "So why he is going to doctors starting in late \u201990 all the way through \u201991 complaining of fatigue, congestion, pain in the muscles, why is he doing all of that in \u201990 and \u201991.",
+        "hypothesis": "He was going to doctors in the late 1990s.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "And you would accept his description of the timing of when they told Mr. Mead certain things.",
+        "hypothesis": "They told Mr. Mead certain things.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Yeah, he lost his career, correct.",
+        "hypothesis": "He had a career. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "Yeah, he lost his career, correct.",
+        "hypothesis": "He was once employed.",
+        "label": "P",
+        "trigger_type": "change-of-state",
+        "type": "original"
+    },
+    {
+        "premise": "Yeah, he lost his career, correct.",
+        "hypothesis": "He was employed before.",
+        "label": "P",
+        "trigger_type": "change-of-state",
+        "type": "original"
+    },
+    {
+        "premise": "So the malingering began after he was pushed out of hthat job, is is what you are telling us.",
+        "hypothesis": "He was pushed out of his job.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "you do remember them saying he was a private person and that in this type of industry this is not the first thing you\u2019d necessarily want out.",
+        "hypothesis": "They said that he was a private person. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "So you haven\u2019t heard that she knew him for ten years and always knew him to be a person of integrity, credibility, and honesty, is that right.",
+        "hypothesis": "She knew him for ten years. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "Well, having given in excess of 400 depositions, you understand parts of the legal process, you understand why depositions are taken and so forth.",
+        "hypothesis": "There are reasons why depositions are taken.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "Well, what I\u2019m trying to get at you is said it was 50 two years ago, and we are now at two years later, and we know you\u2019ve testified in court at least seven or eight times over the last two years, correct.",
+        "hypothesis": "You have testified in court at least seven or eight times over the last two years. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "Well, Doctor, we can agree that, in any event, that a substantial amount of your professional time is devoted to dealing with lawyers.",
+        "hypothesis": "The doctor spends a considerable amount of their professional time dealing with lawyers.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "Well, I\u2019ve got \u2014 I don\u2019t have all 400 of your depositions here, but I\u2019ve got about 80, and I would be happy to go through them if the need arises.But I would represent to you, sir, that in all 80 of these depositions, not a single one was taken at 4:00 a.m. or on the weekends.Every single one was taken on a weekday between nine and five.you could accept that possibility, sir, or should we walk through them.",
+        "hypothesis": "There are 400 depositions.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "And when you were in Jacksonville last year \u2013do you remember going to Jacksonville to testify.",
+        "hypothesis": "You were in Jacksonville last year.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "And when you were in Jacksonville last year \u2013do you remember going to Jacksonville to testify.",
+        "hypothesis": "You went to Jacksonville to testify.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "Well, we\u2019re going to talk a little bit more about your charges, sir.But that case over in Jacksonville \u2014 you told the jury the same thing.You get up at 4:00 a.m., you do the work on \u2014 at 4:00 a.m. and on the weekends.do you recall that testimony.",
+        "hypothesis": "The person they are speaking to gave a testimony in a case in Jacksonville.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you do remember who you testified for, sir.",
+        "hypothesis": "The person has testified for someone in the past. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "But, in any event, we can agree, Doctor, that in the 450 cases in which you\u2019ve testified, either by deposition or at trial, that in 95 percent of the cases you\u2019ve testified for the defendants and against the patient.",
+        "hypothesis": "Doctor has testified in 450 cases.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "But, in any event, we can agree, Doctor, that in the 450 cases in which you\u2019ve testified, either by deposition or at trial, that in 95 percent of the cases you\u2019ve testified for the defendants and against the patient.",
+        "hypothesis": "Doctor has testified for the defendants in 95 percent of the cases.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "But, in any event, we can agree, Doctor, that in the 450 cases in which you\u2019ve testified, either by deposition or at trial, that in 95 percent of the cases you\u2019ve testified for the defendants and against the patient.",
+        "hypothesis": "Doctor has testified against the patient in 95 percent of the cases.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "Doctor, we can at least agree that in 95 percent of these cases in which a lawsuit is brought by a parent or by a child against a doctor or healthcare provider, your testimony is paid for by the defendant.",
+        "hypothesis": "A lawsuit has been brought against a doctor or healthcare provider. ",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Doctor, we can at least agree that in 95 percent of these cases in which a lawsuit is brought by a parent or by a child against a doctor or healthcare provider, your testimony is paid for by the defendant.",
+        "hypothesis": "The lawsuit has been brought by a parent or a child. ",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "In fact, Doctor, in all the 25 years that you\u2019ve been doing this, you\u2019ve only come in and testified for a patient or a patient\u2019s family how many times at trial.",
+        "hypothesis": "The doctor has been in practice for 25 years.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "In fact, Doctor, in all the 25 years that you\u2019ve been doing this, you\u2019ve only come in and testified for a patient or a patient\u2019s family how many times at trial.",
+        "hypothesis": "The doctor has testified for a patient or a patient's family at trial.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "Doctor, would it be fair to say that with respect to the testimony you have given in the past in deposition that you have given wildly inconsistent testimony about the number of times that you\u2019ve testified and who you\u2019ve testified for and so forth.we can at least agree to that.",
+        "hypothesis": "The Doctor has given testimony in the past in deposition.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "Doctor, would it be fair to say that with respect to the testimony you have given in the past in deposition that you have given wildly inconsistent testimony about the number of times that you\u2019ve testified and who you\u2019ve testified for and so forth.we can at least agree to that.",
+        "hypothesis": "The Doctor's testimony has been wildly inconsistent.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "Doctor, would it be fair to say that with respect to the testimony you have given in the past in deposition that you have given wildly inconsistent testimony about the number of times that you\u2019ve testified and who you\u2019ve testified for and so forth.we can at least agree to that.",
+        "hypothesis": "The Doctor's testimony has been inconsistent with respect to the number of times they have testified and who they have testified for.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "let Well, let\u2019s \u2014 well, Doctor, in the year \u2013 let\u2019s go back to the 19 \u2014 no, we won\u2019t go back that far, let\u2019s start in 1999.In 1999, sir, every time you testified in court or by deposition, it was for a defendant, wasn\u2019t it.",
+        "hypothesis": "The doctor has testified in court or by deposition before.",
+        "label": "P",
+        "trigger_type": "iterative",
+        "type": "original"
+    },
+    {
+        "premise": "let Well, let\u2019s \u2014 well, Doctor, in the year \u2013 let\u2019s go back to the 19 \u2014 no, we won\u2019t go back that far, let\u2019s start in 1999.In 1999, sir, every time you testified in court or by deposition, it was for a defendant, wasn\u2019t it.",
+        "hypothesis": "The doctor has testified in court or by deposition in 1999.",
+        "label": "P",
+        "trigger_type": "iterative",
+        "type": "original"
+    },
+    {
+        "premise": "I appreciate you telling me that.do you recall your deposition being taken in the Palmer versus Keller case on April 27th, 2001, in Albuquerque, New Mexico.see if you remember being asked these questions and giving this answer.In 1999, those 28 times you testified in medical malpractice cases, was every one of those testimonies for the defendant doctor or hospital.Answer, I believe so.",
+        "hypothesis": "The other person was deposed in the Palmer versus Keller case on April 27th, 2001 in Albuquerque, New Mexico.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you do recall that question and that answer, sir.",
+        "hypothesis": "There was a question and an answer.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you do recall, sir, that in the year 1998 every case you testified in was for a defendant, 100 percent of the cases.",
+        "hypothesis": "The the listener testified in cases in 1998.",
+        "label": "P",
+        "trigger_type": "iterative",
+        "type": "original"
+    },
+    {
+        "premise": " I appreciate you telling me. Same deposition, page 15, line four. Question: And in 1998 was 100 percent of your testimony for cases on behalf of the defendants? Answer, Yes.\n",
+        "hypothesis": "You gave testimony in court in 1998.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": " I appreciate you telling me. Same deposition, page 15, line four. Question: And in 1998 was 100 percent of your testimony for cases on behalf of the defendants? Answer, Yes.\n",
+        "hypothesis": "You told me something regarding cases on behalf of defendants in 1998.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "What you did do at some point though, doctor, was create a list of cases in which you testified.do you recall doing that.",
+        "hypothesis": "The Doctor created a list of cases in which they testified at some point. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "right Yes, sir, you were, because you reviewed the deposition you gave in this case, right.",
+        "hypothesis": "You gave a deposition in this case.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "Doctor, we were the first lawyers to ask for that list.",
+        "hypothesis": "There is a list.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "And what you\u2019ve told those lawyers, sir, is that you can\u2019t create a copy of a list.have haven\u2019t kept a copy of it.",
+        "hypothesis": "You have told the lawyers something.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "Now, after you compiled the list, what did you do with it.",
+        "hypothesis": "You compiled the list.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Now, after you compiled the list, what did you do with it.",
+        "hypothesis": "The list exists.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "Now, Doctor Radetsky, how much are you I paid in this case.being know what your hourly rate is.I want to know how much \u2014 by the time you get back to New Mexico \u2014 what the total bill for the defendants is going to be for your work in this case.",
+        "hypothesis": "The defendants are paying Doctor Radetsky for his work in this case. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "Now, Doctor Radetsky, how much are you I paid in this case.being know what your hourly rate is.I want to know how much \u2014 by the time you get back to New Mexico \u2014 what the total bill for the defendants is going to be for your work in this case.",
+        "hypothesis": "Doctor Radetsky has an hourly rate. ",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "Now, Doctor Radetsky, how much are you I paid in this case.being know what your hourly rate is.I want to know how much \u2014 by the time you get back to New Mexico \u2014 what the total bill for the defendants is going to be for your work in this case.",
+        "hypothesis": "Doctor Radetsky will be returning to New Mexico. ",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": " Doctor, let me rephrase the question. Can you give our jury your best estimate \u2013 I\u2019m not asking you to the penny, but say within $5,000, give the jury your best estimate as to what your total charges are going to be for your work in this case.\n",
+        "hypothesis": "The doctor has done some work in the case.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "It\u2019s based upon your belief that that represents the true state of facts; we can at least agree to that.",
+        "hypothesis": "The listener has a belief about the true state of facts.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "In any event, your understanding is Levi had no illnesses prior to his instantaneous death, correct.",
+        "hypothesis": "Levi's death was instantaneous.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "As far as you know, he had no illnesses prior to the time he stopped breathing; is that fair or not.",
+        "hypothesis": "He stopped breathing at some point in the past.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Well, Doctor, using your definition of illness, we can at least agree that you believe that Levi had no illnesses until he stopped breathing.",
+        "hypothesis": "Doctor believes that Levi had no illnesses until he stopped breathing.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "Well, Doctor, using your definition of illness, we can at least agree that you believe that Levi had no illnesses until he stopped breathing.",
+        "hypothesis": "Doctor has a definition of illness.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "Well, Doctor, using your definition of illness, we can at least agree that you believe that Levi had no illnesses until he stopped breathing.",
+        "hypothesis": "Levi stopped breathing.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "You\u2019ve read the deposition of Julie Slayton.",
+        "hypothesis": "Julie Slayton has given a deposition. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": " And from the 400 plus depositions you\u2019ve given, you understand that the reason we do that is so we can find out what opinions you have and what thoughts you have and so we can prepare ourselves for a trial like this. You understand that\u2019s the purpose of the deposition.\n",
+        "hypothesis": "You have given more than 400 depositions.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "In any event, Doctor, while you and I may disagree about some things about Levi Slayton, one of the things we can agree on is that, for at least a day or so leading up to the time that Levi Slayton stopped breathing, for at least a day or so, maybe more, Levi Slayton had pneumonia.",
+        "hypothesis": "Doctor and the speaker disagree about something related to Levi Slayton.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "In any event, Doctor, while you and I may disagree about some things about Levi Slayton, one of the things we can agree on is that, for at least a day or so leading up to the time that Levi Slayton stopped breathing, for at least a day or so, maybe more, Levi Slayton had pneumonia.",
+        "hypothesis": "Levi Slayton had pneumonia leading up to the time he stopped breathing.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you do have your deposition there, doctor.",
+        "hypothesis": "Doctor has a deposition.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you do remember giving that answer to that question.",
+        "hypothesis": "You were asked a question. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you do remember giving that answer to that question.",
+        "hypothesis": "You gave an answer to that question. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": " No, sir, you didn\u2019t. Now, if in fact, as you testified under oath, Levi had pneumonia at least a day or so before he stopped breathing, Levi would have had pneumonia at the\n",
+        "hypothesis": "Levi had pneumonia before he stopped breathing. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": " No, sir, you didn\u2019t. Now, if in fact, as you testified under oath, Levi had pneumonia at least a day or so before he stopped breathing, Levi would have had pneumonia at the\n",
+        "hypothesis": "Levi had pneumonia at least a day before he stopped breathing. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": " No, sir, you didn\u2019t. Now, if in fact, as you testified under oath, Levi had pneumonia at least a day or so before he stopped breathing, Levi would have had pneumonia at the\n",
+        "hypothesis": "Levi had pneumonia at the time he stopped breathing. ",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "All right, and it\u2019s the forensic psychiatrist\u2019s responsibility to highlight and emphasize facts favorable to the side that hired them and to de-emphasize or ignore facts that don\u2019t help the side that hired them, is that fair to say.",
+        "hypothesis": "The forensic psychiatrist has a responsibility to their client.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "is isn\u2019t that what most forensic psychiatrists believe.",
+        "hypothesis": "Most forensic psychiatrists believe something.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "You filed an affidavit for the judge in this case, you do recall that, actually, a declaration.",
+        "hypothesis": "You filed an affidavit for the judge in this case.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you did cite that text to the judge.",
+        "hypothesis": "The text exists. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "I wasn\u2019t asking you to admit it was authoritative, but you thought the book was a reliable resource, didn\u2019t you, that\u2019s why you own it, that\u2019s why you cited it to the judge.",
+        "hypothesis": "You own the book.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "I wasn\u2019t asking you to admit it was authoritative, but you thought the book was a reliable resource, didn\u2019t you, that\u2019s why you own it, that\u2019s why you cited it to the judge.",
+        "hypothesis": "You cited the book to the judge.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "I wasn\u2019t asking you to admit it was authoritative, but you thought the book was a reliable resource, didn\u2019t you, that\u2019s why you own it, that\u2019s why you cited it to the judge.",
+        "hypothesis": "The book was authoritative.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": " All right. Well, let me ask you about a section in your book \u2013\n",
+        "hypothesis": "The book has a section. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": " This is from page 11 in the book, Dr. Rosenberg, and it reads, both attorneys and forensic psychiatrists \u2014\n",
+        "hypothesis": "Attorneys and forensic psychiatrists exist. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "Well, that\u2019s what you did in this case, isn\u2019t it, Dr. Rosenberg, you highlighted the facts that support your malingering theory and deemphasized or ignored the facts that don\u2019t support that theory.",
+        "hypothesis": "Dr. Rosenberg did something in this case.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "Well, that\u2019s what you did in this case, isn\u2019t it, Dr. Rosenberg, you highlighted the facts that support your malingering theory and deemphasized or ignored the facts that don\u2019t support that theory.",
+        "hypothesis": "Dr. Rosenberg has a malingering theory.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": " Tell us the facts that appear in your report that support the theory that Mr. Mead is genuinely disabled.\n",
+        "hypothesis": "Mr. Mead is disabled.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": " Tell us the facts that appear in your report that support the theory that Mr. Mead is genuinely disabled.\n",
+        "hypothesis": "There are facts in the report that support the theory that Mr. Mead is genuinely disabled.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "Those are the only facts you came up with in your entire evaluation that support Mr. Mead\u2019s claim of disability, is that right.",
+        "hypothesis": "Mr. Mead has a claim of disability. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "Those are the only facts you came up with in your entire evaluation that support Mr. Mead\u2019s claim of disability, is that right.",
+        "hypothesis": "The speaker has an evaluation. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "So you did consider that her reports about Mr. Mead and his disabilities were credible.",
+        "hypothesis": "Mr. Mead has disabilities. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "Well, that it a subjective statement if she reports what she observed from living with him for twenty-eight years.is is \u2014 do you consider that subjective.",
+        "hypothesis": "She has been living with him for twenty-eight years.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Well, that it a subjective statement if she reports what she observed from living with him for twenty-eight years.is is \u2014 do you consider that subjective.",
+        "hypothesis": "She has observed something while living with him.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "aren\u2019t are supposed to weigh the evidence in favor of your hypothesis as well as the evidence against your hypothesis.",
+        "hypothesis": "There is evidence in favor of the hypothesis. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "aren\u2019t are supposed to weigh the evidence in favor of your hypothesis as well as the evidence against your hypothesis.",
+        "hypothesis": "There is evidence against the hypothesis. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "But not the facts that would be relevant in support of the theory that Mr. Mead is disabled, is that right.",
+        "hypothesis": "There are facts that would be relevant in support of this theory.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "What you\u2019re doing is you\u2019re picking and choosing from Ms. Mead\u2019s deposition taking the portions that support your theory and ignoring or de-emphasizing the rest, isn\u2019t that right.",
+        "hypothesis": "Ms. Mead has given a deposition.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "What you\u2019re doing is you\u2019re picking and choosing from Ms. Mead\u2019s deposition taking the portions that support your theory and ignoring or de-emphasizing the rest, isn\u2019t that right.",
+        "hypothesis": "The speaker has a theory.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "I did understand from your testimony that you wrote a chapter or article in a book called Comprehensive Textbook on Psychiatry, a chapter on ethics.",
+        "hypothesis": "You wrote a chapter or article in a book called Comprehensive Textbook on Psychiatry.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "Out of these thirty patients you see a day, approximately how many are you prescribing medications for.",
+        "hypothesis": "You prescribe medications for some of the thirty patients.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "Ninety percent of your income comes from forensic work.",
+        "hypothesis": "You have an income.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "And in that talk you addressed the subject of objectifying subjective complaints.",
+        "hypothesis": "There was a talk.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "you do recall testifying in a case called Abner versus Paul Revere Insurance Company.",
+        "hypothesis": "You testified in a case called Abner versus Paul Revere Insurance Company.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you do recall testifying in a case called Abner versus Paul Revere Insurance Company.",
+        "hypothesis": "You have previously testified in a case called Abner versus Paul Revere Insurance Company.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "let me just show you page 93 from your deposition in that case.[Pause for sidebar conference.]All I wanted to ask, Doctor, is whether this refreshes your recollection about talking about teaching the insurance people about objectifying subjective complaints.",
+        "hypothesis": "You have a deposition in that case. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "Now, as I understand it, you do \u2014 well, I should just ask you \u2014 I think you told us you\u2019ve done thirty to thirty-five IME\u2019s for Unum Provident.",
+        "hypothesis": "You have done thirty to thirty-five IMEs for Unum Provident.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "All right, and when they hired \u2014 let\u2019s make a distinction between cases in litigation and cases that are not in litigation.That thirty to thirty-five for Unum Provident related right is for cases not in litigation.",
+        "hypothesis": "There is a distinction between cases in litigation and cases that are not in litigation. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "How many of these evaluations you do do each month.",
+        "hypothesis": "You do evaluations.",
+        "label": "P",
+        "trigger_type": "questions",
+        "type": "original"
+    },
+    {
+        "premise": "you do recall testifying in Abner that Barger and Wolen had hired you between five and ten times to work on Unum Provident cases.",
+        "hypothesis": "Abner exists. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "you do recall testifying in Abner that Barger and Wolen had hired you between five and ten times to work on Unum Provident cases.",
+        "hypothesis": "Barger and Wolen exist.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "you do recall testifying in Abner that Barger and Wolen had hired you between five and ten times to work on Unum Provident cases.",
+        "hypothesis": "Unum Provident exists.",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "you do recall testifying in Abner that Barger and Wolen had hired you between five and ten times to work on Unum Provident cases.",
+        "hypothesis": "You have testified in Abner before.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you do recall testifying in Abner that Barger and Wolen had hired you between five and ten times to work on Unum Provident cases.",
+        "hypothesis": "You were hired by Barger and Wolen.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you do recall testifying in Abner that Barger and Wolen had hired you between five and ten times to work on Unum Provident cases.",
+        "hypothesis": "You were hired between five and ten times.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "you do recall testifying in Abner that Barger and Wolen had hired you between five and ten times to work on Unum Provident cases.",
+        "hypothesis": "You were hired to work on Unum Provident cases.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "And in those cases there\u2019s no cap like there is in the prelitigation cases, correct.",
+        "hypothesis": "There is a cap in prelitigation cases.",
+        "label": "P",
+        "trigger_type": "comparatives",
+        "type": "original"
+    },
+    {
+        "premise": "And you told us you\u2019ve spent \u2014 or you\u2019ve charged $20,000.00 in this case up until recently when you began to prepare for it again.Roughly how much time do you have in it since you completed your report.",
+        "hypothesis": "The speaker has spent or charged $20,000 in this case.",
+        "label": "P",
+        "trigger_type": "factive",
+        "type": "original"
+    },
+    {
+        "premise": "And you told us you\u2019ve spent \u2014 or you\u2019ve charged $20,000.00 in this case up until recently when you began to prepare for it again.Roughly how much time do you have in it since you completed your report.",
+        "hypothesis": "The speaker recently began to prepare for it again.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "By the way, these inconsistencies in your testimony today versus your testimony before, that does raise in your mind a credibility issue similar to what you\u2019ve told us about Mr. Mead.",
+        "hypothesis": "There are inconsistencies in the person's testimony. ",
+        "label": "P",
+        "trigger_type": "existential",
+        "type": "original"
+    },
+    {
+        "premise": "In each of the cases in which you were hired by Barger and Wolen, you disagreed with the treating doctors, isn\u2019t that right.",
+        "hypothesis": "You have been hired by Barger and Wolen in the past. ",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "Teachers conceal when Amy has come here.",
+        "hypothesis": "Amy has come here",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "These patients forget about how the Impressionists approve.",
+        "hypothesis": "The Impressionists approve",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Sharon reveals when Gina had encouraged Sonia's sons to divorce.",
+        "hypothesis": "Gina had encouraged Sonia's sons to divorce",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Marcus has revealed when these ladies were meeting.",
+        "hypothesis": "These ladies were meeting",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Naomi has forgotten how that museum swayed Carrie to mutter.",
+        "hypothesis": "That museum swayed Carrie to mutter",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "April forgot where that hat did twirl.",
+        "hypothesis": "That hat did twirl",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Museums know when Donald neglects to hide that wheelbarrow.",
+        "hypothesis": "Donald neglects to hide that wheelbarrow",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Stacy had remembered where Noah anticipated Kirsten to kiss Kimberley.",
+        "hypothesis": "Noah anticipated Kirsten to kiss Kimberley",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Samuel realized where Vincent has hurt those cashiers.",
+        "hypothesis": "Vincent has hurt those cashiers",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Bill does learn where Sally profits.",
+        "hypothesis": "Sally profits",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Those actresses did figure out how men do fight.",
+        "hypothesis": "Men do fight",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Russell was wondering when the dancers chat.",
+        "hypothesis": "The dancers chat",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "The doctor does wonder when these cashiers change.",
+        "hypothesis": "These cashiers change",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Samuel does forget about when those doctors bake.",
+        "hypothesis": "Those doctors bake",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Those libraries forget when Judy is asking the association to boast.",
+        "hypothesis": "Judy is asking the association to boast",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Monet finds out why the glove shrank.",
+        "hypothesis": "The glove shrank",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "The guys were figuring out how women have figured out who won't chat.",
+        "hypothesis": "Women have figured out who won't chat",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Gary realized why Kenneth does stun Jodi.",
+        "hypothesis": "Kenneth does stun Jodi",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Lisa has learned how the students wear those socks.",
+        "hypothesis": "The students wear those socks",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "The governments forget about why this legislature did forget about who prods Christina to worry Jerry.",
+        "hypothesis": "This legislature did forget about who prods Christina to worry Jerry",
+        "label": "P",
+        "trigger_type": "question_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Jacqueline's bank that didn't cooperate did manage to benefit.",
+        "hypothesis": "Jacqueline has exactly one bank that didn't cooperate.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Those waitresses' shoe that hadn't annoyed the schools did disappear.",
+        "hypothesis": "Those waitresses have exactly one shoe that hadn't annoyed the schools.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Tiffany's chair that is scaring Samantha did waste away.",
+        "hypothesis": "Tiffany has exactly one chair that is scaring Samantha.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Mary's shawl that had dried did shock Patrick.",
+        "hypothesis": "Mary has exactly one shawl that had dried.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Vincent's photograph that would astound Walter does fall.",
+        "hypothesis": "Vincent has exactly one photograph that would astound Walter.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Anne's candle that had dimmed does disturb Robert.",
+        "hypothesis": "Anne has exactly one candle that had dimmed.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Brian's skateboard that wasn't disgusting Allison does shock Sheila.",
+        "hypothesis": "Brian has exactly one skateboard that wasn't disgusting Allison.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Maria's photograph that hasn't hurt Tammy does alarm this museum.",
+        "hypothesis": "Maria has exactly one photograph that hasn't hurt Tammy.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Brian's popsicle that couldn't stun Karla does fall.",
+        "hypothesis": "Brian has exactly one popsicle that couldn't stun Karla.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "David's apple that hadn't bored Irene did fall.",
+        "hypothesis": "David has exactly one apple that hadn't bored Irene.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Adam's sweater that wasn't wasting away did appear.",
+        "hypothesis": "Adam has exactly one sweater that wasn't wasting away.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Carlos's painting that hasn't disappeared does waste away.",
+        "hypothesis": "Carlos has exactly one painting that hasn't disappeared.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Curtis's coat that alarmed Claire does aggravate Deborah.",
+        "hypothesis": "Curtis has exactly one coat that alarmed Claire.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Raymond's blouse that is vanishing does annoy Christine.",
+        "hypothesis": "Raymond has exactly one blouse that is vanishing.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "This cashier's cafe that isn't wasting away does annoy James.",
+        "hypothesis": "This cashier has exactly one cafe that isn't wasting away.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Carrie's spotlight that was scaring Barbara does vanish.",
+        "hypothesis": "Carrie has exactly one spotlight that was scaring Barbara.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Craig's lake that isn't disappearing did melt.",
+        "hypothesis": "Craig has exactly one lake that isn't disappearing.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Diana's story that hadn't disgusted Jill did aggravate Mary.",
+        "hypothesis": "Diana has exactly one story that hadn't disgusted Jill.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "These drivers' gate that bored Christopher does exist.",
+        "hypothesis": "These drivers have exactly one gate that bored Christopher.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Michelle's cafe that was falling does irritate Alan.",
+        "hypothesis": "Michelle has exactly one cafe that was falling.",
+        "label": "P",
+        "trigger_type": "possessed_definites_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "Rose's ice did stun the children.",
+        "hypothesis": "Rose has ice.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Wayne's spouse does leave the dancer.",
+        "hypothesis": "Wayne has a spouse.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Susan's eggplant did aggravate these universities.",
+        "hypothesis": "Susan has a eggplant.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Katherine's plane does upset Sharon.",
+        "hypothesis": "Katherine has a plane.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Rose's bird did alarm Peter.",
+        "hypothesis": "Rose has a bird.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Lawrence's teacher did reveal Robert.",
+        "hypothesis": "Lawrence has a teacher.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "This adult's government does ask Catherine to clean a lot of banks.",
+        "hypothesis": "This adult has a government.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Jane's supervisor does clean this skirt.",
+        "hypothesis": "Jane has a supervisor.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Caroline's rabbits did disgust Sharon.",
+        "hypothesis": "Caroline has rabbits.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "The girl's art galleries do appear.",
+        "hypothesis": "The girl has art galleries.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Rachelle's blouse does shrink.",
+        "hypothesis": "Rachelle has a blouse.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Lori's guest does disgust the waitresses.",
+        "hypothesis": "Lori has a guest.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Craig's ex-boyfriend does pressure Gina's mother to study.",
+        "hypothesis": "Craig has a ex-boyfriend.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Lisa's skirt does exist.",
+        "hypothesis": "Lisa has a skirt.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Scott's universities did retaliate.",
+        "hypothesis": "Scott has universities.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Paul's doctor does cook.",
+        "hypothesis": "Paul has a doctor.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Lori's plumbers did work hard.",
+        "hypothesis": "Lori has plumbers.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Naomi's mountain did shock Sharon.",
+        "hypothesis": "Naomi has a mountain.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Brett's grandsons do realize who sits down.",
+        "hypothesis": "Brett has grandsons.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Carmen's cousins did want this senator to stun Wendy.",
+        "hypothesis": "Carmen has cousins.",
+        "label": "P",
+        "trigger_type": "possessed_definites_existence",
+        "type": "original"
+    },
+    {
+        "premise": "Colleen was only biking to that library.",
+        "hypothesis": "Colleen was biking to that library.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "The book only impressed Sharon.",
+        "hypothesis": "The book impressed Sharon.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Laura only explains the girls haven't hidden.",
+        "hypothesis": "Laura explains the girls haven't hidden.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Thomas only does conceal Edward.",
+        "hypothesis": "Thomas does conceal Edward.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Emily only does climb down these steps.",
+        "hypothesis": "Emily does climb down these steps.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Melanie only did convince James's oncologist to speak up.",
+        "hypothesis": "Melanie did convince James's oncologist to speak up.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "This drawing is only looking like the cups.",
+        "hypothesis": "This drawing is looking like the cups.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Jesus had only whispered.",
+        "hypothesis": "Jesus had whispered.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Kristen only discovered who was discovering all drivers to lie.",
+        "hypothesis": "Kristen discovered who was discovering all drivers to lie.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Kirsten only researches politics.",
+        "hypothesis": "Kirsten researches politics.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Those skateboards only do crash.",
+        "hypothesis": "Those skateboards do crash.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Randolf is only astounding Carol.",
+        "hypothesis": "Randolf is astounding Carol.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "The blouses only scared Vincent.",
+        "hypothesis": "The blouses scared Vincent.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "The pedestrian only does urge Carl to irritate Sabrina.",
+        "hypothesis": "The pedestrian does urge Carl to irritate Sabrina.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Libraries only do compel many drivers' ex-husband to get fired.",
+        "hypothesis": "Libraries do compel many drivers' ex-husband to get fired.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Brad was only spinning around.",
+        "hypothesis": "Brad was spinning around.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Christopher only painted.",
+        "hypothesis": "Christopher painted.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Stacey only pressures Rose to conceal Stephanie.",
+        "hypothesis": "Stacey pressures Rose to conceal Stephanie.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Donna only did cure Regina.",
+        "hypothesis": "Donna did cure Regina.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "Sheila only cleans this cup.",
+        "hypothesis": "Sheila cleans this cup.",
+        "label": "P",
+        "trigger_type": "only_presupposition",
+        "type": "original"
+    },
+    {
+        "premise": "It is Sherry that does dislike Allison.",
+        "hypothesis": "Exactly one person does dislike Allison.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Laura who sounded like Raymond.",
+        "hypothesis": "Exactly one person sounded like Raymond.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Carol that does persuade these associations to argue.",
+        "hypothesis": "Exactly one person does persuade these associations to argue.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Robert who does investigate Anne.",
+        "hypothesis": "Exactly one person does investigate Anne.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Denise who sounded like Helen.",
+        "hypothesis": "Exactly one person sounded like Helen.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Charles that has ordered Tammy to know David.",
+        "hypothesis": "Exactly one person has ordered Tammy to know David.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Omar who does drive to the movie theater.",
+        "hypothesis": "Exactly one person does drive to the movie theater.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Alice who doubts Donna described Stacey.",
+        "hypothesis": "Exactly one person doubts Donna described Stacey.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Irene that kissed David.",
+        "hypothesis": "Exactly one person kissed David.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Anna that passed that hill.",
+        "hypothesis": "Exactly one person passed that hill.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Marla that is researching the Great Lakes.",
+        "hypothesis": "Exactly one person is researching the Great Lakes.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Lori that had loved Jason.",
+        "hypothesis": "Exactly one person had loved Jason.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Cynthia who had respected Andrea.",
+        "hypothesis": "Exactly one person had respected Andrea.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Julie that talks to Theodore.",
+        "hypothesis": "Exactly one person talks to Theodore.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Kayla who explored those hills.",
+        "hypothesis": "Exactly one person explored those hills.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is James who is climbing up the stairs.",
+        "hypothesis": "Exactly one person is climbing up the stairs.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Victoria that does listen to Brett.",
+        "hypothesis": "Exactly one person does listen to Brett.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Daniel that had required Kendra's grandmother to play.",
+        "hypothesis": "Exactly one person had required Kendra's grandmother to play.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Carla that did annoy Jodi.",
+        "hypothesis": "Exactly one person did annoy Jodi.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Joseph that proved to freeze.",
+        "hypothesis": "Exactly one person proved to freeze.",
+        "label": "P",
+        "trigger_type": "cleft_uniqueness",
+        "type": "original"
+    },
+    {
+        "premise": "It is Douglas that did work with Tanya.",
+        "hypothesis": "Someone did work with Tanya",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Helen that talked about Cheryl.",
+        "hypothesis": "Someone talked about Cheryl",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Dan who does look to escape from Margaret.",
+        "hypothesis": "Someone does look to escape from Margaret",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Amanda that is leaving Lori.",
+        "hypothesis": "Someone is leaving Lori",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Deanna who did buy these blouses.",
+        "hypothesis": "Someone did buy these blouses",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is that movie that disagreed with Tamara.",
+        "hypothesis": "Something disagreed with Tamara",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is that driver who does forget about who weren't touring many rivers.",
+        "hypothesis": "Someone does forget about who weren't touring many rivers",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Christina who did hate Tammy.",
+        "hypothesis": "Someone did hate Tammy",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Donald who discovered the plate.",
+        "hypothesis": "Someone discovered the plate",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Lori that was talking about Valerie.",
+        "hypothesis": "Someone was talking about Valerie",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Amanda that was hurting Teresa.",
+        "hypothesis": "Someone was hurting Teresa",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Vincent who works with the waiter.",
+        "hypothesis": "Someone works with the waiter",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Renee who loves Sara.",
+        "hypothesis": "Someone loves Sara",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Brenda that cared for Erin.",
+        "hypothesis": "Someone cared for Erin",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Theresa that healed Monica.",
+        "hypothesis": "Someone healed Monica",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Gerald who is arguing about Sandra.",
+        "hypothesis": "Someone is arguing about Sandra",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Winston Churchill that had realized who wasn't continuing to train.",
+        "hypothesis": "Someone had realized who wasn't continuing to train",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is that person that finds out who doesn't talk about Carrie.",
+        "hypothesis": "Someone finds out who doesn't talk about Carrie",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Natalie that is needing Meredith to investigate Katherine.",
+        "hypothesis": "Someone is needing Meredith to investigate Katherine",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "It is Jeffrey who did help Ruth.",
+        "hypothesis": "Someone did help Ruth",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "The guest had found John.",
+        "hypothesis": "John used to be in an unknown location.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Maria was healing that guy.",
+        "hypothesis": "That guy used to be ill.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Michelle does wake up.",
+        "hypothesis": "Michelle is asleep.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Brenda climbed down the ladder.",
+        "hypothesis": "Brenda was at the top of the ladder.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Bruce has gotten a job.",
+        "hypothesis": "Bruce was unemployed.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Those gates did open.",
+        "hypothesis": "Those gates are closed.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Brett does ascend this hill.",
+        "hypothesis": "Brett is at the bottom of this hill.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "George does break this window.",
+        "hypothesis": "This window is whole.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Benjamin was fixing the plate.",
+        "hypothesis": "The plate used to be broken.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Gary did get a job.",
+        "hypothesis": "Gary is unemployed.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Christina does heal Stephen.",
+        "hypothesis": "Stephen is sick.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Omar is hiding Sarah.",
+        "hypothesis": "Sarah was out in the open.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Amanda had left.",
+        "hypothesis": "Amanda used to be here.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Those ladies had come here.",
+        "hypothesis": "Those ladies were not here.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "The cucumber had ripened.",
+        "hypothesis": "The cucumber used to be unripe.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Alan was climbing up ladders.",
+        "hypothesis": "Alan used to be at the bottom of ladders.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Edward had fixed the wheelbarrows.",
+        "hypothesis": "The wheelbarrows were broken.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Travis does hire Alexander.",
+        "hypothesis": "Alexander is unemployed.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "This waiter came here.",
+        "hypothesis": "This waiter was not here.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "Boxes are opening.",
+        "hypothesis": "Boxes were closed.",
+        "label": "P",
+        "trigger_type": "change_of_state",
+        "type": "original"
+    },
+    {
+        "premise": "All ten guys that proved to boast were divorcing.",
+        "hypothesis": "There are exactly ten guys that proved to boast.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "All ten reports that can bore some waiter are disagreeing with Naomi.",
+        "hypothesis": "There are exactly ten reports that can bore some waiter.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "The five waiters that approached Paul depart.",
+        "hypothesis": "There are exactly five waiters that approached Paul.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "The five boys who research that university had examined those reports.",
+        "hypothesis": "There are exactly five boys who research that university.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "The two boys that divorced are needing to bike to a mountain.",
+        "hypothesis": "There are exactly two boys that divorced.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "All nine teenagers that haven't spurred many nieces of Liam to explain everything have observed Jacqueline.",
+        "hypothesis": "There are exactly nine teenagers that haven't spurred many nieces of Liam to explain everything.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "The four pedestrians that were visiting Brenda sigh.",
+        "hypothesis": "There are exactly four pedestrians that were visiting Brenda.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "All eight skateboards that hadn't annoyed Amelia were astounding Christina.",
+        "hypothesis": "There are exactly eight skateboards that hadn't annoyed Amelia.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "All four waiters that were boring Paul have telephoned.",
+        "hypothesis": "There are exactly four waiters that were boring Paul.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "The ten women that talk did implore Pamela to bore Kenneth.",
+        "hypothesis": "There are exactly ten women that talk.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "All nine doctors who reunite wash.",
+        "hypothesis": "There are exactly nine doctors who reunite.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "All four ladies that didn't bother the Impressionists muttered.",
+        "hypothesis": "There are exactly four ladies that didn't bother the Impressionists.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "The two mouths that didn't appear are irritating Kathleen.",
+        "hypothesis": "There are exactly two mouths that didn't appear.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "The four pedestrians who should perform admired the convertibles.",
+        "hypothesis": "There are exactly four pedestrians who should perform.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "The three girls that drive to some closets prefer many screens to crack.",
+        "hypothesis": "There are exactly three girls that drive to some closets.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "All three libraries that haven't needed to listen to George did forget the waiter.",
+        "hypothesis": "There are exactly three libraries that haven't needed to listen to George.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "All eight associations that haven't collaborated induced Barbara's handymen to forget Helen.",
+        "hypothesis": "There are exactly eight associations that haven't collaborated.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "The four peppers that fell had gone bad.",
+        "hypothesis": "There are exactly four peppers that fell.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "The nine adults who ascertained Carmen to dislike a lot of high schools hunt.",
+        "hypothesis": "There are exactly nine adults who ascertained Carmen to dislike a lot of high schools.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "The five dishes that astounded Kenneth chip.",
+        "hypothesis": "There are exactly five dishes that astounded Kenneth.",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both gloves that aren't loosening do fray.",
+        "hypothesis": "There are exactly two gloves that aren't loosening",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both guys who came here departed.",
+        "hypothesis": "There are exactly two guys who came here",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both waiters that have alarmed the cashier urged Lucille's teacher to question all governments.",
+        "hypothesis": "There are exactly two waiters that have alarmed the cashier",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both women who have kissed have revealed who did stand up.",
+        "hypothesis": "There are exactly two women who have kissed",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both drivers that shout do leave Theresa.",
+        "hypothesis": "There are exactly two drivers that shout",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both skateboards that shouldn't shatter are rolling.",
+        "hypothesis": "There are exactly two skateboards that shouldn't shatter",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both boys that argue are muttering.",
+        "hypothesis": "There are exactly two boys that argue",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both waiters that can't move paint.",
+        "hypothesis": "There are exactly two waiters that can't move",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both patients who weren't continuing to listen to Sabrina approached Samantha.",
+        "hypothesis": "There are exactly two patients who weren't continuing to listen to Sabrina",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both mushrooms that haven't charred have blackened.",
+        "hypothesis": "There are exactly two mushrooms that haven't charred",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both governments that weren't failing to benefit are persuading Beth to sell some doors.",
+        "hypothesis": "There are exactly two governments that weren't failing to benefit",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both mouths that worry many hospitals fling open.",
+        "hypothesis": "There are exactly two mouths that worry many hospitals",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both women who hid away have want to work hard.",
+        "hypothesis": "There are exactly two women who hid away",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both actors who noticed Tonya had preferred Becca to come here.",
+        "hypothesis": "There are exactly two actors who noticed Tonya",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both actresses that can't forfeit were pressing the granddaughter of Randolf to come here.",
+        "hypothesis": "There are exactly two actresses that can't forfeit",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both senators who break a bicycle scratched.",
+        "hypothesis": "There are exactly two senators who break a bicycle",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both adults who manage to get a job bought this hill.",
+        "hypothesis": "There are exactly two adults who manage to get a job",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both adults that were appearing do date.",
+        "hypothesis": "There are exactly two adults that were appearing",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both hospitals that have forfeited respect Edward.",
+        "hypothesis": "There are exactly two hospitals that have forfeited",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Both sketches that annoy Alexander were scaring Amanda.",
+        "hypothesis": "There are exactly two sketches that annoy Alexander",
+        "label": "P",
+        "trigger_type": "numeric_determiners",
+        "type": "original"
+    },
+    {
+        "premise": "Music teachers and communities should therefore assess the success of programs on at least three key criteria: Achievementthe scope and depth of what students learn; Participationhow many students benefit from music classes; andImpactwhether participating students are motivated and empowered to continue their musical involvement after moving to the next level.",
+        "hypothesis": "Students will move to the next level in music classes.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    },
+    {
+        "premise": "The tourist remains unchanged, while the natives are forced to change to accommodate tourists.",
+        "hypothesis": "The tourist had not already changed.",
+        "label": "P",
+        "trigger_type": "clefts",
+        "type": "original"
+    },
+    {
+        "premise": "the winds finally dissipated at 4:30 P.M. After ripping up half of Princeton, the winds finally dissipated at 4:30 P.M.",
+        "hypothesis": "The winds ripped up half of Princeton.",
+        "label": "P",
+        "trigger_type": "adverbial_clause",
+        "type": "original"
+    }
+]
